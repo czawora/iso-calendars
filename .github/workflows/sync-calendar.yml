@@ -1,0 +1,63 @@
+name: Sync CAISO Calendar
+
+on:
+  schedule:
+    # Runs daily at 6:00 AM UTC (11 PM PT / 10 PM PT DST)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch CAISO calendar
+        run: python fetch_caiso_calendar.py --output output/caiso.ics
+
+      - name: Create index page
+        run: |
+          cat > output/index.html << 'HTMLEOF'
+          <!DOCTYPE html>
+          <html>
+          <head><title>CAISO Calendar Feed</title></head>
+          <body>
+            <h1>CAISO Calendar Feed</h1>
+            <p>Subscribe to this calendar in Outlook:</p>
+            <p><code>https://YOUR_USERNAME.github.io/caiso-calendar/caiso.ics</code></p>
+            <p><a href="caiso.ics">Download .ics file</a></p>
+          </body>
+          </html>
+          HTMLEOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

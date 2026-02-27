@@ -40,6 +40,12 @@ jobs:
       - name: Fetch PJM calendar
         run: python fetch_pjm_calendar.py --output output/pjm.ics
 
+      - name: Fetch NYISO calendar
+        run: python fetch_nyiso_calendar.py --output output/nyiso.ics
+
+      - name: Fetch ISO-NE calendar
+        run: python fetch_isone_calendar.py --output output/isone.ics
+
       - name: Create index page
         run: |
           cat > output/index.html << 'HTMLEOF'
@@ -56,6 +62,10 @@ jobs:
             <p><a href="miso.ics">miso.ics</a></p>
             <h2>PJM</h2>
             <p><a href="pjm.ics">pjm.ics</a></p>
+            <h2>NYISO</h2>
+            <p><a href="nyiso.ics">nyiso.ics</a></p>
+            <h2>ISO-NE</h2>
+            <p><a href="isone.ics">isone.ics</a></p>
           </body>
           </html>
           HTMLEOF

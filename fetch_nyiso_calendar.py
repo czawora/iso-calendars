@@ -12,6 +12,7 @@ ICS feed URLs:
 
 import re
 import sys
+import time
 import subprocess
 import argparse
 from datetime import datetime, timezone
@@ -33,8 +34,11 @@ NYISO_ICS_FEEDS = {
 def fetch_ics_feed(url: str) -> str | None:
     """Download a NYISO ICS feed."""
     result = subprocess.run(
-        ["curl", "-s", "-L", url],
-        capture_output=True, text=True, timeout=60,
+        ["curl", "-s", "-L",
+         "-H", "User-Agent: Mozilla/5.0 (compatible; CalendarSync/1.0)",
+         "-H", "Accept: text/calendar, */*",
+         url],
+        capture_output=True, text=True, timeout=120,
     )
     if result.returncode != 0 or "BEGIN:VCALENDAR" not in result.stdout:
         return None
@@ -139,7 +143,9 @@ def main():
     all_vevents = []
     vtimezone = None
 
-    for name, url in NYISO_ICS_FEEDS.items():
+    for i, (name, url) in enumerate(NYISO_ICS_FEEDS.items()):
+        if i > 0:
+            time.sleep(2)
         print(f"Fetching {name}...")
         ics_text = fetch_ics_feed(url)
         if not ics_text:

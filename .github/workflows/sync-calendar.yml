@@ -42,6 +42,7 @@ jobs:
 
       - name: Fetch NYISO calendar
         run: python fetch_nyiso_calendar.py --output output/nyiso.ics
+        continue-on-error: true
 
       - name: Fetch ISO-NE calendar
         run: python fetch_isone_calendar.py --output output/isone.ics

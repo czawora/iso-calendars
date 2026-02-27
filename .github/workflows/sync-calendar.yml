@@ -34,6 +34,12 @@ jobs:
       - name: Fetch SPP calendar
         run: python fetch_spp_calendar.py --output output/spp.ics
 
+      - name: Fetch MISO calendar
+        run: python fetch_miso_calendar.py --output output/miso.ics
+
+      - name: Fetch PJM calendar
+        run: python fetch_pjm_calendar.py --output output/pjm.ics
+
       - name: Create index page
         run: |
           cat > output/index.html << 'HTMLEOF'
@@ -46,6 +52,10 @@ jobs:
             <p><a href="caiso.ics">caiso.ics</a></p>
             <h2>SPP</h2>
             <p><a href="spp.ics">spp.ics</a></p>
+            <h2>MISO</h2>
+            <p><a href="miso.ics">miso.ics</a></p>
+            <h2>PJM</h2>
+            <p><a href="pjm.ics">pjm.ics</a></p>
           </body>
           </html>
           HTMLEOF

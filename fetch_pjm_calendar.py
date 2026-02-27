@@ -10,9 +10,11 @@ ICS feed URLs:
   https://www.pjm.com/pjmfiles/calendar/PJM-{category}.ics
 """
 
+import re
 import sys
 import subprocess
 import argparse
+from datetime import datetime, timezone
 from pathlib import Path
 
 CRLF = "\r\n"
@@ -67,6 +69,26 @@ def extract_uid(vevent: str) -> str | None:
     return None
 
 
+def extract_dtstart_date(vevent: str) -> str | None:
+    """Extract the DTSTART date (YYYYMMDD) from a VEVENT block."""
+    for line in vevent.split(CRLF):
+        m = re.match(r"DTSTART[^:]*:(\d{8})", line)
+        if m:
+            return m.group(1)
+    return None
+
+
+def date_range(months_ahead: int = 3):
+    """Return (start, end) as YYYYMMDD strings."""
+    today = datetime.now(timezone.utc).date()
+    start = today.replace(day=1)
+    month = start.month + months_ahead
+    year = start.year + (month - 1) // 12
+    month = (month - 1) % 12 + 1
+    end = start.replace(year=year, month=month)
+    return start.strftime("%Y%m%d"), end.strftime("%Y%m%d")
+
+
 def build_merged_ics(vevents: list[str]) -> str:
     """Wrap VEVENT blocks in a single VCALENDAR."""
     header = CRLF.join([
@@ -85,11 +107,15 @@ def build_merged_ics(vevents: list[str]) -> str:
 
 def main():
     parser = argparse.ArgumentParser(description="Fetch PJM calendar feeds → merged ICS")
+    parser.add_argument("--months", type=int, default=3, help="Months ahead to fetch (default: 3)")
     parser.add_argument("--output", type=str, default=None, help="Output .ics file path")
     args = parser.parse_args()
 
+    start_yyyymmdd, end_yyyymmdd = date_range(args.months)
     output_path = Path(args.output) if args.output else OUTPUT_DIR / "pjm.ics"
     output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    print(f"Date filter: {start_yyyymmdd} to {end_yyyymmdd}")
 
     seen_uids = set()
     all_vevents = []
@@ -105,11 +131,14 @@ def main():
         added = 0
         for ve in vevents:
             uid = extract_uid(ve)
+            dtstart = extract_dtstart_date(ve)
             if uid and uid not in seen_uids:
+                if dtstart and not (start_yyyymmdd <= dtstart < end_yyyymmdd):
+                    continue
                 seen_uids.add(uid)
                 all_vevents.append(ve)
                 added += 1
-        print(f"  {added} events (from {len(vevents)} total, {len(vevents) - added} duplicates skipped)")
+        print(f"  {added} events (from {len(vevents)} total)")
 
     if not all_vevents:
         print("No VEVENTs extracted.")

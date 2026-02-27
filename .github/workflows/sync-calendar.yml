@@ -46,6 +46,9 @@ jobs:
       - name: Fetch ISO-NE calendar
         run: python fetch_isone_calendar.py --output output/isone.ics
 
+      - name: Fetch ERCOT calendar
+        run: python fetch_ercot_calendar.py --output output/ercot.ics
+
       - name: Create index page
         run: |
           cat > output/index.html << 'HTMLEOF'
@@ -66,6 +69,8 @@ jobs:
             <p><a href="nyiso.ics">nyiso.ics</a></p>
             <h2>ISO-NE</h2>
             <p><a href="isone.ics">isone.ics</a></p>
+            <h2>ERCOT</h2>
+            <p><a href="ercot.ics">ercot.ics</a></p>
           </body>
           </html>
           HTMLEOF

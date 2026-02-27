@@ -1,4 +1,4 @@
-name: Sync CAISO Calendar
+name: Sync Calendars
 
 on:
   schedule:
@@ -31,17 +31,21 @@ jobs:
       - name: Fetch CAISO calendar
         run: python fetch_caiso_calendar.py --output output/caiso.ics
 
+      - name: Fetch SPP calendar
+        run: python fetch_spp_calendar.py --output output/spp.ics
+
       - name: Create index page
         run: |
           cat > output/index.html << 'HTMLEOF'
           <!DOCTYPE html>
           <html>
-          <head><title>CAISO Calendar Feed</title></head>
+          <head><title>ISO/RTO Calendar Feeds</title></head>
           <body>
-            <h1>CAISO Calendar Feed</h1>
-            <p>Subscribe to this calendar in Outlook:</p>
-            <p><code>https://YOUR_USERNAME.github.io/caiso-calendar/caiso.ics</code></p>
-            <p><a href="caiso.ics">Download .ics file</a></p>
+            <h1>ISO/RTO Calendar Feeds</h1>
+            <h2>CAISO</h2>
+            <p><a href="caiso.ics">caiso.ics</a></p>
+            <h2>SPP</h2>
+            <p><a href="spp.ics">spp.ics</a></p>
           </body>
           </html>
           HTMLEOF

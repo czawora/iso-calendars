@@ -30,15 +30,19 @@ jobs:
 
       - name: Fetch CAISO calendar
         run: python fetch_caiso_calendar.py --output output/caiso.ics
+        continue-on-error: true
 
       - name: Fetch SPP calendar
         run: python fetch_spp_calendar.py --output output/spp.ics
+        continue-on-error: true
 
       - name: Fetch MISO calendar
         run: python fetch_miso_calendar.py --output output/miso.ics
+        continue-on-error: true
 
       - name: Fetch PJM calendar
         run: python fetch_pjm_calendar.py --output output/pjm.ics
+        continue-on-error: true
 
       - name: Fetch NYISO calendar
         run: python fetch_nyiso_calendar.py --output output/nyiso.ics
@@ -46,9 +50,11 @@ jobs:
 
       - name: Fetch ISO-NE calendar
         run: python fetch_isone_calendar.py --output output/isone.ics
+        continue-on-error: true
 
       - name: Fetch ERCOT calendar
         run: python fetch_ercot_calendar.py --output output/ercot.ics
+        continue-on-error: true
 
       - name: Create index page
         run: |

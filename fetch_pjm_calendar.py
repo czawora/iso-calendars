@@ -35,12 +35,18 @@ PJM_ICS_FEEDS = [
 def fetch_ics_feed(url: str) -> str | None:
     """Download a PJM ICS feed."""
     result = subprocess.run(
-        ["curl", "-s", "-L", url],
-        capture_output=True, text=True, timeout=60,
+        ["curl", "-s", "-L", "-w", "\n%{http_code}",
+         "-H", "User-Agent: Mozilla/5.0 (compatible; CalendarSync/1.0)",
+         "-H", "Accept: text/calendar, */*",
+         url],
+        capture_output=True, text=True, timeout=120,
     )
-    if result.returncode != 0 or "BEGIN:VCALENDAR" not in result.stdout:
+    body = result.stdout.rsplit("\n", 1)[0] if result.stdout else ""
+    status = result.stdout.rsplit("\n", 1)[-1] if result.stdout else "?"
+    if result.returncode != 0 or "BEGIN:VCALENDAR" not in body:
+        print(f"    HTTP {status}, {len(body)} bytes, rc={result.returncode}")
         return None
-    return result.stdout
+    return body
 
 
 def extract_vevents(ics_text: str) -> list[str]:

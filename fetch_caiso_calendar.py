@@ -69,6 +69,34 @@ def extract_vevent(ics_text: str) -> str | None:
     return None
 
 
+def extract_all_vevents(ics_text: str) -> list[str]:
+    """Pull every VEVENT block out of raw ICS text."""
+    lines = ics_text.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+    vevents = []
+    buf = []
+    inside = False
+    for line in lines:
+        if line.strip() == "BEGIN:VEVENT":
+            inside = True
+            buf = [line]
+            continue
+        if inside:
+            buf.append(line)
+            if line.strip() == "END:VEVENT":
+                vevents.append(CRLF.join(buf))
+                inside = False
+                buf = []
+    return vevents
+
+
+def vevent_uid(vevent: str) -> str | None:
+    """Extract the UID line value from a VEVENT block."""
+    for line in vevent.split(CRLF):
+        if line.startswith("UID:"):
+            return line[len("UID:"):].strip()
+    return None
+
+
 def build_merged_ics(vevents: list[str]) -> str:
     """Wrap a list of VEVENT blocks in a single VCALENDAR."""
     header = CRLF.join([
@@ -101,12 +129,23 @@ def main():
         "User-Agent": "Mozilla/5.0 (CAISO-Calendar-Sync)"
     })
 
+    # Seed with any events already on disk so past events aren't lost
+    # when the CAISO 3-month window rolls forward.
+    by_uid: dict[str, str] = {}
+    if output_path.exists():
+        existing = output_path.read_text(encoding="utf-8")
+        for ve in extract_all_vevents(existing):
+            uid = vevent_uid(ve)
+            if uid:
+                by_uid[uid] = ve
+        print(f"Loaded {len(by_uid)} existing events from {output_path}")
+
     events = fetch_event_ids(session, start, end)
-    if not events:
+    if not events and not by_uid:
         print("No events found.")
         sys.exit(0)
 
-    vevents = []
+    added = updated = 0
     for i, event in enumerate(events, 1):
         eid = event["id"]
         title = event.get("title", "Unknown")
@@ -115,19 +154,27 @@ def main():
         if not ics_text:
             continue
         vevent = extract_vevent(ics_text)
-        if vevent:
-            vevents.append(vevent)
+        if not vevent:
+            continue
+        uid = vevent_uid(vevent)
+        if not uid:
+            continue
+        if uid in by_uid:
+            updated += 1
+        else:
+            added += 1
+        by_uid[uid] = vevent
         # Be polite to the server
         if i % 10 == 0:
             time.sleep(0.5)
 
-    if not vevents:
+    if not by_uid:
         print("No VEVENTs extracted.")
         sys.exit(1)
 
-    merged = build_merged_ics(vevents)
+    merged = build_merged_ics(list(by_uid.values()))
     output_path.write_text(merged, encoding="utf-8")
-    print(f"\nWrote {len(vevents)} events to {output_path}")
+    print(f"\nWrote {len(by_uid)} events to {output_path} ({added} new, {updated} refreshed)")
 
 
 if __name__ == "__main__":

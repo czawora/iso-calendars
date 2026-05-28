@@ -28,6 +28,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Seed CAISO from currently published feed
+        run: |
+          mkdir -p output
+          curl -fsSL -o output/caiso.ics \
+            https://czawora.github.io/iso-calendars/caiso.ics \
+            || echo "No published caiso.ics yet — starting fresh."
+        continue-on-error: true
+
       - name: Fetch CAISO calendar
         run: python fetch_caiso_calendar.py --output output/caiso.ics
         continue-on-error: true

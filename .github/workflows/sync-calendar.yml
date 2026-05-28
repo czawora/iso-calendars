@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allow manual trigger
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -28,13 +28,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Seed CAISO from currently published feed
-        run: |
-          mkdir -p output
-          curl -fsSL -o output/caiso.ics \
-            https://czawora.github.io/iso-calendars/caiso.ics \
-            || echo "No published caiso.ics yet — starting fresh."
-        continue-on-error: true
+      - name: Ensure output dir exists
+        run: mkdir -p output
 
       - name: Fetch CAISO calendar
         run: python fetch_caiso_calendar.py --output output/caiso.ics
@@ -89,6 +84,21 @@ jobs:
           </body>
           </html>
           HTMLEOF
+
+      - name: Record sync timestamp
+        run: date -u '+%Y-%m-%dT%H:%M:%SZ' > output/last_sync.txt
+
+      - name: Commit refreshed feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily calendar sync $(date -u '+%Y-%m-%d')"
+            git push
+          fi
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -6,8 +6,24 @@ METHOD:PUBLISH
 X-WR-CALNAME:ISO-NE Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+UID:164298@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T115048Z
+SUMMARY:ISO-NE Morning Report Published on www.iso-ne.com
+DESCRIPTION:The ISO-NE Morning Report has been published successfully\nhttps://www.iso-ne.com/event-details?eventId=164298
+URL:https://www.iso-ne.com/event-details?eventId=164298
+END:VEVENT
+BEGIN:VEVENT
+UID:164299@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T125000Z
+SUMMARY:The Q2 2026 Critical Path Schedule (CPS) update for non-commercial resources is now due
+DESCRIPTION:Pursuant to the ISO New England Inc. Transmission\, Markets\, and Services Tariff Section III.13.3\, the Q2 2026 CPS update is now due for those non-commercial resources that either cleared in a Forward Capacity Auction or requested monitoring of their CPS. Please submit the update under the Monitored CPS tab in the Forward Capacity Tracking System (FCTS) for all applicable Capacity Commitment Periods as appropriate. The update should be submitted by the end of Wednesday\, July 8\, 2026 (by 23:59).\n\nPursuant to Section III.13.3.2.2 of the ISO New England Inc. Transmission\, Markets\, and Services Tariff\, " for each critical path schedule milestone achieved since the submission of the previous critical path schedule report\, the Project Sponsor must include in the critical path schedule report documentation demonstrating that the milestone has been achieved by the date indicated".  This section of the ISO New England Inc. Transmission\, Markets\, and Services Tariff also provides detailed examples of the type of documentation that can be included to demonstrate completion of each milestone.\n\nReview the Critical Path Schedule Report Training presentation here for guidance on submitting the CPS report in FCTS.\n\nIf you experience any technical issues while submitting the report or if you have any questions regarding this message\, please contact the Participant Support and Solutions Team by submitting a case via Ask ISO\, emailing AskISO@iso-ne.com\, or by phone at (413) 540-4220.\nhttps://www.iso-ne.com/event-details?eventId=164299
+URL:https://www.iso-ne.com/event-details?eventId=164299
+END:VEVENT
+BEGIN:VEVENT
 UID:160148@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260701T133000Z
 DTEND:20260701T203000Z
 SUMMARY:NEPOOL Power Supply Planning Committee Meeting
@@ -16,8 +32,104 @@ DESCRIPTION:NEPOOL meetings\, while not public\, are open to all NEPOOL Particip
 URL:https://www.iso-ne.com/event-details?eventId=160148
 END:VEVENT
 BEGIN:VEVENT
+UID:164300@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T144416Z
+SUMMARY:ISO-NE Forecast Capacity Analysis Report Published on www.iso-ne.com
+DESCRIPTION:The ISO-NE Forecast Capacity Analysis Report has been published successfully.\nhttps://www.iso-ne.com/event-details?eventId=164300
+URL:https://www.iso-ne.com/event-details?eventId=164300
+END:VEVENT
+BEGIN:VEVENT
+UID:164301@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T155030Z
+SUMMARY:ISO-NE Morning Report Published on www.iso-ne.com
+DESCRIPTION:The ISO-NE Morning Report has been published successfully\nhttps://www.iso-ne.com/event-details?eventId=164301
+URL:https://www.iso-ne.com/event-details?eventId=164301
+END:VEVENT
+BEGIN:VEVENT
+UID:164302@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T165700Z
+SUMMARY:Day Ahead Market Results for  20260702  are now available
+DESCRIPTION:Day Ahead Market Results for 20260702 are now available\nhttps://www.iso-ne.com/event-details?eventId=164302
+URL:https://www.iso-ne.com/event-details?eventId=164302
+END:VEVENT
+BEGIN:VEVENT
+UID:164303@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T170737Z
+SUMMARY:Final Regulation Clearing Prices for 20260630 are now available
+DESCRIPTION:Final Regulation Clearing Prices for 20260630 are now available\nhttps://www.iso-ne.com/event-details?eventId=164303
+URL:https://www.iso-ne.com/event-details?eventId=164303
+END:VEVENT
+BEGIN:VEVENT
+UID:164304@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T170751Z
+SUMMARY:Final Reserve Zone Prices and Designation for 20260630 are now available
+DESCRIPTION:Final Reserve Zone Prices and Designation for 20260630 are now available\nhttps://www.iso-ne.com/event-details?eventId=164304
+URL:https://www.iso-ne.com/event-details?eventId=164304
+END:VEVENT
+BEGIN:VEVENT
+UID:164305@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T170910Z
+SUMMARY:Final Real Time Prices for  20260630 are now available
+DESCRIPTION:Final Real Time Prices for  20260630 are now available\nhttps://www.iso-ne.com/event-details?eventId=164305
+URL:https://www.iso-ne.com/event-details?eventId=164305
+END:VEVENT
+BEGIN:VEVENT
+UID:164306@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T195044Z
+SUMMARY:ISO-NE Forecast Capacity Analysis Report Published on www.iso-ne.com
+DESCRIPTION:The ISO-NE Forecast Capacity Analysis Report has been published successfully.\nhttps://www.iso-ne.com/event-details?eventId=164306
+URL:https://www.iso-ne.com/event-details?eventId=164306
+END:VEVENT
+BEGIN:VEVENT
+UID:164307@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T195315Z
+SUMMARY:ISO-NE Next Day Operational Capacity Report Published on www.iso-ne.com
+DESCRIPTION:The ISO-NE Next Day Operational Capacity Report has been published successfully\nhttps://www.iso-ne.com/event-details?eventId=164307
+URL:https://www.iso-ne.com/event-details?eventId=164307
+END:VEVENT
+BEGIN:VEVENT
+UID:164308@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T210000Z
+SUMMARY:M/LCC 2 Implemented on Wednesday\, July 01\, 2026 at 17:00 in ALL OF NEW ENGLAND
+DESCRIPTION:ISO New England is implementing Master Local Control Center Procedure No. 2 (M/LCC 2)\, Abnormal Conditions Alert\, on Wednesday\, July 01\, 2026 at 17:00 in ALL OF NEW ENGLAND due to Severe Weather.  Master Local Control Center Procedure No. 2 requests that you will not engage in activities that may jeopardize the availability of resources or transmission under your control.\nhttps://www.iso-ne.com/event-details?eventId=164308
+URL:https://www.iso-ne.com/event-details?eventId=164308
+END:VEVENT
+BEGIN:VEVENT
+UID:164309@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T214500Z
+SUMMARY:Curtailment of External Transactions START 07/01/2026\, 17:45
+DESCRIPTION:ISO-NE has begun curtailing external transactions as defined in OP-9 in order to mitigate an existing or anticipated Operating Reserve deficiency starting at 07/01/2026\, 17:45\nhttps://www.iso-ne.com/event-details?eventId=164309
+URL:https://www.iso-ne.com/event-details?eventId=164309
+END:VEVENT
+BEGIN:VEVENT
+UID:164310@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260701T234500Z
+SUMMARY:Curtailment of External Transactions STOP 07/01/2026\, 19:45
+DESCRIPTION:ISO-NE is no longer curtailing external transactions as defined in OP-9 as of 07/01/2026\, 19:45\nhttps://www.iso-ne.com/event-details?eventId=164310
+URL:https://www.iso-ne.com/event-details?eventId=164310
+END:VEVENT
+BEGIN:VEVENT
+UID:164311@iso-ne.com
+DTSTAMP:20260702T091817Z
+DTSTART:20260702T000633Z
+SUMMARY:ISO-NE Forecast Capacity Analysis Report Published on www.iso-ne.com
+DESCRIPTION:The ISO-NE Forecast Capacity Analysis Report has been published successfully.\nhttps://www.iso-ne.com/event-details?eventId=164311
+URL:https://www.iso-ne.com/event-details?eventId=164311
+END:VEVENT
+BEGIN:VEVENT
 UID:161790@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260703T040000Z
 DTEND:20260704T035900Z
 SUMMARY:Independence Day
@@ -26,7 +138,7 @@ URL:https://www.iso-ne.com/event-details?eventId=161790
 END:VEVENT
 BEGIN:VEVENT
 UID:160098@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260707T133000Z
 DTEND:20260707T203000Z
 SUMMARY:NEPOOL Markets Committee Summer Meeting
@@ -36,7 +148,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160098
 END:VEVENT
 BEGIN:VEVENT
 UID:160099@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260708T133000Z
 DTEND:20260708T203000Z
 SUMMARY:NEPOOL Markets Committee Summer Meeting
@@ -46,7 +158,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160099
 END:VEVENT
 BEGIN:VEVENT
 UID:160100@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260709T133000Z
 DTEND:20260709T203000Z
 SUMMARY:NEPOOL Markets Committee Summer Meeting
@@ -56,7 +168,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160100
 END:VEVENT
 BEGIN:VEVENT
 UID:160352@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260713T140000Z
 SUMMARY:NEPOOL Membership Subcommittee Meeting
 LOCATION:Zoom
@@ -65,7 +177,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160352
 END:VEVENT
 BEGIN:VEVENT
 UID:161677@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260716T133000Z
 DTEND:20260716T150000Z
 SUMMARY:Joint NEPOOL Reliability and Transmission Committee Meeting
@@ -75,7 +187,7 @@ URL:https://www.iso-ne.com/event-details?eventId=161677
 END:VEVENT
 BEGIN:VEVENT
 UID:160130@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260716T150000Z
 DTEND:20260716T203000Z
 SUMMARY:NEPOOL Transmission Committee Meeting
@@ -85,7 +197,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160130
 END:VEVENT
 BEGIN:VEVENT
 UID:160992@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260717T140000Z
 DTEND:20260717T160000Z
 SUMMARY:NEPOOL Budget and Finance Subcommittee
@@ -95,7 +207,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160992
 END:VEVENT
 BEGIN:VEVENT
 UID:163991@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260721T133000Z
 DTEND:20260721T203000Z
 SUMMARY:NEPOOL Markets Committee Summer Meeting Overflow Hold
@@ -105,7 +217,7 @@ URL:https://www.iso-ne.com/event-details?eventId=163991
 END:VEVENT
 BEGIN:VEVENT
 UID:160117@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260723T133000Z
 DTEND:20260723T203000Z
 SUMMARY:NEPOOL Reliability Committee Meeting
@@ -115,7 +227,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160117
 END:VEVENT
 BEGIN:VEVENT
 UID:160141@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260728T130000Z
 DTEND:20260728T203000Z
 SUMMARY:Planning Advisory Committee Meeting
@@ -125,17 +237,17 @@ URL:https://www.iso-ne.com/event-details?eventId=160141
 END:VEVENT
 BEGIN:VEVENT
 UID:160154@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260729T133000Z
 DTEND:20260729T160000Z
-SUMMARY:NEPOOL Emerging Technologies Working Group Meeting
+SUMMARY:[CANCELLED] NEPOOL Emerging Technologies Working Group Meeting
 LOCATION:WebEx
-DESCRIPTION:NEPOOL meetings\, while not public\, are open to all NEPOOL Participants\, their authorized representatives and\, except as otherwise limited for discussions in executive session\, consumer advocates\, federal and state officials and guests whose attendance has been cleared with the Committee Chair. All those in attendance or participating\, either in person or by phone\, are required to identify themselves and their affiliation at the meeting. Official records and minutes of meetings are posted publicly. No statements made in NEPOOL meetings are to be quoted or published publicly.\n\nWebEx Meeting Calendar\n\nNote: If you wish to dial in via telephone\, please reach out to Peter Asarese for connection details prior to the meeting start date.\n\nFor all other meeting-related inquiries\, please contact the relevant committee secretary listed below.\n\nAdd to My Calendar\nContact: Jasleen Singh (jsingh@iso-ne.com)\nhttps://www.iso-ne.com/event-details?eventId=160154
+DESCRIPTION:** CANCELLED **\nNEPOOL meetings\, while not public\, are open to all NEPOOL Participants\, their authorized representatives and\, except as otherwise limited for discussions in executive session\, consumer advocates\, federal and state officials and guests whose attendance has been cleared with the Committee Chair. All those in attendance or participating\, either in person or by phone\, are required to identify themselves and their affiliation at the meeting. Official records and minutes of meetings are posted publicly. No statements made in NEPOOL meetings are to be quoted or published publicly.\n\nWebEx Meeting Calendar\n\nNote: If you wish to dial in via telephone\, please reach out to Peter Asarese for connection details prior to the meeting start date.\n\nFor all other meeting-related inquiries\, please contact the relevant committee secretary listed below.\n\nAdd to My Calendar\nContact: Jasleen Singh (jsingh@iso-ne.com)\nhttps://www.iso-ne.com/event-details?eventId=160154
 URL:https://www.iso-ne.com/event-details?eventId=160154
 END:VEVENT
 BEGIN:VEVENT
 UID:160081@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260806T140000Z
 DTEND:20260806T183000Z
 SUMMARY:NEPOOL Participants Committee Meeting
@@ -145,7 +257,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160081
 END:VEVENT
 BEGIN:VEVENT
 UID:160993@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260807T140000Z
 DTEND:20260807T160000Z
 SUMMARY:NEPOOL Budget and Finance Subcommittee
@@ -155,7 +267,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160993
 END:VEVENT
 BEGIN:VEVENT
 UID:160353@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260810T140000Z
 SUMMARY:NEPOOL Membership Subcommittee Meeting
 LOCATION:Zoom
@@ -164,7 +276,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160353
 END:VEVENT
 BEGIN:VEVENT
 UID:160101@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260811T133000Z
 DTEND:20260811T203000Z
 SUMMARY:NEPOOL Markets Committee Meeting
@@ -174,7 +286,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160101
 END:VEVENT
 BEGIN:VEVENT
 UID:160102@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260812T133000Z
 DTEND:20260812T203000Z
 SUMMARY:NEPOOL Markets Committee Meeting
@@ -184,7 +296,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160102
 END:VEVENT
 BEGIN:VEVENT
 UID:163988@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260813T133000Z
 DTEND:20260813T203000Z
 SUMMARY:NEPOOL Markets Committee Meeting
@@ -194,7 +306,7 @@ URL:https://www.iso-ne.com/event-details?eventId=163988
 END:VEVENT
 BEGIN:VEVENT
 UID:160122@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260818T130000Z
 DTEND:20260818T203000Z
 SUMMARY:NEPOOL Reliability & Transmission Committee Summer Meeting
@@ -204,7 +316,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160122
 END:VEVENT
 BEGIN:VEVENT
 UID:160123@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260819T130000Z
 DTEND:20260819T203000Z
 SUMMARY:NEPOOL Reliability & Transmission Committee Summer Meeting
@@ -214,7 +326,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160123
 END:VEVENT
 BEGIN:VEVENT
 UID:160994@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260825T140000Z
 DTEND:20260825T160000Z
 SUMMARY:NEPOOL Budget and Finance Subcommittee
@@ -224,7 +336,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160994
 END:VEVENT
 BEGIN:VEVENT
 UID:160142@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260826T130000Z
 DTEND:20260826T203000Z
 SUMMARY:Planning Advisory Committee Meeting
@@ -234,7 +346,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160142
 END:VEVENT
 BEGIN:VEVENT
 UID:160149@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260827T133000Z
 DTEND:20260827T203000Z
 SUMMARY:NEPOOL Power Supply Planning Committee Meeting
@@ -244,7 +356,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160149
 END:VEVENT
 BEGIN:VEVENT
 UID:161480@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260902T140000Z
 DTEND:20260902T150000Z
 SUMMARY:Webinar: Quarterly Settlements Forum
@@ -254,7 +366,7 @@ URL:https://www.iso-ne.com/event-details?eventId=161480
 END:VEVENT
 BEGIN:VEVENT
 UID:160082@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260903T140000Z
 DTEND:20260903T183000Z
 SUMMARY:NEPOOL Participants Committee Meeting
@@ -264,7 +376,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160082
 END:VEVENT
 BEGIN:VEVENT
 UID:161791@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260907T040000Z
 DTEND:20260908T035900Z
 SUMMARY:Labor Day
@@ -273,7 +385,7 @@ URL:https://www.iso-ne.com/event-details?eventId=161791
 END:VEVENT
 BEGIN:VEVENT
 UID:163989@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260908T133000Z
 DTEND:20260908T203000Z
 SUMMARY:NEPOOL Markets Committee Meeting
@@ -283,7 +395,7 @@ URL:https://www.iso-ne.com/event-details?eventId=163989
 END:VEVENT
 BEGIN:VEVENT
 UID:160103@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260909T133000Z
 DTEND:20260909T203000Z
 SUMMARY:NEPOOL Markets Committee Meeting
@@ -293,7 +405,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160103
 END:VEVENT
 BEGIN:VEVENT
 UID:160104@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260910T133000Z
 DTEND:20260910T203000Z
 SUMMARY:NEPOOL Markets Committee Meeting
@@ -303,7 +415,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160104
 END:VEVENT
 BEGIN:VEVENT
 UID:160354@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260914T140000Z
 SUMMARY:NEPOOL Membership Subcommittee Meeting
 LOCATION:Zoom
@@ -312,7 +424,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160354
 END:VEVENT
 BEGIN:VEVENT
 UID:160373@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260915T120000Z
 DTEND:20260915T210000Z
 SUMMARY:ISO 101: We are ISO New England
@@ -322,7 +434,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160373
 END:VEVENT
 BEGIN:VEVENT
 UID:160131@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260915T133000Z
 DTEND:20260915T203000Z
 SUMMARY:NEPOOL Transmission Committee Meeting
@@ -332,7 +444,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160131
 END:VEVENT
 BEGIN:VEVENT
 UID:160118@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260916T133000Z
 DTEND:20260916T203000Z
 SUMMARY:NEPOOL Reliability Committee Meeting
@@ -342,7 +454,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160118
 END:VEVENT
 BEGIN:VEVENT
 UID:160150@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260917T133000Z
 DTEND:20260917T203000Z
 SUMMARY:NEPOOL Power Supply Planning Committee Meeting
@@ -352,7 +464,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160150
 END:VEVENT
 BEGIN:VEVENT
 UID:160995@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260922T140000Z
 DTEND:20260922T160000Z
 SUMMARY:NEPOOL Budget and Finance Subcommittee
@@ -362,7 +474,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160995
 END:VEVENT
 BEGIN:VEVENT
 UID:160143@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260923T130000Z
 DTEND:20260923T203000Z
 SUMMARY:Planning Advisory Committee Meeting
@@ -372,7 +484,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160143
 END:VEVENT
 BEGIN:VEVENT
 UID:160191@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260924T133000Z
 DTEND:20260924T153000Z
 SUMMARY:Environmental Advisory Group Meeting
@@ -382,7 +494,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160191
 END:VEVENT
 BEGIN:VEVENT
 UID:159983@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260924T160000Z
 DTEND:20260924T193000Z
 SUMMARY:Consumer Liaison Group Meeting
@@ -392,7 +504,7 @@ URL:https://www.iso-ne.com/event-details?eventId=159983
 END:VEVENT
 BEGIN:VEVENT
 UID:160220@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260925T133000Z
 DTEND:20260925T163000Z
 SUMMARY:NEPOOL Load Forecast Committee (LFC) Meeting
@@ -402,7 +514,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160220
 END:VEVENT
 BEGIN:VEVENT
 UID:160209@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260925T140000Z
 DTEND:20260925T160000Z
 SUMMARY:NEPOOL Meter Reader Working Group Meeting
@@ -412,7 +524,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160209
 END:VEVENT
 BEGIN:VEVENT
 UID:160391@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260928T133000Z
 DTEND:20260928T160000Z
 SUMMARY:NEPOOL Generation Sector Meeting with ISO New England
@@ -422,7 +534,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160391
 END:VEVENT
 BEGIN:VEVENT
 UID:160393@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260928T170000Z
 DTEND:20260928T193000Z
 SUMMARY:NEPOOL Supplier Sector Meeting with ISO New England
@@ -432,7 +544,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160393
 END:VEVENT
 BEGIN:VEVENT
 UID:160401@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260929T133000Z
 DTEND:20260929T160000Z
 SUMMARY:NEPOOL Transmission Sector Meeting with ISO New England
@@ -442,7 +554,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160401
 END:VEVENT
 BEGIN:VEVENT
 UID:160395@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20260929T170000Z
 DTEND:20260929T193000Z
 SUMMARY:NEPOOL Publicly Owned Entity Sector Meeting with ISO New England
@@ -452,7 +564,7 @@ URL:https://www.iso-ne.com/event-details?eventId=160395
 END:VEVENT
 BEGIN:VEVENT
 UID:160083@iso-ne.com
-DTSTAMP:20260701T095446Z
+DTSTAMP:20260702T091817Z
 DTSTART:20261001T140000Z
 DTEND:20261001T183000Z
 SUMMARY:NEPOOL Participants Committee Meeting

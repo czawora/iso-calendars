@@ -2852,4 +2852,13 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body lang="EN-US" link="#0072BC" vlink="#035
 URL:https://www.caiso.com/meetings-events/calendar/storage-design-and-modeling-sep-16-2026-0900-am
 DTSTAMP:20260723T175300Z
 END:VEVENT
+BEGIN:VEVENT
+UID:239561@caiso.com
+DTSTART;VALUE=DATE:20260805
+SUMMARY:Comments due - Resource Adequacy Modeling and Program Design
+DESCRIPTION:Please use the Commenting Tool to submit comments on this topic to the California ISO.\n\nChristina Guimera, cguimera@caiso.com \n\nView more information on this event and its related documents: https://www.caiso.com/meetings-events/calendar/comments-due-resource-adequacy-modeling-and-program-design-aug-05-2026-1200-am
+X-ALT-DESC;FMTTYPE=text/html:<html><body lang="EN-US" link="#0072BC" vlink="#03519A" style="font-family: system-ui, sans-serif;" ><div><p>Please use the <a target="_blank" href="https://stakeholdercenter.caiso.com/Account/Login?ReturnUrl=/Comments/MyOrgComments" rel="noreferrer noopener">Commenting Tool</a> to submit comments on this topic to the California ISO.</p></div><div><p>Christina Guimera, <a href="mailto:cguimera@caiso.com">cguimera@caiso.com</a></p></div><div><p><a href="https://www.caiso.com/meetings-events/calendar/comments-due-resource-adequacy-modeling-and-program-design-aug-05-2026-1200-am" target="_blank">View more information on this event and its related documents.</a></p></div></body></html>
+URL:https://www.caiso.com/meetings-events/calendar/comments-due-resource-adequacy-modeling-and-program-design-aug-05-2026-1200-am
+DTSTAMP:20260724T214000Z
+END:VEVENT
 END:VCALENDAR

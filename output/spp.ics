@@ -23,421 +23,8 @@ TZNAME:CDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:552895@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260701T110000
-DTEND;TZID=America/Chicago:20260702T000000
-SUMMARY:MGHGTF Net Conference
-DESCRIPTION:Markets+ Greenhouse Gas Task Force Net Conference 20260701
-URL:https://www.spp.org/calendar-list/marketsplus-greenhouse-gas-task-force-net-conference-20260701/
-END:VEVENT
-BEGIN:VEVENT
-UID:592306@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260702T143000
-DTEND;TZID=America/Chicago:20260703T000000
-SUMMARY:SPP Large Load Processes Q&A Net Conference 
-DESCRIPTION:SPP Large Load Processes Q&A Net Conference 20260702
-URL:https://www.spp.org/calendar-list/spp-large-load-processes-qa-net-conference-20260702/
-END:VEVENT
-BEGIN:VEVENT
-UID:414451@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260703T000000
-DTEND;TZID=America/Chicago:20260704T000000
-SUMMARY:Independence Day (Observed)
-DESCRIPTION:Independence Day
-URL:https://www.spp.org/calendar-list/independence-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:587311@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260706T090000
-DTEND;TZID=America/Chicago:20260707T000000
-SUMMARY:AARITF Net Conference
-DESCRIPTION:Ambient Adjusted Rating Implementation Task Force Net Conference 20260706
-URL:https://www.spp.org/calendar-list/ambient-adjusted-rating-implementation-task-force-net-conference-20260706/
-END:VEVENT
-BEGIN:VEVENT
-UID:601186@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260706T090000
-DTEND;TZID=America/Chicago:20260707T000000
-SUMMARY:CARE Team Net Conference
-DESCRIPTION:Cost Control and Allocation Review & Evaluation Team Net Conference 20260706
-URL:https://www.spp.org/calendar-list/cost-control-and-allocation-review-evaluation-team-net-conference-20260706/
-END:VEVENT
-BEGIN:VEVENT
-UID:550263@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260707T140000
-DTEND;TZID=America/Chicago:20260708T000000
-SUMMARY:MCUF Net Conference
-DESCRIPTION:Markets+ Change User Forum Net Conference 20260707
-URL:https://www.spp.org/calendar-list/marketsplus-change-user-forum-net-conference-20260707/
-END:VEVENT
-BEGIN:VEVENT
-UID:598330@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260707T110000
-DTEND;TZID=America/Chicago:20260708T000000
-SUMMARY:Markets+ Interim Governance Task Force Meeting 20260707
-URL:https://www.spp.org/calendar-list/marketsplus-interim-governance-task-force-meeting-20260707/
-END:VEVENT
-BEGIN:VEVENT
-UID:544873@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260708T130000
-DTEND;TZID=America/Chicago:20260709T000000
-SUMMARY:PCWG Net Conference
-DESCRIPTION:Project Cost Working Group Net Conference 20260708
-URL:https://www.spp.org/calendar-list/project-cost-working-group-net-conference-20260708/
-END:VEVENT
-BEGIN:VEVENT
-UID:540882@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260708T090000
-DTEND;TZID=America/Chicago:20260709T000000
-SUMMARY:OC Meeting 20260708
-DESCRIPTION:Oversight Committee Meeting 20260708
-URL:https://www.spp.org/calendar-list/oversight-committee-meeting-20260708/
-END:VEVENT
-BEGIN:VEVENT
-UID:562981@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260708T090000
-DTEND;TZID=America/Chicago:20260709T000000
-SUMMARY:CAWG Net Conference
-DESCRIPTION:Cost Allocation Working Group Net Conference 20260708
-URL:https://www.spp.org/calendar-list/cost-allocation-working-group-net-conference-20260708/
-END:VEVENT
-BEGIN:VEVENT
-UID:551791@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260708T110000
-DTEND;TZID=America/Chicago:20260710T000000
-SUMMARY:MDWG Net Conference
-DESCRIPTION:Markets+ Design Working Group Net Conference 20260708-09
-URL:https://www.spp.org/calendar-list/marketsplus-design-working-group-net-conference-20260708-09/
-END:VEVENT
-BEGIN:VEVENT
-UID:541067@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260709T130000
-DTEND;TZID=America/Chicago:20260710T000000
-SUMMARY:HRC Meeting 20260709
-DESCRIPTION:Human Resources Committee Meeting 20260709
-URL:https://www.spp.org/calendar-list/human-resources-committee-meeting-20260709/
-END:VEVENT
-BEGIN:VEVENT
-UID:553292@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260709T083000
-DTEND;TZID=America/Chicago:20260710T000000
-SUMMARY:ORWG Net Conference
-DESCRIPTION:Operating Reliability Working Group Net Conference 20260709
-URL:https://www.spp.org/calendar-list/operating-reliability-working-group-net-conference-20260709/
-END:VEVENT
-BEGIN:VEVENT
-UID:548029@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260709T130000
-DTEND;TZID=America/Chicago:20260710T000000
-SUMMARY:SUF Net Conference 
-DESCRIPTION:Settlements User Forum Net Conference 20260709
-URL:https://www.spp.org/calendar-list/settlements-user-forum-net-conference-20260709/
-END:VEVENT
-BEGIN:VEVENT
-UID:561563@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260710T120000
-DTEND;TZID=America/Chicago:20260711T000000
-SUMMARY:MSWG Net Conference
-DESCRIPTION:Markets+ Seams Working Group Net Conference 20260710
-URL:https://www.spp.org/calendar-list/marketsplus-seams-working-group-net-conference-20260710/
-END:VEVENT
-BEGIN:VEVENT
-UID:559294@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260710T090000
-DTEND;TZID=America/Chicago:20260711T000000
-SUMMARY:SAG Net Conference
-DESCRIPTION:Seams Advisory Group Net Conference 20260710
-URL:https://www.spp.org/calendar-list/seams-advisory-group-net-conference-20260710/
-END:VEVENT
-BEGIN:VEVENT
-UID:531655@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260713T000000
-DTEND;TZID=America/Chicago:20260717T000000
-SUMMARY: Markets+ Level 2 Topical Training
-DESCRIPTION:Markets+ Level 2 Topical Training 20250713-16
-URL:https://www.spp.org/calendar-list/marketsplus-level-2-topical-training-20250713-16/
-END:VEVENT
-BEGIN:VEVENT
-UID:594390@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260714T133000
-DTEND;TZID=America/Chicago:20260715T000000
-SUMMARY:TATETF Net Conference
-DESCRIPTION:Transmission Analysis & Technical Evaluation Task Force Net Conference 20260714
-URL:https://www.spp.org/calendar-list/transmission-analysis-technical-evaluation-task-force-net-conference-20260714/
-END:VEVENT
-BEGIN:VEVENT
-UID:542160@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260714T080000
-DTEND;TZID=America/Chicago:20260716T000000
-SUMMARY:MOPC Meeting 20260714-15
-DESCRIPTION:Markets and Operations Policy Committee Meeting 20260714-15
-LOCATION:Oklahoma City\, Oklahoma\, Oklahoma City\, Oklahoma
-URL:https://www.spp.org/calendar-list/markets-and-operations-policy-committee-meeting-20260714-15/
-END:VEVENT
-BEGIN:VEVENT
-UID:542173@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260715T100000
-DTEND;TZID=America/Chicago:20260716T000000
-SUMMARY:SPC Meeting 20260715
-DESCRIPTION:Strategic Planning Committee Meeting 20260715
-LOCATION:Oklahoma City\, Oklahoma\, Oklahoma City\, Oklahoma
-URL:https://www.spp.org/calendar-list/strategic-planning-committee-meeting-20260715/
-END:VEVENT
-BEGIN:VEVENT
-UID:545219@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260716T133000
-DTEND;TZID=America/Chicago:20260717T000000
-SUMMARY:CUF Net Conference
-DESCRIPTION:Change User Forum Net Conference 20260716
-URL:https://www.spp.org/calendar-list/change-user-forum-net-conference-20260716/
-END:VEVENT
-BEGIN:VEVENT
-UID:580629@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260716T100000
-DTEND;TZID=America/Chicago:20260717T000000
-SUMMARY:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration
-DESCRIPTION:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration 20260716
-URL:https://www.spp.org/calendar-list/touch-point-meeting-lep-connectivity-aar-exchange-integration-20260716/
-END:VEVENT
-BEGIN:VEVENT
-UID:566939@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260716T130000
-DTEND;TZID=America/Chicago:20260717T000000
-SUMMARY:FC Meeting
-DESCRIPTION:Finance Committee Meeting 20260716
-LOCATION:None\, None
-URL:https://www.spp.org/calendar-list/finance-committee-meeting-20260716/
-END:VEVENT
-BEGIN:VEVENT
-UID:566922@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260716T160000
-DTEND;TZID=America/Chicago:20260717T000000
-SUMMARY:Joint FC/SPC Meeting
-DESCRIPTION:Joint Finance Committee/Strategic Planning Committee Meeting 20260716
-LOCATION:None\, None
-URL:https://www.spp.org/calendar-list/joint-finance-committeestrategic-planning-committee-meeting-20260716/
-END:VEVENT
-BEGIN:VEVENT
-UID:570301@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260717T110000
-DTEND;TZID=America/Chicago:20260718T000000
-SUMMARY:MSC Zoom Meeting - Hosted by WIEB 
-DESCRIPTION:MSC Zoom Meeting - Hosted by WIEB 20260717
-URL:https://www.spp.org/calendar-list/msc-zoom-meeting-hosted-by-wieb-20260717/
-END:VEVENT
-BEGIN:VEVENT
-UID:600851@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260717T130000
-DTEND;TZID=America/Chicago:20260718T000000
-SUMMARY:Price Adaptive Load (PAL) Education Forum 20260717
-URL:https://www.spp.org/calendar-list/price-adaptive-load-pal-education-forum-20260717/
-END:VEVENT
-BEGIN:VEVENT
-UID:552026@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260720T120000
-DTEND;TZID=America/Chicago:20260721T000000
-SUMMARY:MRATF Net Conference
-DESCRIPTION:Markets+ Resource Adequacy Task Force Net Conference 20260720
-URL:https://www.spp.org/calendar-list/marketsplus-resource-adequacy-task-force-net-conference-20260720/
-END:VEVENT
-BEGIN:VEVENT
-UID:545100@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260721T081500
-DTEND;TZID=America/Chicago:20260723T000000
-SUMMARY:MWG Net Conference
-DESCRIPTION:Market Working Group Net Conference 20260721-22
-URL:https://www.spp.org/calendar-list/market-working-group-net-conference-20260721-22/
-END:VEVENT
-BEGIN:VEVENT
-UID:602488@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260721T090000
-DTEND;TZID=America/Chicago:20260722T000000
-SUMMARY:Joint WRWG-WREC Net Conference 20260721
-URL:https://www.spp.org/calendar-list/joint-wrwg-wrec-net-conference-20260721/
-END:VEVENT
-BEGIN:VEVENT
-UID:604543@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260721T090000
-DTEND;TZID=America/Chicago:20260722T000000
-SUMMARY:Joint ESWG-TWG Net Conference
-DESCRIPTION:Joint ESWG-TWG Net Conference 20260721
-URL:https://www.spp.org/calendar-list/joint-eswg-twg-net-conference-20260721/
-END:VEVENT
-BEGIN:VEVENT
-UID:588830@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260722T090000
-DTEND;TZID=America/Chicago:20260723T000000
-SUMMARY:GIAG Net Conference
-DESCRIPTION:Generation Interconnection Advisory Group Net Conference 20260722
-URL:https://www.spp.org/calendar-list/generation-interconnection-advisory-group-net-conference-20260722/
-END:VEVENT
-BEGIN:VEVENT
-UID:555823@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260722T090000
-DTEND;TZID=America/Chicago:20260723T000000
-SUMMARY:CPPTF Net Conference
-DESCRIPTION:Consolidated Planning Process Task Force Net Conference 20260722
-URL:https://www.spp.org/calendar-list/consolidated-planning-process-task-force-net-conference-20260722/
-END:VEVENT
-BEGIN:VEVENT
-UID:550623@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260723T130000
-DTEND;TZID=America/Chicago:20260724T000000
-SUMMARY:MDAG Net Conference
-DESCRIPTION:Model Development Advisory Group Focus Group Net Conference 20260723
-URL:https://www.spp.org/calendar-list/model-development-advisory-group-focus-group-net-conference-20260723/
-END:VEVENT
-BEGIN:VEVENT
-UID:601191@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260723T080000
-DTEND;TZID=America/Chicago:20260724T000000
-SUMMARY:CARE Team Face-to-Face
-DESCRIPTION:Cost Control and Allocation Review & Evaluation Team Face-to-Face 20260723
-LOCATION:Chicago\, Illinois\, Chicago\, Illinois
-URL:https://www.spp.org/calendar-list/cost-control-and-allocation-review-evaluation-team-face-to-face-20260723/
-END:VEVENT
-BEGIN:VEVENT
-UID:553456@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260723T083000
-DTEND;TZID=America/Chicago:20260724T000000
-SUMMARY:RTWG Net Conference
-DESCRIPTION:Regional Tariff Working Group Net Conference 20260723
-URL:https://www.spp.org/calendar-list/regional-tariff-working-group-net-conference-20260723/
-END:VEVENT
-BEGIN:VEVENT
-UID:578517@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260724T090000
-DTEND;TZID=America/Chicago:20260725T000000
-SUMMARY:Regional Allocation Review Task Force Net Conference
-DESCRIPTION:Regional Allocation Review Task Force Net Conference 20260724
-URL:https://www.spp.org/calendar-list/regional-allocation-review-task-force-net-conference-20260724/
-END:VEVENT
-BEGIN:VEVENT
-UID:556770@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260727T120000
-DTEND;TZID=America/Chicago:20260728T000000
-SUMMARY:MTWG Net Conference
-DESCRIPTION:Markets+ Transmission Working Group Net Conference 20260727
-URL:https://www.spp.org/calendar-list/marketsplus-transmission-working-group-net-conference-20260727/
-END:VEVENT
-BEGIN:VEVENT
-UID:561094@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260728T080000
-DTEND;TZID=America/Chicago:20260730T000000
-SUMMARY:SAWG Face-to-Face 
-DESCRIPTION:Supply Adequacy Working Group Face-to-Face 20260728-29
-LOCATION:New Albany\, Ohio\, New Albany\, Ohio
-URL:https://www.spp.org/calendar-list/supply-adequacy-working-group-face-to-face-20260728-29/
-END:VEVENT
-BEGIN:VEVENT
-UID:587009@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260728T090000
-DTEND;TZID=America/Chicago:20260729T000000
-SUMMARY:ESWG Face-to-Face
-DESCRIPTION:Economic Studies Working Group Face-to-Face 20260728
-LOCATION:Westminster\, Colorado\, Westminster\, Colorado
-URL:https://www.spp.org/calendar-list/economic-studies-working-group-face-to-face-20260728/
-END:VEVENT
-BEGIN:VEVENT
-UID:587019@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260728T130000
-DTEND;TZID=America/Chicago:20260729T000000
-SUMMARY:SPP Engineering Planning Summit: 765 kV Workshop
-DESCRIPTION:SPP Engineering Planning Summit: 765 kV Workshop 20260728
-LOCATION:Westminster\, Colorado\, Westminster\, Colorado
-URL:https://www.spp.org/calendar-list/spp-engineering-planning-summit-765-kv-workshop-20260728/
-END:VEVENT
-BEGIN:VEVENT
-UID:565400@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260729T110000
-DTEND;TZID=America/Chicago:20260730T000000
-SUMMARY:MORWG Net Conference
-DESCRIPTION:Markets+ Operations and Reliability Working Group Net Conference 20260729
-URL:https://www.spp.org/calendar-list/marketsplus-operations-and-reliability-working-group-net-conference-20260729/
-END:VEVENT
-BEGIN:VEVENT
-UID:554416@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260729T080000
-DTEND;TZID=America/Chicago:20260730T000000
-SUMMARY:Engineering Planning Summit
-DESCRIPTION:Engineering Planning Summit 20260729
-LOCATION:Westminster\, Colorado\, Westminster\, Colorado
-URL:https://www.spp.org/calendar-list/engineering-planning-summit-20260729/
-END:VEVENT
-BEGIN:VEVENT
-UID:605602@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260729T130000
-DTEND;TZID=America/Chicago:20260730T000000
-SUMMARY:RTO Expansion User Forum
-DESCRIPTION:RTO Expansion User Forum 20260729
-URL:https://www.spp.org/calendar-list/rto-expansion-user-forum-20260729/
-END:VEVENT
-BEGIN:VEVENT
-UID:554424@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260730T080000
-DTEND;TZID=America/Chicago:20260731T000000
-SUMMARY:Joint ESWG-TWG Face-To-Face
-DESCRIPTION:Joint ESWG-TWG Face-To-Face 20260225730
-LOCATION:Westminster\, Colorado\, Westminster\, Colorado
-URL:https://www.spp.org/calendar-list/joint-eswg-twg-face-to-face-20260225730/
-END:VEVENT
-BEGIN:VEVENT
-UID:587024@spp.org
-DTSTAMP:20260731T085342Z
-DTSTART;TZID=America/Chicago:20260731T080000
-DTEND;TZID=America/Chicago:20260801T000000
-SUMMARY:TWG Face-to-Face
-DESCRIPTION:Transmission Working Group Face-To-Face 20260731
-LOCATION:Westminster\, Colorado\, Westminster\, Colorado
-URL:https://www.spp.org/calendar-list/transmission-working-group-face-to-face-20260731/
-END:VEVENT
-BEGIN:VEVENT
 UID:587316@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260803T090000
 DTEND;TZID=America/Chicago:20260804T000000
 SUMMARY:AARITF Net Conference
@@ -446,7 +33,7 @@ URL:https://www.spp.org/calendar-list/ambient-adjusted-rating-implementation-tas
 END:VEVENT
 BEGIN:VEVENT
 UID:553205@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260803T080000
 DTEND;TZID=America/Chicago:20260804T000000
 SUMMARY:RSC Ed Session 
@@ -456,7 +43,7 @@ URL:https://www.spp.org/calendar-list/rsc-education-session-20260803/
 END:VEVENT
 BEGIN:VEVENT
 UID:542200@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260803T130000
 DTEND;TZID=America/Chicago:20260804T000000
 SUMMARY:RSC & JSB Briefing
@@ -466,7 +53,7 @@ URL:https://www.spp.org/calendar-list/regional-state-committee-joint-stakeholder
 END:VEVENT
 BEGIN:VEVENT
 UID:580635@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260804T100000
 DTEND;TZID=America/Chicago:20260805T000000
 SUMMARY:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration
@@ -475,7 +62,7 @@ URL:https://www.spp.org/calendar-list/touch-point-meeting-lep-connectivity-aar-e
 END:VEVENT
 BEGIN:VEVENT
 UID:542208@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260804T080000
 DTEND;TZID=America/Chicago:20260805T000000
 SUMMARY:BOD MC Meeting 20260804
@@ -485,7 +72,7 @@ URL:https://www.spp.org/calendar-list/board-of-directors-and-members-committee-m
 END:VEVENT
 BEGIN:VEVENT
 UID:550290@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260804T090000
 DTEND;TZID=America/Chicago:20260805T000000
 SUMMARY:MCUF Face-To-Face
@@ -495,7 +82,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-change-user-forum-face-to-face
 END:VEVENT
 BEGIN:VEVENT
 UID:544874@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260805T130000
 DTEND;TZID=America/Chicago:20260806T000000
 SUMMARY:PCWG Net Conference
@@ -504,7 +91,7 @@ URL:https://www.spp.org/calendar-list/project-cost-working-group-net-conference-
 END:VEVENT
 BEGIN:VEVENT
 UID:593796@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260805T140000
 DTEND;TZID=America/Chicago:20260806T000000
 SUMMARY:MSUF Net Conference
@@ -513,7 +100,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-settlements-user-forum-net-con
 END:VEVENT
 BEGIN:VEVENT
 UID:608126@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260805T143000
 DTEND;TZID=America/Chicago:20260806T000000
 SUMMARY:SPP Settlements CHILLS Member Testing Kickoff
@@ -522,7 +109,7 @@ URL:https://www.spp.org/calendar-list/spp-settlements-chills-member-testing-kick
 END:VEVENT
 BEGIN:VEVENT
 UID:552897@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260806T110000
 DTEND;TZID=America/Chicago:20260807T000000
 SUMMARY:MGHGTF Net Conference
@@ -531,7 +118,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-greenhouse-gas-task-force-net-
 END:VEVENT
 BEGIN:VEVENT
 UID:592312@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260806T143000
 DTEND;TZID=America/Chicago:20260807T000000
 SUMMARY:SPP Large Load Processes Q&A Net Conference 
@@ -540,7 +127,7 @@ URL:https://www.spp.org/calendar-list/spp-large-load-processes-qa-net-conference
 END:VEVENT
 BEGIN:VEVENT
 UID:553362@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260806T083000
 DTEND;TZID=America/Chicago:20260807T000000
 SUMMARY:ORWG Net Conference
@@ -549,7 +136,7 @@ URL:https://www.spp.org/calendar-list/operating-reliability-working-group-net-co
 END:VEVENT
 BEGIN:VEVENT
 UID:607014@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260806T100000
 DTEND;TZID=America/Chicago:20260807T000000
 SUMMARY:SPP MMU Spring 2026 Quarterly State of the Market stakeholder Call
@@ -558,7 +145,7 @@ URL:https://www.spp.org/calendar-list/spp-mmu-spring-2026-quarterly-state-of-the
 END:VEVENT
 BEGIN:VEVENT
 UID:546170@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260810T130000
 DTEND;TZID=America/Chicago:20260811T000000
 SUMMARY:RCUF Net Conference
@@ -567,7 +154,7 @@ URL:https://www.spp.org/calendar-list/reliability-compliance-user-forum-net-conf
 END:VEVENT
 BEGIN:VEVENT
 UID:551078@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260810T090000
 DTEND;TZID=America/Chicago:20260811T000000
 SUMMARY:TOSPTF Net Conference
@@ -576,7 +163,7 @@ URL:https://www.spp.org/calendar-list/transmission-owner-selection-process-task-
 END:VEVENT
 BEGIN:VEVENT
 UID:562986@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260810T090000
 DTEND;TZID=America/Chicago:20260811T000000
 SUMMARY:CAWG Net Conference
@@ -585,7 +172,7 @@ URL:https://www.spp.org/calendar-list/cost-allocation-working-group-net-conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:566442@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260811T120000
 DTEND;TZID=America/Chicago:20260813T000000
 SUMMARY:SPCAG Face-to-Face
@@ -595,7 +182,7 @@ URL:https://www.spp.org/calendar-list/system-protection-and-control-advisory-gro
 END:VEVENT
 BEGIN:VEVENT
 UID:606586@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260811T110000
 DTEND;TZID=America/Chicago:20260812T000000
 SUMMARY:Joint MDWG & MRATF Net Conference 
@@ -604,7 +191,7 @@ URL:https://www.spp.org/calendar-list/joint-mdwg-mratf-net-conference-20260811/
 END:VEVENT
 BEGIN:VEVENT
 UID:607865@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260811T140000
 DTEND;TZID=America/Chicago:20260812T000000
 SUMMARY:Fall Bundle Member Testing Kick-off
@@ -613,7 +200,7 @@ URL:https://www.spp.org/calendar-list/2026-settlements-fall-bundle-member-testin
 END:VEVENT
 BEGIN:VEVENT
 UID:551817@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260812T110000
 DTEND;TZID=America/Chicago:20260813T000000
 SUMMARY:MDWG Net Conference
@@ -622,7 +209,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-design-working-group-net-confe
 END:VEVENT
 BEGIN:VEVENT
 UID:561629@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260813T120000
 DTEND;TZID=America/Chicago:20260814T000000
 SUMMARY:MSWG Net Conference
@@ -631,7 +218,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-seams-working-group-net-confer
 END:VEVENT
 BEGIN:VEVENT
 UID:598331@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260813T110000
 DTEND;TZID=America/Chicago:20260814T000000
 SUMMARY:Markets+ Interim Governance Task Force Meeting 20260813
@@ -639,7 +226,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-interim-governance-task-force-
 END:VEVENT
 BEGIN:VEVENT
 UID:608172@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260813T140000
 DTEND;TZID=America/Chicago:20260814T000000
 SUMMARY:Markets+ Trainer Readiness and Resource Program
@@ -647,7 +234,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-trainer-readiness-and-resource
 END:VEVENT
 BEGIN:VEVENT
 UID:603614@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260814T130000
 DTEND;TZID=America/Chicago:20260815T000000
 SUMMARY:MISO and SPP IPSAC Net Conference
@@ -656,7 +243,7 @@ URL:https://www.spp.org/calendar-list/miso-and-spp-interregional-planning-stakeh
 END:VEVENT
 BEGIN:VEVENT
 UID:531656@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260817T000000
 DTEND;TZID=America/Chicago:20260821T000000
 SUMMARY:Markets+ Level 2 Topical Training
@@ -665,7 +252,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-level-2-topical-training-20250
 END:VEVENT
 BEGIN:VEVENT
 UID:545246@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260817T090000
 DTEND;TZID=America/Chicago:20260818T000000
 SUMMARY:GTAG Net Conference
@@ -674,7 +261,7 @@ URL:https://www.spp.org/calendar-list/grid-transformation-advisory-group-net-con
 END:VEVENT
 BEGIN:VEVENT
 UID:572209@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260818T100000
 DTEND;TZID=America/Chicago:20260819T000000
 SUMMARY:ITpGIF Meeting 
@@ -683,7 +270,7 @@ URL:https://www.spp.org/calendar-list/itpgif-integrated-transmission-planning-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:551512@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260818T090000
 DTEND;TZID=America/Chicago:20260819T000000
 SUMMARY:MDAG Net Conference
@@ -692,7 +279,7 @@ URL:https://www.spp.org/calendar-list/model-development-advisory-group-net-confe
 END:VEVENT
 BEGIN:VEVENT
 UID:545129@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260818T081500
 DTEND;TZID=America/Chicago:20260820T000000
 SUMMARY:MWG Face-to-Face 
@@ -702,7 +289,7 @@ URL:https://www.spp.org/calendar-list/market-working-group-face-to-face-20260818
 END:VEVENT
 BEGIN:VEVENT
 UID:541072@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260818T090000
 DTEND;TZID=America/Chicago:20260819T000000
 SUMMARY:CGC Meeting 20260818
@@ -712,7 +299,7 @@ URL:https://www.spp.org/calendar-list/corporate-governance-committee-meeting-202
 END:VEVENT
 BEGIN:VEVENT
 UID:588835@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260819T090000
 DTEND;TZID=America/Chicago:20260820T000000
 SUMMARY:GIAG Net Conference
@@ -721,7 +308,7 @@ URL:https://www.spp.org/calendar-list/generation-interconnection-advisory-group-
 END:VEVENT
 BEGIN:VEVENT
 UID:550625@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260820T130000
 DTEND;TZID=America/Chicago:20260821T000000
 SUMMARY:MDAG Net Conference
@@ -730,7 +317,7 @@ URL:https://www.spp.org/calendar-list/model-development-advisory-group-focus-gro
 END:VEVENT
 BEGIN:VEVENT
 UID:555910@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260820T090000
 DTEND;TZID=America/Chicago:20260821T000000
 SUMMARY:CPPTF Net Conference
@@ -739,7 +326,7 @@ URL:https://www.spp.org/calendar-list/consolidated-planning-process-task-force-n
 END:VEVENT
 BEGIN:VEVENT
 UID:545220@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260820T133000
 DTEND;TZID=America/Chicago:20260821T000000
 SUMMARY:CUF Net Conference
@@ -748,7 +335,7 @@ URL:https://www.spp.org/calendar-list/change-user-forum-net-conference-20260820/
 END:VEVENT
 BEGIN:VEVENT
 UID:553459@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260820T083000
 DTEND;TZID=America/Chicago:20260821T000000
 SUMMARY:RTWG Net Conference
@@ -757,7 +344,7 @@ URL:https://www.spp.org/calendar-list/regional-tariff-working-group-net-conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:608487@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260820T133000
 DTEND;TZID=America/Chicago:20260821T000000
 SUMMARY:CPWG Net Conference
@@ -766,7 +353,7 @@ URL:https://www.spp.org/calendar-list/credit-practices-working-group-net-confere
 END:VEVENT
 BEGIN:VEVENT
 UID:570302@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260821T110000
 DTEND;TZID=America/Chicago:20260822T000000
 SUMMARY:MSC Zoom Meeting - Hosted by WIEB 
@@ -775,7 +362,7 @@ URL:https://www.spp.org/calendar-list/msc-zoom-meeting-hosted-by-wieb-20260821/
 END:VEVENT
 BEGIN:VEVENT
 UID:608231@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260821T090000
 DTEND;TZID=America/Chicago:20260822T000000
 SUMMARY:AECI-SPP Interregional Planning Stakeholder Advisory Committee (IPSAC) Net Conference 
@@ -784,7 +371,7 @@ URL:https://www.spp.org/calendar-list/aeci-spp-interregional-planning-stakeholde
 END:VEVENT
 BEGIN:VEVENT
 UID:601209@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260824T080000
 DTEND;TZID=America/Chicago:20260825T000000
 SUMMARY:CARE Team Face-to-Face
@@ -794,7 +381,7 @@ URL:https://www.spp.org/calendar-list/cost-control-and-allocation-review-evaluat
 END:VEVENT
 BEGIN:VEVENT
 UID:580638@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260825T100000
 DTEND;TZID=America/Chicago:20260826T000000
 SUMMARY:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration
@@ -803,7 +390,7 @@ URL:https://www.spp.org/calendar-list/touch-point-meeting-lep-connectivity-aar-e
 END:VEVENT
 BEGIN:VEVENT
 UID:553735@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260825T090000
 DTEND;TZID=America/Chicago:20260826T000000
 SUMMARY:TWG Net Conference
@@ -812,7 +399,7 @@ URL:https://www.spp.org/calendar-list/transmission-working-group-net-conference-
 END:VEVENT
 BEGIN:VEVENT
 UID:561111@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260825T080000
 DTEND;TZID=America/Chicago:20260826T000000
 SUMMARY:SAWG Net Conference
@@ -821,7 +408,7 @@ URL:https://www.spp.org/calendar-list/supply-adequacy-working-group-net-conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:544510@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260825T090000
 DTEND;TZID=America/Chicago:20260826T000000
 SUMMARY:Markets+ Participant Executive Committee Meeting
@@ -831,7 +418,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-participant-executive-committe
 END:VEVENT
 BEGIN:VEVENT
 UID:554440@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260826T080000
 DTEND;TZID=America/Chicago:20260827T000000
 SUMMARY:Joint ESWG-TWG Net Conference
@@ -840,7 +427,7 @@ URL:https://www.spp.org/calendar-list/joint-eswg-twg-net-conference-20260826/
 END:VEVENT
 BEGIN:VEVENT
 UID:556774@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260827T120000
 DTEND;TZID=America/Chicago:20260828T000000
 SUMMARY:MTWG Net Conference
@@ -849,7 +436,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-transmission-working-group-net
 END:VEVENT
 BEGIN:VEVENT
 UID:553781@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260827T090000
 DTEND;TZID=America/Chicago:20260828T000000
 SUMMARY:ESWG Net Conference
@@ -858,7 +445,7 @@ URL:https://www.spp.org/calendar-list/economic-studies-working-group-net-confere
 END:VEVENT
 BEGIN:VEVENT
 UID:565612@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260831T110000
 DTEND;TZID=America/Chicago:20260901T000000
 SUMMARY:MORWG Net Conference
@@ -867,7 +454,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-operations-and-reliability-wor
 END:VEVENT
 BEGIN:VEVENT
 UID:550272@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260901T140000
 DTEND;TZID=America/Chicago:20260902T000000
 SUMMARY:MCUF Net Conference
@@ -876,7 +463,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-change-user-forum-net-conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:553364@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260902T080000
 DTEND;TZID=America/Chicago:20260904T000000
 SUMMARY:ORWG Face-To-Face
@@ -886,7 +473,7 @@ URL:https://www.spp.org/calendar-list/operating-reliability-working-group-face-t
 END:VEVENT
 BEGIN:VEVENT
 UID:544877@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260902T083000
 DTEND;TZID=America/Chicago:20260903T000000
 SUMMARY:PCWG Face-To-Face
@@ -896,7 +483,7 @@ URL:https://www.spp.org/calendar-list/project-cost-working-group-face-to-face-20
 END:VEVENT
 BEGIN:VEVENT
 UID:562990@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260903T083000
 DTEND;TZID=America/Chicago:20260904T000000
 SUMMARY:CAWG Face-to-Face 
@@ -906,7 +493,7 @@ URL:https://www.spp.org/calendar-list/cost-allocation-working-group-face-to-face
 END:VEVENT
 BEGIN:VEVENT
 UID:552910@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260903T110000
 DTEND;TZID=America/Chicago:20260904T000000
 SUMMARY:MGHGTF Net Conference
@@ -915,7 +502,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-greenhouse-gas-task-force-net-
 END:VEVENT
 BEGIN:VEVENT
 UID:414452@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260907T000000
 DTEND;TZID=America/Chicago:20260908T000000
 SUMMARY:Labor Day
@@ -923,7 +510,7 @@ URL:https://www.spp.org/calendar-list/labor-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:551818@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260908T130000
 DTEND;TZID=America/Chicago:20260910T000000
 SUMMARY:MDWG Face-To-Face
@@ -933,7 +520,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-design-working-group-face-to-f
 END:VEVENT
 BEGIN:VEVENT
 UID:559299@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260909T090000
 DTEND;TZID=America/Chicago:20260910T000000
 SUMMARY:SAG Face-To-Face
@@ -943,7 +530,7 @@ URL:https://www.spp.org/calendar-list/seams-advisory-group-face-to-face-20260909
 END:VEVENT
 BEGIN:VEVENT
 UID:598332@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260909T130000
 DTEND;TZID=America/Chicago:20260910T000000
 SUMMARY:Markets+ Interim Governance Task Force Meeting 20260909
@@ -951,7 +538,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-interim-governance-task-force-
 END:VEVENT
 BEGIN:VEVENT
 UID:561630@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260910T120000
 DTEND;TZID=America/Chicago:20260911T000000
 SUMMARY:MSWG Net Conference
@@ -960,7 +547,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-seams-working-group-net-confer
 END:VEVENT
 BEGIN:VEVENT
 UID:552028@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260914T120000
 DTEND;TZID=America/Chicago:20260915T000000
 SUMMARY:MRATF Net Conference
@@ -969,7 +556,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-resource-adequacy-task-force-n
 END:VEVENT
 BEGIN:VEVENT
 UID:554022@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260914T130000
 DTEND;TZID=America/Chicago:20260915T000000
 SUMMARY:REAL Team Meeting
@@ -978,7 +565,7 @@ URL:https://www.spp.org/calendar-list/real-team-meeting-20260914/
 END:VEVENT
 BEGIN:VEVENT
 UID:587320@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260914T090000
 DTEND;TZID=America/Chicago:20260915T000000
 SUMMARY:AARITF Net Conference
@@ -987,7 +574,7 @@ URL:https://www.spp.org/calendar-list/ambient-adjusted-rating-implementation-tas
 END:VEVENT
 BEGIN:VEVENT
 UID:551088@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260914T090000
 DTEND;TZID=America/Chicago:20260915T000000
 SUMMARY:TOSPTF Net Conference
@@ -996,7 +583,7 @@ URL:https://www.spp.org/calendar-list/transmission-owner-selection-process-task-
 END:VEVENT
 BEGIN:VEVENT
 UID:580780@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260915T110000
 DTEND;TZID=America/Chicago:20260916T000000
 SUMMARY:Q3 ECCWG Net Conference 
@@ -1005,7 +592,7 @@ URL:https://www.spp.org/calendar-list/q3-eccwg-net-conference-20260915/
 END:VEVENT
 BEGIN:VEVENT
 UID:545250@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260915T090000
 DTEND;TZID=America/Chicago:20260916T000000
 SUMMARY:GTAG Face-to-Face
@@ -1015,7 +602,7 @@ URL:https://www.spp.org/calendar-list/grid-transformation-advisory-group-face-to
 END:VEVENT
 BEGIN:VEVENT
 UID:599814@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260915T080000
 DTEND;TZID=America/Chicago:20260916T000000
 SUMMARY:SECAG Face-to-Face
@@ -1025,7 +612,7 @@ URL:https://www.spp.org/calendar-list/security-advisory-group-face-to-face-20260
 END:VEVENT
 BEGIN:VEVENT
 UID:608590@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260915T100000
 DTEND;TZID=America/Chicago:20260916T000000
 SUMMARY:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration
@@ -1034,7 +621,7 @@ URL:https://www.spp.org/calendar-list/touch-point-meeting-lep-connectivity-aar-e
 END:VEVENT
 BEGIN:VEVENT
 UID:588836@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260916T090000
 DTEND;TZID=America/Chicago:20260917T000000
 SUMMARY:GIAG Net Conference
@@ -1043,7 +630,7 @@ URL:https://www.spp.org/calendar-list/generation-interconnection-advisory-group-
 END:VEVENT
 BEGIN:VEVENT
 UID:562866@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260916T080000
 DTEND;TZID=America/Chicago:20260918T000000
 SUMMARY:CARE Team Face-to-Face
@@ -1053,7 +640,7 @@ URL:https://www.spp.org/calendar-list/cost-control-and-allocation-review-evaluat
 END:VEVENT
 BEGIN:VEVENT
 UID:545222@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260917T133000
 DTEND;TZID=America/Chicago:20260918T000000
 SUMMARY:CUF Net Conference
@@ -1062,7 +649,7 @@ URL:https://www.spp.org/calendar-list/change-user-forum-net-conference-20260917/
 END:VEVENT
 BEGIN:VEVENT
 UID:556826@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260917T120000
 DTEND;TZID=America/Chicago:20260918T000000
 SUMMARY:MTWG Net Conference
@@ -1071,7 +658,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-transmission-working-group-net
 END:VEVENT
 BEGIN:VEVENT
 UID:570303@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260918T110000
 DTEND;TZID=America/Chicago:20260919T000000
 SUMMARY:MSC Zoom Meeting - Hosted by WIEB 
@@ -1080,7 +667,7 @@ URL:https://www.spp.org/calendar-list/msc-zoom-meeting-hosted-by-wieb-20260918/
 END:VEVENT
 BEGIN:VEVENT
 UID:572211@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260918T100000
 DTEND;TZID=America/Chicago:20260919T000000
 SUMMARY:ITpGIF Meeting 
@@ -1089,7 +676,7 @@ URL:https://www.spp.org/calendar-list/itpgif-integrated-transmission-planning-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:531657@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260921T000000
 DTEND;TZID=America/Chicago:20260925T000000
 SUMMARY:Markets+ Level 2 Topical Training
@@ -1098,7 +685,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-level-2-topical-training-20250
 END:VEVENT
 BEGIN:VEVENT
 UID:551514@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260922T090000
 DTEND;TZID=America/Chicago:20260923T000000
 SUMMARY:MDAG Net Conference
@@ -1107,7 +694,7 @@ URL:https://www.spp.org/calendar-list/model-development-advisory-group-net-confe
 END:VEVENT
 BEGIN:VEVENT
 UID:545165@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260922T081500
 DTEND;TZID=America/Chicago:20260924T000000
 SUMMARY:MWG Face-to-Face
@@ -1117,7 +704,7 @@ URL:https://www.spp.org/calendar-list/market-working-group-face-to-face-20260922
 END:VEVENT
 BEGIN:VEVENT
 UID:555963@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260923T120000
 DTEND;TZID=America/Chicago:20260925T000000
 SUMMARY:CPPTF Face-To-Face
@@ -1126,7 +713,7 @@ URL:https://www.spp.org/calendar-list/consolidated-planning-process-task-force-f
 END:VEVENT
 BEGIN:VEVENT
 UID:561135@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260923T130000
 DTEND;TZID=America/Chicago:20260925T000000
 SUMMARY:SAWG Face-to-Face
@@ -1136,7 +723,7 @@ URL:https://www.spp.org/calendar-list/supply-adequacy-working-group-face-to-face
 END:VEVENT
 BEGIN:VEVENT
 UID:550627@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260924T130000
 DTEND;TZID=America/Chicago:20260925T000000
 SUMMARY:MDAG Net Conference
@@ -1145,7 +732,7 @@ URL:https://www.spp.org/calendar-list/model-development-advisory-group-focus-gro
 END:VEVENT
 BEGIN:VEVENT
 UID:553538@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260924T083000
 DTEND;TZID=America/Chicago:20260925T000000
 SUMMARY:RTWG Net Conference
@@ -1154,7 +741,7 @@ URL:https://www.spp.org/calendar-list/regional-tariff-working-group-net-conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:566949@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260924T080000
 DTEND;TZID=America/Chicago:20260925T000000
 SUMMARY:FC Meeting
@@ -1164,7 +751,7 @@ URL:https://www.spp.org/calendar-list/finance-committee-2027-budget-review-meeti
 END:VEVENT
 BEGIN:VEVENT
 UID:578518@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260925T090000
 DTEND;TZID=America/Chicago:20260926T000000
 SUMMARY:RARTF Net Conference
@@ -1173,7 +760,7 @@ URL:https://www.spp.org/calendar-list/regional-allocation-review-task-force-net-
 END:VEVENT
 BEGIN:VEVENT
 UID:604374@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260928T100000
 DTEND;TZID=America/Chicago:20260929T000000
 SUMMARY:Interim Markets+ Independent Panel Net Conference
@@ -1182,7 +769,7 @@ URL:https://www.spp.org/calendar-list/interim-marketsplus-independent-panel-net-
 END:VEVENT
 BEGIN:VEVENT
 UID:553742@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260929T090000
 DTEND;TZID=America/Chicago:20260930T000000
 SUMMARY:TWG Face-To-Face
@@ -1192,7 +779,7 @@ URL:https://www.spp.org/calendar-list/transmission-working-group-face-to-face-20
 END:VEVENT
 BEGIN:VEVENT
 UID:554215@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260930T080000
 DTEND;TZID=America/Chicago:20261002T000000
 SUMMARY:Joint ESWG-TWG Face-To-Face 
@@ -1202,7 +789,7 @@ URL:https://www.spp.org/calendar-list/joint-eswg-twg-face-to-face-20260930-1001/
 END:VEVENT
 BEGIN:VEVENT
 UID:565619@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20260930T110000
 DTEND;TZID=America/Chicago:20261001T000000
 SUMMARY:MORWG Net Conference
@@ -1211,7 +798,7 @@ URL:https://www.spp.org/calendar-list/marketsplus-operations-and-reliability-wor
 END:VEVENT
 BEGIN:VEVENT
 UID:562999@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20261001T090000
 DTEND;TZID=America/Chicago:20261002T000000
 SUMMARY:CAWG Net Conference
@@ -1220,11 +807,296 @@ URL:https://www.spp.org/calendar-list/cost-allocation-working-group-net-conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:552913@spp.org
-DTSTAMP:20260731T085342Z
+DTSTAMP:20260801T082449Z
 DTSTART;TZID=America/Chicago:20261001T110000
 DTEND;TZID=America/Chicago:20261002T000000
 SUMMARY:MGHGTF Net Conference
 DESCRIPTION:Markets+ Greenhouse Gas Task Force Net Conference 20261001
 URL:https://www.spp.org/calendar-list/marketsplus-greenhouse-gas-task-force-net-conference-20261001/
+END:VEVENT
+BEGIN:VEVENT
+UID:559301@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261002T090000
+DTEND;TZID=America/Chicago:20261003T000000
+SUMMARY:SAG Net Conference
+DESCRIPTION:Seams Advisory Group Net Conference 20261002
+URL:https://www.spp.org/calendar-list/seams-advisory-group-net-conference-20261002/
+END:VEVENT
+BEGIN:VEVENT
+UID:587328@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261005T090000
+DTEND;TZID=America/Chicago:20261006T000000
+SUMMARY:AARITF Net Conference
+DESCRIPTION:Ambient Adjusted Rating Implementation Task Force Net Conference 202601005
+URL:https://www.spp.org/calendar-list/ambient-adjusted-rating-implementation-task-force-net-conference-202601005/
+END:VEVENT
+BEGIN:VEVENT
+UID:551092@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261005T090000
+DTEND;TZID=America/Chicago:20261006T000000
+SUMMARY:TOSPTF Net Conference
+DESCRIPTION:Transmission Owner Selection Process Task Force Net Conference 20261005
+URL:https://www.spp.org/calendar-list/transmission-owner-selection-process-task-force-net-conference-20261005/
+END:VEVENT
+BEGIN:VEVENT
+UID:550291@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261006T090000
+DTEND;TZID=America/Chicago:20261007T000000
+SUMMARY:MCUF Face-To-Face
+DESCRIPTION:Markets+ Change User Forum Face-To-Face 202601006
+LOCATION:Denver\, Colorado\, Denver\, Colorado
+URL:https://www.spp.org/calendar-list/marketsplus-change-user-forum-face-to-face-202601006/
+END:VEVENT
+BEGIN:VEVENT
+UID:544878@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261007T130000
+DTEND;TZID=America/Chicago:20261008T000000
+SUMMARY:PCWG Net Conference
+DESCRIPTION:Project Cost Working Group Net Conference 20261007
+URL:https://www.spp.org/calendar-list/project-cost-working-group-net-conference-20261007/
+END:VEVENT
+BEGIN:VEVENT
+UID:551820@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261007T110000
+DTEND;TZID=America/Chicago:20261009T000000
+SUMMARY:MDWG Net Conference
+DESCRIPTION:Markets+ Design Working Group Net Conference 20261007-08
+URL:https://www.spp.org/calendar-list/marketsplus-design-working-group-net-conference-20261007-08/
+END:VEVENT
+BEGIN:VEVENT
+UID:597674@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261007T140000
+DTEND;TZID=America/Chicago:20261008T000000
+SUMMARY:MSUF Net Conference
+DESCRIPTION:Markets+ Settlements User Forum Net Conference 20261007
+URL:https://www.spp.org/calendar-list/marketsplus-settlements-user-forum-net-conference-20261007/
+END:VEVENT
+BEGIN:VEVENT
+UID:548031@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261008T130000
+DTEND;TZID=America/Chicago:20261009T000000
+SUMMARY:SUF Net Conference
+DESCRIPTION:Settlements User Forum Net Conference 20261008
+URL:https://www.spp.org/calendar-list/settlements-user-forum-net-conference-20261008/
+END:VEVENT
+BEGIN:VEVENT
+UID:566954@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261008T080000
+DTEND;TZID=America/Chicago:20261009T000000
+SUMMARY:FC Meeting
+DESCRIPTION:Finance Committee Meeting 20261008
+URL:https://www.spp.org/calendar-list/finance-committee-meeting-20261008/
+END:VEVENT
+BEGIN:VEVENT
+UID:553370@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261008T083000
+DTEND;TZID=America/Chicago:20261009T000000
+SUMMARY:ORWG Net Conference
+DESCRIPTION:Operating Reliability Working Group Net Conference 20261008
+URL:https://www.spp.org/calendar-list/operating-reliability-working-group-net-conference-20261008/
+END:VEVENT
+BEGIN:VEVENT
+UID:540932@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261012T090000
+DTEND;TZID=America/Chicago:20261013T000000
+SUMMARY:OC Meeting 20261012
+DESCRIPTION:Oversight Committee Meeting 20261012
+LOCATION:Little Rock\, Arkansas\, Little Rock\, Arkansas
+URL:https://www.spp.org/calendar-list/oversight-committee-meeting-20261012/
+END:VEVENT
+BEGIN:VEVENT
+UID:542165@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261013T080000
+DTEND;TZID=America/Chicago:20261015T000000
+SUMMARY:MOPC Meeting 20261013-14
+DESCRIPTION:Markets and Operations Policy Committee Meeting 20261013-14
+LOCATION:Little Rock\, Arkansas\, Little Rock\, Arkansas
+URL:https://www.spp.org/calendar-list/markets-and-operations-policy-committee-meeting-20261013-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:608593@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261013T100000
+DTEND;TZID=America/Chicago:20261014T000000
+SUMMARY:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration 
+DESCRIPTION:Touch Point Meeting: LEP Connectivity\, AAR Exchange & Integration 20261013
+URL:https://www.spp.org/calendar-list/touch-point-meeting-lep-connectivity-aar-exchange-integration-20261013/
+END:VEVENT
+BEGIN:VEVENT
+UID:542192@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261014T130000
+DTEND;TZID=America/Chicago:20261016T000000
+SUMMARY:SPC Meeting 20261014-15
+DESCRIPTION:Strategic Planning Committee Meeting 20261014-15
+LOCATION:Little Rock\, Arkansas\, Little Rock\, Arkansas
+URL:https://www.spp.org/calendar-list/strategic-planning-committee-meeting-20261014-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:541070@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261015T130000
+DTEND;TZID=America/Chicago:20261016T000000
+SUMMARY:HRC Meeting 20261015
+DESCRIPTION:Human Resources Committee Meeting 20261015
+LOCATION:Little Rock\, Arkansas\, Little Rock\, Arkansas
+URL:https://www.spp.org/calendar-list/human-resources-committee-meeting-20261015/
+END:VEVENT
+BEGIN:VEVENT
+UID:561631@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261015T120000
+DTEND;TZID=America/Chicago:20261016T000000
+SUMMARY:MSWG Net Conference
+DESCRIPTION:Markets+ Seams Working Group Net Conference 20261015
+URL:https://www.spp.org/calendar-list/marketsplus-seams-working-group-net-conference-20261015/
+END:VEVENT
+BEGIN:VEVENT
+UID:545236@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261015T133000
+DTEND;TZID=America/Chicago:20261016T000000
+SUMMARY:CUF Net Conference
+DESCRIPTION:Change User Forum Net Conference 20261015
+URL:https://www.spp.org/calendar-list/change-user-forum-net-conference-20261015/
+END:VEVENT
+BEGIN:VEVENT
+UID:570307@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261016T110000
+DTEND;TZID=America/Chicago:20261017T000000
+SUMMARY:MSC Zoom Meeting - Hosted by WIEB 
+DESCRIPTION:MSC Zoom Meeting - Hosted by WIEB 20261016
+URL:https://www.spp.org/calendar-list/msc-zoom-meeting-hosted-by-wieb-20261016/
+END:VEVENT
+BEGIN:VEVENT
+UID:588822@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261019T080000
+DTEND;TZID=America/Chicago:20261020T000000
+SUMMARY:CARE Team Net Conference
+DESCRIPTION:Cost Control and Allocation Review & Evaluation Team Net Conference 20261019
+URL:https://www.spp.org/calendar-list/cost-control-and-allocation-review-evaluation-team-net-conference-20261019/
+END:VEVENT
+BEGIN:VEVENT
+UID:551518@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261020T090000
+DTEND;TZID=America/Chicago:20261021T000000
+SUMMARY:MDAG Net Conference
+DESCRIPTION:Model Development Advisory Group Net Conference 20261020
+URL:https://www.spp.org/calendar-list/model-development-advisory-group-net-conference-20261020/
+END:VEVENT
+BEGIN:VEVENT
+UID:545218@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261020T081500
+DTEND;TZID=America/Chicago:20261022T000000
+SUMMARY:MWG Net Conference
+DESCRIPTION:Market Working Group Net Conference 20261020-21
+URL:https://www.spp.org/calendar-list/market-working-group-net-conference-20261020-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:588844@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261021T090000
+DTEND;TZID=America/Chicago:20261022T000000
+SUMMARY:GIAG Net Conference
+DESCRIPTION:Generation Interconnection Advisory Group Net Conference 20261021
+URL:https://www.spp.org/calendar-list/generation-interconnection-advisory-group-net-conference-20261021/
+END:VEVENT
+BEGIN:VEVENT
+UID:550626@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261022T130000
+DTEND;TZID=America/Chicago:20261023T000000
+SUMMARY:MDAG Focus Group Net Conference
+DESCRIPTION:Model Development Advisory Group Focus Group Net Conference 20261022
+URL:https://www.spp.org/calendar-list/model-development-advisory-group-focus-group-net-conference-20261022/
+END:VEVENT
+BEGIN:VEVENT
+UID:553543@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261022T083000
+DTEND;TZID=America/Chicago:20261023T000000
+SUMMARY:RTWG Net Conference
+DESCRIPTION:Regional Tariff Working Group Net Conference 20261022
+URL:https://www.spp.org/calendar-list/regional-tariff-working-group-net-conference-20261022/
+END:VEVENT
+BEGIN:VEVENT
+UID:555966@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261022T090000
+DTEND;TZID=America/Chicago:20261023T000000
+SUMMARY:CPPTF Net Conference
+DESCRIPTION:Consolidated Planning Process Task Force Net Conference 20261022
+URL:https://www.spp.org/calendar-list/consolidated-planning-process-task-force-net-conference-20261022/
+END:VEVENT
+BEGIN:VEVENT
+UID:553747@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261027T090000
+DTEND;TZID=America/Chicago:20261028T000000
+SUMMARY:TWG Net Conference
+DESCRIPTION:Transmission Working Group Net Conference 20261027
+URL:https://www.spp.org/calendar-list/transmission-working-group-net-conference-20261027/
+END:VEVENT
+BEGIN:VEVENT
+UID:554212@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261028T080000
+DTEND;TZID=America/Chicago:20261029T000000
+SUMMARY:Joint ESWG-TWG Net Conference 
+DESCRIPTION:Joint ESWG-TWG Net Conference 20261028
+URL:https://www.spp.org/calendar-list/joint-eswg-twg-net-conference-20261028/
+END:VEVENT
+BEGIN:VEVENT
+UID:561136@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261028T080000
+DTEND;TZID=America/Chicago:20261030T000000
+SUMMARY:SAWG Face-to-Face 
+DESCRIPTION:Supply Adequacy Working Group Face-to-Face 20261028-29
+LOCATION:Juno Beach\, Florida\, Juno Beach\, Florida
+URL:https://www.spp.org/calendar-list/supply-adequacy-working-group-face-to-face-20261028-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:565627@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261028T110000
+DTEND;TZID=America/Chicago:20261029T000000
+SUMMARY:MORWG Net Conference
+DESCRIPTION:Markets+ Operations and Reliability Working Group Net Conference 20261028
+URL:https://www.spp.org/calendar-list/marketsplus-operations-and-reliability-working-group-net-conference-20261028/
+END:VEVENT
+BEGIN:VEVENT
+UID:556827@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261029T120000
+DTEND;TZID=America/Chicago:20261030T000000
+SUMMARY:MTWG Net Conference
+DESCRIPTION:Markets+ Transmission Working Group Net Conference 20261029
+URL:https://www.spp.org/calendar-list/marketsplus-transmission-working-group-net-conference-20261029/
+END:VEVENT
+BEGIN:VEVENT
+UID:553783@spp.org
+DTSTAMP:20260801T082449Z
+DTSTART;TZID=America/Chicago:20261029T090000
+DTEND;TZID=America/Chicago:20261030T000000
+SUMMARY:ESWG Net Conference
+DESCRIPTION:Economic Studies Working Group Net Conference 20261029
+URL:https://www.spp.org/calendar-list/economic-studies-working-group-net-conference-20261029/
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ X-WR-CALNAME:PJM Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 DTEND:20260901T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260901T130000
 SEQUENCE:118862347
 SUMMARY:Distributed Resources Subcommittee
-UID:e406f0ad-7662-4fff-b026-b7d09ffea143
+UID:0067cd42-6851-4fcc-8720-12d713c2ccbf
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={06798441-71E1-4907-BB5B-BA876AC12
  51E}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -20,11 +20,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260902T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260902T090000
 SEQUENCE:118862347
 SUMMARY:System Operations Subcommittee
-UID:c0379ab9-df69-43ff-b114-f79c1d261fc4
+UID:1eca9d56-8b78-41bf-afb5-91f2337b814b
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={5EDA1108-FB6F-4ACD-B329-844457BF9
  F1F}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -33,11 +33,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260902T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260902T110000
 SEQUENCE:118862346
 SUMMARY:System Operations Subcommittee - Transmission
-UID:f9f9091a-f418-4204-9007-dde2da952fab
+UID:45b544aa-4d01-4b59-afa7-a044d6ffb749
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={491898EF-BA0C-4D3E-906C-77CD65170
  3BE}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -46,13 +46,13 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260903T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260903T080000
 SEQUENCE:117640773
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:e25cb1c2-4dcf-4a55-9d35-d47fbc08677b
+UID:16cc58d9-9f5a-45b2-8895-3b6146419756
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={05D3ECD2-837B-44BB-BB29-89AFCB64D
  97A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -61,13 +61,13 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260904T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260904T080000
 SEQUENCE:117640775
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:34686a68-7ed4-477c-9324-5a087ece559f
+UID:ca3642b4-3d2c-43cf-b805-1a87c0737bb5
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={BDFE864C-3C81-40ED-8A70-AF6FE4A1D
  4AA}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -76,11 +76,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260908T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260908T090000
 SEQUENCE:118862346
 SUMMARY:Planning Committee
-UID:b6920581-6e26-479a-85bc-e09ba3f14934
+UID:318fc9a6-2715-4be1-9810-8555d9495515
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={92E86A35-0971-40FC-9D16-3202EF79F
  523}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -88,12 +88,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260908T150000
-DTSTAMP:20260914T120929Z
+DTEND:20260908T160000
+DTSTAMP:20260915T110657Z
 DTSTART:20260908T130000
-SEQUENCE:118862345
+SEQUENCE:119188788
 SUMMARY:Transmission Expansion Advisory Committee
-UID:9004866f-aad4-4322-98e7-dd28873ed5bb
+UID:f072dc2b-81ae-4841-8b30-dcee3590a861
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={F54C7CE0-0870-4091-9CB9-4A5C723AC
  EC4}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -101,12 +101,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260909T160000
-DTSTAMP:20260914T120929Z
+DTEND:20260909T143000
+DTSTAMP:20260915T110657Z
 DTSTART:20260909T090000
-SEQUENCE:118862345
+SEQUENCE:119225287
 SUMMARY:Market Implementation Committee
-UID:c145ade0-e5a0-4815-9f89-fc4a6e87fa26
+UID:238e7efa-0bc4-4d08-a722-07037f813224
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={FEAFA559-611A-46C3-8A60-21B923BDE
  051}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -114,12 +114,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260910T140000
-DTSTAMP:20260914T120929Z
+DTEND:20260910T110000
+DTSTAMP:20260915T110657Z
 DTSTART:20260910T090000
-SEQUENCE:118862345
+SEQUENCE:119225104
 SUMMARY:Operating Committee
-UID:c2406891-3678-48d6-b099-18aecb4fc259
+UID:1384db38-ce92-473e-b587-081bd6c2c314
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={406EC983-9738-4969-9001-21EC19A37
  291}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -128,11 +128,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260914T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260914T090000
 SEQUENCE:119056910
 SUMMARY:Post CIFP Workshop - RBP Participant Training
-UID:e6d36080-94fb-4e34-b7d6-cd2f98aa3a81
+UID:e8826327-3305-4faa-bcc8-d2c2d93f848a
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={0EFB28B1-40E8-47BD-B947-253121D4E
  479}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -141,11 +141,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260914T100000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260914T090000
 SEQUENCE:118862343
 SUMMARY:Reliability Standards & Compliance Subcommittee
-UID:1544f452-98ea-41cd-8854-2baef640d754
+UID:b2242258-a7cb-4a1c-9521-df1bcd209ee1
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={33E48DA1-D142-465D-BEE0-5E2F407E8
  7B1}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -154,11 +154,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260914T150000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260914T130000
 SEQUENCE:118862342
 SUMMARY:Tech Change Forum
-UID:e7037633-1fe6-4a1c-b1ea-a5db3f4f93bb
+UID:7eeb3bc8-045c-4492-a8f4-cc7a6fdac399
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={C5B80F10-0947-498C-B0FB-FD8B34295
  C1A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -167,11 +167,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260914T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260914T150000
 SEQUENCE:118862344
 SUMMARY:Independent State Agencies Committee
-UID:e875a200-6d25-446b-a268-b1be95f42fa4
+UID:79086904-4c97-420f-b557-7520f1dbfc1f
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={0B398F12-2B6E-46EB-8841-B9B5BEA91
  04A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -180,11 +180,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260915T100000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260915T090000
 SEQUENCE:118862341
 SUMMARY:Dispatcher Training Subcommittee
-UID:03c4e882-bd76-4932-bf44-8e5b626214e2
+UID:0d3d83ad-e873-438b-b544-8256120ec971
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={AD1D5CFB-E14E-4F7A-9395-C80886292
  B66}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -193,11 +193,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260915T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260915T090000
 SEQUENCE:119171689
 SUMMARY:PC Special Session - Large Load Ride Through Education Session
-UID:92441926-d02e-458f-ae77-023eedcbc37c
+UID:edbc753a-f28f-4d1b-b8ba-0b417dfa6db9
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={959C8ACB-0E8A-41DE-B1D3-9F90BA098
  814}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -205,12 +205,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260916T160000
-DTSTAMP:20260914T120929Z
+DTEND:20260916T120000
+DTSTAMP:20260915T110657Z
 DTSTART:20260916T090000
-SEQUENCE:119029104
+SEQUENCE:119275539
 SUMMARY:Co-Located Load Order Workshop
-UID:d8ae0671-91a0-434f-bb8c-f83ec1fcadf7
+UID:178ef650-85fa-4f27-9598-7deb68641eeb
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={03AA1873-3C34-40C2-A476-8A5EDA4E1
  3E7}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -219,11 +219,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260917T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260917T130000
 SEQUENCE:118862340
 SUMMARY:Subregional RTEP Committee - Mid-Atlantic
-UID:691b753c-4343-4989-9e3a-7f5b3c85be23
+UID:d206c21a-86ac-4596-a445-6abd938398e3
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={74BAF1C5-D434-4D96-A449-000E40E0B
  519}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -232,11 +232,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260917T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260917T130000
 SEQUENCE:118862339
 SUMMARY:Subregional RTEP Committee - Southern
-UID:045dead7-a188-4932-9b87-4822fb18290d
+UID:70e09d08-20ce-49e3-9d21-467fe8cfbbf2
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={95EB722E-2682-431E-901B-32B0AD0BD
  63A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -245,11 +245,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260918T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260918T130000
 SEQUENCE:118862339
 SUMMARY:Subregional RTEP Committee - Western
-UID:1d865f12-237c-4842-9c1b-dbbdfbf6dad1
+UID:226cd89c-dd80-47c7-955f-e71119df3af9
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={FF674E32-4CD3-42FF-976A-A34BE5921
  D8B}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -258,13 +258,13 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260921T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260921T080000
 SEQUENCE:117640778
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:633a84b0-6455-4d34-89e6-053ad7954de0
+UID:2f70673e-3f68-4186-9781-acfbcd0672b9
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={A0514231-01B0-47CA-8FF4-978CC8A9D
  9A1}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -273,11 +273,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260922T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260922T090000
 SEQUENCE:118862337
 SUMMARY:Relay Subcommittee
-UID:e60ad716-a78f-427a-95bb-f093a39452ae
+UID:fc67d50b-fe29-4720-892e-01e238d7274a
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={3323B23C-27F3-4283-A2C1-5F5E48413
  C60}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -285,25 +285,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20260922T160000
-DTSTAMP:20260914T120929Z
-DTSTART:20260922T130000
-SEQUENCE:118862336
-SUMMARY:Modeling Users Forum
-UID:a7162913-1b27-49e6-96cc-8001f4d705f4
-X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
- stration/Meeting%20Registration.aspx?ID={2017CDF3-3955-42BE-8615-7EBB4314A
- B2D}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
- <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
- eeting Center</a>
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20260922T150000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260922T130000
 SEQUENCE:118862336
 SUMMARY:Stakeholder Process Forum
-UID:87ffbc2d-db0b-4149-8657-366a8a97f6ca
+UID:35e9f54f-5918-4ad5-a45c-b4eaf9d1f628
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9E4C8867-EEB0-4960-8095-43DE4A18E
  29A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -311,12 +298,25 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260922T160000
+DTSTAMP:20260915T110657Z
+DTSTART:20260922T130000
+SEQUENCE:118862336
+SUMMARY:Modeling Users Forum
+UID:b65109d8-0dc5-43b9-a243-f8ee686553da
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={2017CDF3-3955-42BE-8615-7EBB4314A
+ B2D}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260922T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260922T150000
 SEQUENCE:118630524
 SUMMARY:Finance Committee - Public Materials Only (No Registration)
-UID:1150eba3-843f-4cf6-99c7-cad3928d4ebd
+UID:c42df2b1-f2af-40bc-9b8e-642e9554ed0b
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={823CF8F2-755F-42A5-8599-1FC5E2B74
  B38}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -325,11 +325,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260923T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260923T130000
 SEQUENCE:118862294
 SUMMARY:Risk Management Committee
-UID:2b755438-afd6-4940-8323-b5465c35dd03
+UID:db0a70fc-aad8-47da-a28c-0b8c735d065b
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={329A791B-A1D3-49D4-8DC1-23633A4B2
  F23}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -338,11 +338,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260924T123000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260924T090000
 SEQUENCE:118862292
 SUMMARY:Markets and Reliability Committee
-UID:38f81b6a-10d3-4a90-9c2b-8438d26b8511
+UID:e924848b-7fde-409c-a640-1b86acfc7195
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={5B5D958D-05CC-4497-A909-DE1F6D843
  4A6}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -351,11 +351,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260924T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260924T131500
 SEQUENCE:118862293
 SUMMARY:Members Committee
-UID:f920ede3-f74c-4908-8f9c-473410231508
+UID:b60fb9f7-189f-47b3-ab06-829b87798da0
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={069483E4-3087-4506-9330-70A521913
  031}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -364,11 +364,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260925T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260925T080000
 SEQUENCE:117640942
 SUMMARY:Contingency Day
-UID:4f16b2a1-c53b-4d9b-8b73-0414563b4302
+UID:66f43bac-9e4d-42cf-8d76-39975c505127
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={CAEEA939-CF7F-46E9-80B9-98E9FEB78
  592}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -377,11 +377,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260925T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260925T090000
 SEQUENCE:119138764
 SUMMARY:Governing Document Enhancement & Clarification Subcommittee
-UID:fe82060f-ae0e-4eec-b7c4-3a3afc16a1ad
+UID:d35cb401-3428-422e-8b51-b76565ea5522
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9CD90A31-2B85-49EA-859D-0AFC7C559
  418}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -390,11 +390,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260928T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260928T090000
 SEQUENCE:118862291
 SUMMARY:Interconnection Process Subcommittee
-UID:2874794c-c084-4f35-abc1-04e5b461da06
+UID:a64a0eff-72df-4cf4-9b00-bd5b3b558573
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={7E41D864-7E8C-40A5-B60A-3569AF7E1
  883}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -403,11 +403,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260928T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260928T130000
 SEQUENCE:118862291
 SUMMARY:MC Information Webinar
-UID:21b5c7ae-31a4-4a0d-bd33-1f8f9d7c15ec
+UID:1754959d-da43-4625-9357-e0cbf6bf3e7a
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={F9F5384C-089C-4777-B006-0ADB25216
  474}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -416,11 +416,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20260929T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20260929T090000
 SEQUENCE:118862290
 SUMMARY:Load Analysis Subcommittee
-UID:fab999f4-d78c-4b85-9d14-2138b28d3353
+UID:f5dc8454-439a-4e0a-a4f7-3a7798b73d18
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={A99EAB91-15F3-4427-A3FE-DE2636A19
  AE8}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -428,12 +428,38 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20260930T160000
+DTSTAMP:20260915T110657Z
+DTSTART:20260930T090000
+SEQUENCE:119189313
+SUMMARY:Co-Located Load Order Workshop
+UID:bbd09871-93d9-40b1-91a0-22daca4dcb6c
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={FFE8AA39-3E17-4B87-9E85-B3214E52C
+ B4F}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261001T160000
+DTSTAMP:20260915T110657Z
+DTSTART:20261001T090000
+SEQUENCE:119275897
+SUMMARY:Powering Reliability Through Market Design Workshops
+UID:ab4a5dc3-6c39-416c-8213-263850b249c7
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={876E95C8-AF52-4800-91F8-A200E6949
+ 92D}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261001T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261001T090000
 SEQUENCE:119033397
 SUMMARY:System Operations Subcommittee
-UID:34cab28d-3fd0-4f69-8525-7495354147c2
+UID:1a237c94-0322-4427-a763-f49ef5fc5b8d
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={037416B0-C518-44A3-B523-2C676C1AE
  581}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -442,11 +468,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261001T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261001T110000
 SEQUENCE:119033398
 SUMMARY:System Operations Subcommittee - Transmission
-UID:9d78e934-2dca-4497-9650-a43d420eeee4
+UID:fbec147d-aa2a-4005-aa03-4c598dec90fd
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={36A16469-77EA-419A-8F08-8A6118E83
  3B4}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -455,11 +481,24 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261002T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
+DTSTART:20261002T090000
+SEQUENCE:119275896
+SUMMARY:Powering Reliability Through Market Design Workshops
+UID:1a3426e3-1c4b-4017-b105-c6e2c9533608
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={7066424F-8950-4638-ABAF-1F9A95822
+ 63E}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261002T160000
+DTSTAMP:20260915T110657Z
 DTSTART:20261002T140000
 SEQUENCE:119033398
 SUMMARY:PJM/MISO IPSAC
-UID:f0a0ed2d-8666-49f8-b8b2-59ee17ade1df
+UID:f8180fc8-6c0d-4d05-a835-ff3a687c8abe
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={D58B8B2A-1E03-4F67-9E2A-5216FE019
  F92}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -467,25 +506,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261005T110000
-DTSTAMP:20260914T120929Z
-DTSTART:20261005T090000
-SEQUENCE:119033399
-SUMMARY:Cost Development Subcommittee
-UID:4cd6dd5b-fe99-467c-aa0d-a2ae0c457d45
-X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
- stration/Meeting%20Registration.aspx?ID={066D545A-08EE-4279-9DCC-5DC40AD15
- 8BC}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
- <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
- eeting Center</a>
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261005T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261005T130000
 SEQUENCE:119033399
 SUMMARY:Distributed Resources Subcommittee
-UID:bf861932-89d4-47ca-81ec-e25ee73cb1b2
+UID:cbeb5945-0497-437c-aedc-cd4bb836e84e
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={8AD07BC9-4A08-462F-A7A0-83A36919B
  D74}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -494,11 +520,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261006T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261006T090000
 SEQUENCE:119033399
 SUMMARY:Planning Committee
-UID:040da689-0eee-42d2-a540-e5d81bdf8894
+UID:32c99167-7ade-44c5-89f5-bd6e74290a11
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={7D80FA99-4483-4D96-8FE3-EEE56C6DD
  1FB}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -506,12 +532,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261006T150000
-DTSTAMP:20260914T120929Z
+DTEND:20261006T160000
+DTSTAMP:20260915T110657Z
 DTSTART:20261006T130000
-SEQUENCE:119033400
+SEQUENCE:119188791
 SUMMARY:Transmission Expansion Advisory Committee
-UID:38a5e656-cf5b-4a05-98f3-2cb70a1d3359
+UID:e416e62f-3d16-4811-8134-bc41f425462c
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={659F1E3E-F171-42A5-8533-FE8FB0FAE
  715}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -520,11 +546,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261007T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261007T090000
 SEQUENCE:119033400
 SUMMARY:Market Implementation Committee
-UID:7862056d-4b89-490d-98e0-5582ba9f3b8c
+UID:ba06dbd7-3012-4147-b222-404b2903ed8a
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={B08B330E-5C8E-409D-8E18-B4311C0D3
  E40}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -533,11 +559,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261008T140000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261008T090000
 SEQUENCE:119033401
 SUMMARY:Operating Committee
-UID:1c7b2898-bcff-4350-a125-7c6294299c4c
+UID:ff59d0bc-004c-493b-8c29-6ffe4e39050d
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={0DF97B14-EA27-46B8-BAE3-14E6E8BC0
  A1A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -545,14 +571,27 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261008T170000
+DTSTAMP:20260915T110657Z
+DTSTART:20261008T140000
+SEQUENCE:119195055
+SUMMARY:RCSTF - Tariff Page Turn
+UID:a60ef2cf-448a-43bd-8393-22466ab0d64b
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={C32C76DA-5FF4-481A-BACE-EC026B732
+ 9E2}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261009T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261009T080000
 SEQUENCE:117640782
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:8e01ad0d-7ab2-4efc-9c97-cf9efb8b31ce
+UID:60672bb5-2bc5-4ea9-86f0-00cd7a41a12d
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={7915F1E2-7242-46C3-849D-2C65E09A1
  3D2}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -561,13 +600,13 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261012T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261012T080000
 SEQUENCE:117640785
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:63a6d3ae-8477-4683-8343-69c0fb0f7a36
+UID:0936a838-14a2-4d6a-aa0a-b59830562be1
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={A8A3BB51-D428-43D4-A43E-AB597BD6F
  F2B}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -576,11 +615,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261013T100000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261013T090000
 SEQUENCE:119033401
 SUMMARY:Dispatcher Training Subcommittee
-UID:22d2dc0d-4f0a-4d72-897f-e26081dd0363
+UID:ea5dada6-112c-4c65-b1f0-995f5101ec16
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={1CA490EB-7279-41C1-9590-544487609
  CBF}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -589,11 +628,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261013T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261013T090000
 SEQUENCE:119138772
 SUMMARY:Governing Document Enhancement & Clarification Subcommittee
-UID:16fa4006-836b-4f84-bef5-4b3ec9b4e7bf
+UID:529fd4df-bab0-4ccf-820b-bf20f4c964f2
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={D89A24CE-0B47-4D19-B95F-A88817E39
  260}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -601,25 +640,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261013T160000
-DTSTAMP:20260914T120929Z
-DTSTART:20261013T130000
-SEQUENCE:119173112
-SUMMARY:Co-Located Load Order Workshop
-UID:c7720d5e-b11e-4aa3-8b2b-6c3704295535
-X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
- stration/Meeting%20Registration.aspx?ID={525B64A9-B954-4AB4-8E7C-2B90D3961
- 1AE}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
- <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
- eeting Center</a>
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261013T150000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261013T130000
 SEQUENCE:119033404
 SUMMARY:Tech Change Forum
-UID:459793bb-7ddb-42b3-9395-29149ec8dab0
+UID:5a7ad759-67e3-4cc9-860f-77f04eb12a08
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={0726FB12-69D4-49A0-A962-4323CC85C
  37E}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -628,11 +654,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261014T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261014T090000
 SEQUENCE:119033404
 SUMMARY:Load Analysis Subcommittee
-UID:0da43254-a6e5-46ca-85e2-57069a388f9b
+UID:c1800a5c-d855-475d-a907-f44c4bb90aa1
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={1E6383CA-A96E-4955-9CFD-78AD30E94
  40C}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -641,11 +667,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261016T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261016T090000
 SEQUENCE:119154309
 SUMMARY:Subregional RTEP Committee - Southern
-UID:e1905dd8-5564-4711-b751-ad1ccf252236
+UID:34a26693-8d85-4463-b1af-264c6491a779
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={78AEA9E3-B84D-47CE-B299-DC1223B2D
  755}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -653,25 +679,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261016T120000
-DTSTAMP:20260914T120929Z
-DTSTART:20261016T090000
-SEQUENCE:119154307
-SUMMARY:Subregional RTEP Committee - Mid-Atlantic
-UID:11e8ddb8-89d2-49a2-b4c6-b511bc8cb403
-X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
- stration/Meeting%20Registration.aspx?ID={01828E29-D306-478C-8D0D-F58F3191F
- C8D}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
- <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
- eeting Center</a>
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20261016T100000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261016T090000
 SEQUENCE:119154256
 SUMMARY:Reliability Standards & Compliance Subcommittee
-UID:78f9123f-b808-4176-a78c-6090b64a7a54
+UID:fb3d0f11-6039-4202-ac79-787543ee8140
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={89040D5C-4BFE-4CED-B787-FB66D8722
  977}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -679,12 +692,25 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261016T120000
+DTSTAMP:20260915T110657Z
+DTSTART:20261016T090000
+SEQUENCE:119154307
+SUMMARY:Subregional RTEP Committee - Mid-Atlantic
+UID:da0e2d1b-dae7-481e-9d2b-4e0db3d65186
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={01828E29-D306-478C-8D0D-F58F3191F
+ C8D}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261016T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261016T130000
 SEQUENCE:119154256
 SUMMARY:Subregional RTEP Committee - Western
-UID:e7dfcb59-8daa-4542-8d6c-ef58874d703a
+UID:ff9c219a-5f5c-41a9-b98e-2f1d3da70a9a
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={98DBDB55-8175-46BF-A760-949B4D091
  2D5}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -693,11 +719,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261023T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261023T090000
 SEQUENCE:119033407
 SUMMARY:Interconnection Process Subcommittee
-UID:9804b436-78de-4a99-888c-10719ea8e015
+UID:087727ef-266d-494e-828c-46ea5ff0e9fd
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9526EB85-84FD-46DF-89C5-4468C26AA
  519}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -705,12 +731,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261026T120000
-DTSTAMP:20260914T120929Z
-DTSTART:20261026T100000
-SEQUENCE:119033408
+DTEND:20261023T150000
+DTSTAMP:20260915T110657Z
+DTSTART:20261023T130000
+SEQUENCE:119276876
 SUMMARY:Stakeholder Process Forum
-UID:9fe48e78-fec3-400f-8a87-97f9a3595e3c
+UID:78a68025-fd44-4416-8344-1917901d9f38
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={0383890B-3FA3-4885-B384-60ECD7581
  C86}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -719,11 +745,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261026T160000
-DTSTAMP:20260914T120929Z
-DTSTART:20261026T130000
-SEQUENCE:119173118
+DTSTAMP:20260915T110657Z
+DTSTART:20261026T090000
+SEQUENCE:119275580
 SUMMARY:Co-Located Load Order Workshop
-UID:a62d4a05-a946-430b-9269-65dc55865958
+UID:0fd5628f-415b-4e7a-a94b-24d34ad33467
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={C93FA569-03A4-43FE-AD76-066F82FCA
  3F4}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -732,12 +758,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261027T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261027T090000
 SEQUENCE:118630658
 SUMMARY:Transmission Owners Agreement-Administrative Committee - Public Mat
  erials Only (No Registration)
-UID:7b3ab332-fcc0-421b-9955-10eef73a86fe
+UID:96068b84-0c8a-4247-aa86-acf23c4a9c18
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={AFC01A70-54A8-4C6B-AE6E-410C9ABDE
  B0E}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -746,11 +772,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261027T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261027T090000
 SEQUENCE:119033409
 SUMMARY:Transmission Owners Agreement-Administrative Committee
-UID:ac78d417-d44e-44a8-b87d-8f47cdd415f0
+UID:0610e0e3-bca8-437a-9cc9-40701655cc29
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={09037664-1E44-4414-9EFC-6E09E12CE
  13F}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -759,11 +785,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261027T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261027T130000
 SEQUENCE:119033409
 SUMMARY:Risk Management Committee
-UID:be812e11-80fe-4064-be0d-69eea8487bc4
+UID:a8f60975-f562-481e-9785-04b3ce60efde
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={C049F407-7434-4845-ACBB-C2A362748
  671}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -772,11 +798,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261028T123000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261028T090000
 SEQUENCE:119033410
 SUMMARY:Markets and Reliability Committee
-UID:4d17c622-abc2-4a65-8a04-cfa950d27b72
+UID:cfb1c6d6-9ce5-4c68-a516-56a82ab02dd2
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={A51ADB32-80B1-47BA-BF0A-867749CD1
  BA6}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -785,11 +811,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261028T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261028T131500
 SEQUENCE:119033409
 SUMMARY:Members Committee
-UID:f477c506-0434-4acc-bc03-39ec33459ad9
+UID:8caea5f0-a08c-4f89-bda0-a4c13eadd353
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={277893DE-C58F-4B82-8754-60D703500
  4DB}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -798,11 +824,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261029T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261029T090000
 SEQUENCE:119033410
 SUMMARY:System Operations Subcommittee
-UID:41ed7495-0b56-4c0a-9e50-bdbb748bf3cb
+UID:1fe21fea-afdd-4ba5-8553-23221ab85651
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={D3793E1F-D66E-4A92-9DF7-72F2B75E2
  826}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -811,11 +837,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261029T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261029T110000
 SEQUENCE:119033411
 SUMMARY:System Operations Subcommittee - Transmission
-UID:e98189f5-79a6-4502-b5a4-da22f0ea1a07
+UID:4fceadc7-6693-420e-a33f-2b4ded63c4cd
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={1A4836CA-FC87-4279-A447-864577160
  CDC}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -824,11 +850,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261029T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261029T130000
 SEQUENCE:119033410
 SUMMARY:MC Information Webinar
-UID:66355669-10d2-47ba-9d4f-65efc070d44d
+UID:f9c4a44d-3e1d-4872-a399-2ac7026c9a97
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={DB2697F6-C515-4490-B805-DB33F3F4A
  8FB}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -837,11 +863,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261030T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261030T080000
 SEQUENCE:117640950
 SUMMARY:Contingency Day
-UID:6f696fd5-3dd7-4ca2-bb97-751b47f4142e
+UID:4a041a17-adba-4b20-a4e2-3e23a80a1136
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={38400C75-9B10-4417-B4E1-0441C56E8
  F41}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -850,12 +876,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261030T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261030T090000
 SEQUENCE:119033411
 SUMMARY:MIC Special Session - Regulation Market Design Phase 2 Education Se
  ssion
-UID:ef85f89e-abde-4877-a6f3-b571417272cc
+UID:fae6bfbc-e118-4d94-8a63-93fefb55cd2d
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={B03FF626-EEAA-47A3-BF45-A06B2186F
  730}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -863,12 +889,25 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261030T160000
+DTSTAMP:20260915T110657Z
+DTSTART:20261030T130000
+SEQUENCE:119195068
+SUMMARY:RCSTF - Tariff Page Turn
+UID:5d1ae158-e7bd-4b8d-8c85-dc79163e7110
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={FF88357D-E570-44E2-BD08-48DEFFE50
+ BA7}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261102T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261102T090000
 SEQUENCE:119183505
 SUMMARY:Cost Development Subcommittee
-UID:3d72490a-4165-46f1-bb59-187be297495b
+UID:e095ecaf-d35c-4861-a6c5-b6929f80e230
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={A5E05328-21D5-4AFA-871A-2154D7924
  762}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -877,11 +916,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261102T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261102T130000
 SEQUENCE:119183506
 SUMMARY:Distributed Resources Subcommittee
-UID:c02ad7fb-3f16-41d9-83ba-856e6362b51c
+UID:e1e844d9-d5eb-450e-991c-99e1851f7a3f
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={8B345A0A-0D08-4BB8-8D26-30D00759F
  397}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -890,11 +929,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261103T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261103T090000
 SEQUENCE:119183507
 SUMMARY:Planning Committee
-UID:78853f41-ce3e-42d2-9d77-ef45da4c0e99
+UID:fc2f12bb-d129-408d-8caf-4e7bea4c3ff1
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={E1BE3691-FA92-4DA6-B58E-F0A6ADE1E
  76C}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -902,12 +941,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20261103T150000
-DTSTAMP:20260914T120929Z
+DTEND:20261103T160000
+DTSTAMP:20260915T110657Z
 DTSTART:20261103T130000
-SEQUENCE:119183509
+SEQUENCE:119188795
 SUMMARY:Transmission Expansion Advisory Committee
-UID:77ce8bd6-e39e-45d5-827a-7a0450d137f2
+UID:13a1cfc8-d847-41c7-8cc0-75a765026d14
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={2711BEE6-F82B-44A4-B29D-F33322A08
  8E8}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -916,11 +955,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261104T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261104T090000
 SEQUENCE:119183511
 SUMMARY:Market Implementation Committee
-UID:63a664f3-3c28-40b0-a25f-b38c70266564
+UID:fe68a5fb-f653-414c-9871-c179bfacd259
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={CD821B44-8206-480B-AAC8-368690575
  8CB}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -929,11 +968,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261105T140000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261105T090000
 SEQUENCE:119183513
 SUMMARY:Operating Committee
-UID:72e6dce2-0e44-4090-bb05-3fd4e8d0d41d
+UID:24cb5938-74c3-4858-9d50-e6c61f99b445
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9AA882C2-7231-439C-9111-A0990749B
  86A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -942,11 +981,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261106T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261106T090000
 SEQUENCE:119183514
 SUMMARY:Load Analysis Subcommittee
-UID:01fd7f7d-500a-46db-854b-3eba33979cc8
+UID:65296197-aa09-49b6-8860-b2cccd735aa8
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={013031FD-5489-44EE-AF91-2BB29F22F
  3EE}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -955,13 +994,13 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261109T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261109T080000
 SEQUENCE:117640792
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:bc9f3ce1-b349-439d-a566-1ec0c875b775
+UID:0aa229cb-1cd2-443a-92e3-79e36672b29a
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={B5A9E170-554F-4393-9B42-621C8281A
  B35}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -970,13 +1009,13 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261110T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261110T080000
 SEQUENCE:117640794
 SUMMARY:No Meetings - In accordance with PJM Manual 34\, no committee meeti
  ngs are to occur on the identified No Meeting days without unanimous conse
  nt of the members of the committee.
-UID:47d07ad4-9abd-4f6c-a32d-e034b26e3f60
+UID:7ada14ff-e267-4b82-baa5-4173307f94d9
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={E76ED8D6-7BBE-4CDA-B750-AFB95F3B8
  E34}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -985,24 +1024,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261112T120000
-DTSTAMP:20260914T120929Z
-DTSTART:20261112T090000
-SEQUENCE:119183518
-SUMMARY:Relay Subcommittee
-UID:b7f30697-8e7d-46ee-9aa1-6b4f647c54a7
-X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
- stration/Meeting%20Registration.aspx?ID={77C95F50-8652-468D-9596-DC977FFA7
- C44}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
- <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
- eeting Center</a>
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20261112T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261112T090000
 SEQUENCE:119183517
 SUMMARY:Electric Gas Coordination Subcommittee
-UID:e2cda6f1-bba8-4ea3-8fcc-e72744e2c51c
+UID:ba751421-97d6-4f01-97d7-6fdefdc33b81
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={47A3CA55-1FA3-431C-8202-305BA8E25
  87A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1010,12 +1036,25 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  eeting Center</a>
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20261112T120000
+DTSTAMP:20260915T110657Z
+DTSTART:20261112T090000
+SEQUENCE:119183518
+SUMMARY:Relay Subcommittee
+UID:1186bab0-9a5b-470b-a396-fe7945d4e1a5
+X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
+ stration/Meeting%20Registration.aspx?ID={77C95F50-8652-468D-9596-DC977FFA7
+ C44}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
+ <a href='https://www.pjm.com//committees-and-groups/meeting-center.aspx'>M
+ eeting Center</a>
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20261112T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261112T130000
 SEQUENCE:119183519
 SUMMARY:Subregional RTEP Committee - Mid-Atlantic
-UID:cf0f771e-c946-475c-85a4-9c4acf8b2451
+UID:2c332116-8c03-46da-8824-1da90e38e53d
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={53777755-A405-48F7-B3B0-651070456
  FC5}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1024,11 +1063,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261112T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261112T130000
 SEQUENCE:119183520
 SUMMARY:Subregional RTEP Committee - Southern
-UID:8778eb2e-0019-48ac-9ada-b898b6c5e4fc
+UID:6a4217af-dc6f-4093-8b4d-5e83966403d0
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={C3DF399A-90D1-4E88-8E50-FF4BBF92D
  E72}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1037,12 +1076,12 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261113T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261113T090000
 SEQUENCE:119183522
 SUMMARY:MIC Special Session - Regulation Market Design Phase 2 Education Se
  ssion
-UID:33ecff6f-b8f8-4a27-a178-62f8bdb1f450
+UID:068d1a60-33d7-4000-97b0-98113429c0ae
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={C6ABCC2D-B778-4014-851A-1FF5E1F1A
  774}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1051,11 +1090,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261113T100000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261113T090000
 SEQUENCE:119183524
 SUMMARY:Reliability Standards & Compliance Subcommittee
-UID:69c38baf-f2b9-4139-b9bc-50e68948fce5
+UID:1101dd43-a2b4-40f3-8140-d7e460cd514f
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={1C33FCDC-73F8-474B-B1A6-CEBE6C129
  318}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1064,11 +1103,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261113T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261113T130000
 SEQUENCE:119183525
 SUMMARY:Subregional RTEP Committee - Western
-UID:e355f52c-90e0-4299-8741-07453ac94dbb
+UID:606507f3-1b64-4038-acd0-d020f1f60444
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={A9718518-5DB0-47BF-9A1C-60A8046F0
  94E}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1077,11 +1116,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261116T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261116T100000
 SEQUENCE:119183531
 SUMMARY:Stakeholder Process Forum
-UID:0d57d72e-ce1c-4c8a-9abb-9dee6a8735be
+UID:a6f6b077-d9ab-403b-8c09-cb2e29817219
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={DFD3F6B0-6E45-4682-A2B7-6C643FB05
  F7B}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1090,11 +1129,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261116T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261116T130000
 SEQUENCE:119183533
 SUMMARY:Modeling Users Forum
-UID:354c0d0e-dadb-4985-ae20-6f160c21c818
+UID:edb88267-e3ed-4f02-a93d-59fbd6fe19a0
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={3C4FA8C2-0BCE-4594-8271-5795DC7FD
  640}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1103,11 +1142,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261116T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261116T150000
 SEQUENCE:119183532
 SUMMARY:Independent State Agencies Committee
-UID:1c765d13-d008-435a-ad3b-36fdaa4a8f44
+UID:35278554-4290-4d9b-9982-99655dabd9d1
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={479765AD-E65D-4724-BDCC-27E73F674
  F6F}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1116,11 +1155,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261117T100000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261117T090000
 SEQUENCE:119183537
 SUMMARY:Dispatcher Training Subcommittee
-UID:84617e79-b516-43da-b659-a6974d8282e6
+UID:6a2a015f-5ce6-4cb6-abe4-ecebc0af0344
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={7010AC6B-6789-49C5-8FF7-FBE7A5D3A
  499}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1129,11 +1168,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261117T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261117T100000
 SEQUENCE:119183538
 SUMMARY:Market Settlements Subcommittee
-UID:1d40ce1d-f6ee-49a7-a752-7fdb1b0acd3e
+UID:6227ed73-f1ca-4218-a401-ed72c718dd47
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={21E915C6-575D-421C-BE9B-FAF80AFDB
  5C5}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1142,11 +1181,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261117T150000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261117T130000
 SEQUENCE:119183541
 SUMMARY:Tech Change Forum
-UID:17e8b233-0e60-49bf-afd4-dde47800e79d
+UID:904a0d4f-0089-43c7-9707-72e28cfd7aa8
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={7CC22FA7-F24A-4115-91B4-65C4FE3A7
  4E7}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1155,11 +1194,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261117T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261117T150000
 SEQUENCE:119109061
 SUMMARY:LC - Public Materials Only (No Registration)
-UID:a95e368b-8a30-455e-96b8-ae761286e9a7
+UID:512be03e-4900-48d4-820c-f1fe905f5367
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={6DC1DB31-C27C-4474-98BA-069BC6903
  99F}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1168,11 +1207,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261118T123000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261118T090000
 SEQUENCE:119183547
 SUMMARY:Markets and Reliability Committee
-UID:43972314-9a45-4962-b389-a6013241ee79
+UID:4393883f-08c2-4d04-b277-88dbb5a89aa2
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9331B050-A030-46E9-94C5-1580FC146
  A12}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1181,11 +1220,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261118T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261118T131500
 SEQUENCE:119183546
 SUMMARY:Members Committee
-UID:d912dd61-9d58-4019-bdd1-073327d5e82d
+UID:d0649a1a-e825-4706-aa59-6530f05eb237
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={D45DCF65-9E47-40CD-BE8E-0A3DB6ADE
  0D5}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1194,11 +1233,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261119T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261119T130000
 SEQUENCE:119183548
 SUMMARY:Risk Management Committee
-UID:f608172d-c4ff-4f83-ae8b-cd5e0acaa019
+UID:70d6512e-945b-4bf2-bbb9-c088284e1d76
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={63EE5BFD-2514-4F15-933C-A6E049757
  3E3}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1207,11 +1246,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261123T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261123T090000
 SEQUENCE:119183549
 SUMMARY:Interconnection Process Subcommittee
-UID:58f63588-2d5b-4307-a811-e0814c81f6a6
+UID:16ed96ab-e752-4d8b-91b7-a1dd9e98067c
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={BE7C0F3A-9D0C-4202-9C53-C12E3D123
  295}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1220,11 +1259,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261123T170000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261123T130000
 SEQUENCE:119183551
 SUMMARY:MC Information Webinar
-UID:ba5d0d6f-7151-4e02-8006-83501e64239d
+UID:16831235-a4d9-4e84-ab82-8a261709d822
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9E88DEAF-6BF2-4C55-A6D0-E40FA57E0
  7EF}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1233,11 +1272,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261124T160000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261124T090000
 SEQUENCE:119183552
 SUMMARY:Load Analysis Subcommittee
-UID:bd68a1e9-b764-4727-a120-b3665a025a8e
+UID:4b78d5fb-4562-4565-b804-2ea7124985ce
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={FCC69B73-649B-4762-8044-6EA387F34
  1A8}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1246,11 +1285,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261125T200000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261125T080000
 SEQUENCE:117640955
 SUMMARY:Contingency Day
-UID:4c52e4d0-9e6e-4604-a2f9-bb293140814c
+UID:0f941e4b-ef73-4e41-89a3-b4c8f92c5a5e
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={6647219F-9B72-4C51-BE0C-66C546B1D
  EFD}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1259,11 +1298,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261130T110000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261130T090000
 SEQUENCE:119183554
 SUMMARY:System Operations Subcommittee
-UID:4f6477bf-9ce3-46e2-8c58-41c69323efc6
+UID:b148daa3-cd2e-441a-bba5-1600b61aa737
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={1EF26477-ED8E-43B2-87CE-9775376F6
  796}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1272,11 +1311,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261130T120000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261130T110000
 SEQUENCE:119183555
 SUMMARY:System Operations Subcommittee - Transmission
-UID:5f3fa563-eb97-4724-84eb-66d5a0251e99
+UID:be583980-e2aa-4e80-8c6c-3b26a326231e
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={8287FD1D-06EA-4CA4-AF3F-D9C2332B2
  A29}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1285,11 +1324,11 @@ X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20261130T150000
-DTSTAMP:20260914T120929Z
+DTSTAMP:20260915T110657Z
 DTSTART:20261130T130000
 SEQUENCE:119183553
 SUMMARY:Cost Development Subcommittee
-UID:43d0d482-c2c2-4e10-b08b-6139a2e18dc2
+UID:d1f37916-00c5-4f41-b7cd-501e5c85be2c
 X-ALT-DESC;FMTTYPE=text/html:\n<BR><a href='https://www.pjm.com//forms/regi
  stration/Meeting%20Registration.aspx?ID={9926568F-4796-499E-AB59-6CF6617AC
  22A}'>Meeting Details</a><BR><BR>To register for this meeting\, visit the 
@@ -1303,12 +1342,12 @@ DESCRIPTION:Course Description: PJM 101: The Basics is an overview course i
  ecurity/Logon.aspx?StartPage=ClassDesc&Continue=cCrseSearch&CrseSite=01&Ar
  ea=NNA&Subj=PJM&Crse=101&SessNo=1&SessDate=20260909&ClassSite=01\n
 DTEND:20260909T235959
-DTSTAMP:20260914T120938Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260909
 LOCATION:Audubon\, PA
 SEQUENCE:118791431
 SUMMARY:PJM 101: The Basics
-UID:b4581f33-f42c-451e-92b4-bb9865599547
+UID:aba9925c-6be0-4dec-b4f2-f6ec92738c7c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course Description: The Load Serving Entity 101 course is an en
@@ -1318,12 +1357,12 @@ DESCRIPTION:Course Description: The Load Serving Entity 101 course is an en
  rch&CrseSite=01&Area=NNA&Subj=LSE&Crse=101&SessNo=1&SessDate=20260910&Clas
  sSite=01\n
 DTEND:20260910T235959
-DTSTAMP:20260914T120938Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260910
 LOCATION:Audubon\, PA
 SEQUENCE:118791438
 SUMMARY:Load Serving Entity 101
-UID:fc600869-ca7b-4d78-8a75-9251ce4143df
+UID:1432e55f-0c37-4d63-890b-494c720e5414
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course Description: This course will provide a general overview
@@ -1332,12 +1371,12 @@ DESCRIPTION:Course Description: This course will provide a general overview
  ogon.aspx?StartPage=ClassDesc&Continue=cCrseSearch&CrseSite=01&Area=PJM&Su
  bj=FUN&Crse=PSR&SessNo=1&SessDate=20260915&ClassSite=01\n
 DTEND:20260917T235959
-DTSTAMP:20260914T120938Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260915
 LOCATION:Audubon\, PA
 SEQUENCE:118791448
 SUMMARY:Power System Elements
-UID:a1cf6c73-8c87-48ae-9bdc-c8b9741ddc88
+UID:bacb8646-9951-41f3-8086-a51e22b0152e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course Description: Review the topics of real and reactive powe
@@ -1348,12 +1387,12 @@ DESCRIPTION:Course Description: Review the topics of real and reactive powe
  eSite=01&Area=PJM&Subj=VTS&Crse=O08&SessNo=1&SessDate=20260922&ClassSite=0
  1\n
 DTEND:20260922T235959
-DTSTAMP:20260914T120938Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260922
 LOCATION:Virtual
 SEQUENCE:118791455
 SUMMARY:Stability
-UID:20d675e5-8983-4dca-8351-7bc6fa09c83e
+UID:8fa30540-ba4f-4a7c-bd27-0e3ccddddeef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course Description: This Program may be completed In-Person wit
@@ -1362,12 +1401,12 @@ DESCRIPTION:Course Description: This Program may be completed In-Person wit
  ction/Security/Logon.aspx?StartPage=ClassDesc&Continue=cCrseSearch&CrseSit
  e=01&Area=PJM&Subj=FTO&Crse=R1&SessNo=1&SessDate=20260928&ClassSite=01\n
 DTEND:20261002T235959
-DTSTAMP:20260914T120938Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260928
 LOCATION:Audubon\, PA
 SEQUENCE:119050877
 SUMMARY:Transmission Initial Training Program (ITP)
-UID:d46ab9d4-8cbc-46c7-b34c-db9b62227ce4
+UID:79528e8b-e75e-4f8a-802e-7716e75504fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Course Description: This program is a comprehensive training pr
@@ -1376,963 +1415,1004 @@ DESCRIPTION:Course Description: This program is a comprehensive training pr
  e=ClassDesc&Continue=cCrseSearch&CrseSite=01&Area=PJM&Subj=GOF&Crse=R1&Ses
  sNo=1&SessDate=20260928&ClassSite=01\n
 DTEND:20261002T235959
-DTSTAMP:20260914T120938Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260928
 LOCATION:Audubon\, PA
 SEQUENCE:119051423
 SUMMARY:Generation Initial Training Program
-UID:6b1df455-b10d-49db-b5ef-dc95ba3ff926
+UID:0f583e66-5894-4ccd-ba08-4322443b4fd4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course Description: This two hour DR course provides participan
+ ts with a 101 level overview of DR participation in PJM Markets and Reliab
+ ility Activities.\nRegistration URL: https://pjmexternal.webex.com/weblink
+ /register/rebb1c0030ae6eb215639d549155f41a7\n
+DTEND:20261013T235959
+DTSTAMP:20260915T110658Z
+DTSTART;VALUE=DATE:20261013
+LOCATION:Virtual
+SEQUENCE:119276893
+SUMMARY:Demand Response Overview
+UID:d055acda-cf6c-44ec-84b0-1a3165a2d7f5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course Description: This is an overview course on Demand Resour
+ ces participating in the ancillary services markets.\nRegistration URL: ht
+ tps://pjmexternal.webex.com/weblink/register/r1b05e7a09dfa21da6ed09519dc83
+ a9b6\n
+DTEND:20261027T235959
+DTSTAMP:20260915T110658Z
+DTSTART;VALUE=DATE:20261027
+LOCATION:Virtual
+SEQUENCE:119276903
+SUMMARY:Economic DR in Ancillary Services Markets
+UID:2da1eedf-19c1-4e30-99e4-32e29ae45d1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Course Description: This one-day course provides an in-depth lo
+ ok at the components of locational marginal pricing (LMP) including the sh
+ adow price.\nRegistration URL: https://www4.virtualtrainingassistant.com/P
+ JM/LearnerConnection/Security/Logon.aspx?StartPage=ClassDesc&Continue=cCrs
+ eSearch&CrseSite=01&Area=NNA&Subj=LMP&Crse=101&SessNo=1&SessDate=20261118&
+ ClassSite=01\n
+DTEND:20261118T235959
+DTSTAMP:20260915T110658Z
+DTSTART;VALUE=DATE:20261118
+LOCATION:Audubon\, PA
+SEQUENCE:119276935
+SUMMARY:LMP/FTR
+UID:b7ed403b-cdcc-4cf0-aefa-110e31a8b7ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:During the EMS model build various transmission and generation 
  changes (additions/removals) are made in both the operations and markets m
  odels.
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260914T120934Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260915
 SEQUENCE:115607730
 SUMMARY:EMS Model Build
-UID:b4675c5c-8229-4e79-960d-045bbca86882
+UID:7c2a1f35-0147-4dc2-a66d-9a37398d91d8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260901
 SEQUENCE:118849398
 SUMMARY:8/26 MTD Weekly Bill Issued by 5PM
-UID:54116861-b288-4e1a-a0d6-19af8f8d9599
+UID:70c7fcc5-1534-410d-a189-eb95af1f5ca9
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260904
 SEQUENCE:118849399
 SUMMARY:8/26 MTD Weekly Bill Customer Payment by 12PM
-UID:6a6c2324-6e1c-4865-b912-441a27c2a54c
+UID:4d95dddb-e057-4235-955c-7c52b3fbf8a5
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:118849403
 SUMMARY:8/26 MTD Weekly PJM Day Payment by 5PM
-UID:ab8d146b-9456-4be9-ac1f-ed7e86d583ac
+UID:5504d386-9283-42d4-95da-4e65aabef946
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:118849404
 SUMMARY:August MTD Monthly Bill Issued by 5PM
-UID:1e050020-9d4c-406c-8e2a-fdf05e1a7d96
+UID:3ee03235-5753-4ae8-9510-32f0b4488376
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260908
 SEQUENCE:118849406
 SUMMARY:9/2 MTD Weekly Bill Issued by 5PM
-UID:ae1657d7-0133-4587-b8bf-9430615e858c
+UID:0148f75d-4f8b-4dad-85ce-a7b77bfb6dc9
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260911
 SEQUENCE:118849421
 SUMMARY:Weekly 9/2 & Monthly August Customer Payment Due by 12PM
-UID:a898cf53-6613-434a-91dc-5c6e0b7b833c
+UID:9f22b1ee-724b-4111-8281-31885abf9a79
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260914
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118849424
 SUMMARY:Weekly 9/2 & Monthly August PJM Payment Due by 5PM
-UID:a24017b9-c78a-45d6-aa27-875c94a1e7ce
+UID:f3cfbb69-3a02-4841-bd14-134928b3729e
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260915
 SEQUENCE:118849427
 SUMMARY:9/9 MTD Weekly Bill Issued by 5PM
-UID:5830680e-7928-4093-acd1-1d2bf6369141
+UID:2dad2ac8-2af4-46c0-8c27-968eba9b1a5f
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260918
 SEQUENCE:118849429
 SUMMARY:9/9 MTD Weekly Bill Customer Payment by 12PM
-UID:83d400cf-2865-4ae5-bd98-762b314dbd18
+UID:84ac3cf5-872a-4346-9757-7928c65a1cf8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118849432
 SUMMARY:9/9 MTD Weekly PJM Payment by 5PM
-UID:6f8fa20a-868c-45a0-adbb-5ef00bf0b589
+UID:cc1ea6e9-6892-4333-896f-354f586a4772
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260922
 SEQUENCE:118849434
 SUMMARY:9/16 MTD Weekly Bill Issued by 5PM
-UID:865622a7-212f-444b-b0db-3f722632695e
+UID:d0a327ec-3c41-45ab-a252-a19ec14a566d
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260925
 SEQUENCE:118849436
 SUMMARY:9/16 MTD Weekly Bill Customer Payment by 12 PM
-UID:91e48068-a9a2-4c0b-96b0-ccd4dbc63363
+UID:4ef2f44b-bf4a-4072-8ae7-2294af360577
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260928
 SEQUENCE:118849438
 SUMMARY:9/16 MTD Weekly PJM Payment by 5PM
-UID:3c9d523e-7aeb-450d-b532-5021a9b44ee3
+UID:013e7847-79e1-45f0-810c-a4146717ea06
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20260929
 SEQUENCE:118849440
 SUMMARY:9/23 MTD Weekly Bill Issued by 5PM
-UID:bf9eeecb-40c5-41f5-9cb5-137b3245dab7
+UID:11404c0d-f558-44cd-85d5-93a70f072da6
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261002
 SEQUENCE:118849495
 SUMMARY:9/23 MTD Weekly Bill Customer Payment by 12PM
-UID:e0307f7d-7ba6-4cdc-ab12-fab66a7bf7de
+UID:3cc76a82-70eb-4f28-89c7-a3544f37e825
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261005
 SEQUENCE:118849497
 SUMMARY:9/23 MTD Weekly PJM Payment by 5PM
-UID:3b1aed44-2096-4764-bee1-33825b31306b
+UID:d7e35c43-5c6d-4acd-8364-a804541e5340
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261007
 SEQUENCE:118849499
 SUMMARY:September MTD Monthly Bill Issued by 5PM
-UID:54862b97-e504-45cb-a36c-98706955df6c
+UID:fd3ebbd6-283e-4c93-af6b-887aeb0f9eda
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:118849505
 SUMMARY:10/7 MTD Weekly Bill Issued by 5PM
-UID:d262bab6-fb31-4281-b18d-4790c2767788
+UID:5cf26679-c489-446a-a309-0e577131dd0d
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261016
 SEQUENCE:118849508
 SUMMARY:Weekly 10/7 & Monthly September Customer Payment Due by 12PM
-UID:5b869b02-0dda-4fe2-ade8-059b2cc6e48b
+UID:306db01e-c3a1-4275-b254-e08c28f2cdfa
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118849510
 SUMMARY:Weekly 10/7 & Monthly September PJM Payment Due by 5PM
-UID:fd1150ee-c022-498c-bbd0-f73e5df89712
+UID:78dc0a20-9209-4940-9a94-eca52211757e
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261020
 SEQUENCE:118849513
 SUMMARY:10/14 MTD Weekly Bill Issued by 5PM
-UID:6a23d6e4-688a-459d-b33c-da77b2851bc6
+UID:7c475581-3fc7-4ff7-8dd8-bb5ae9f034fb
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261023
 SEQUENCE:118849515
 SUMMARY:10/14 MTD Weekly Bill Customer Payment by 12PM
-UID:6cf06748-4deb-4e47-a0fa-fcfcc4dbd23d
+UID:e2fd859e-85c9-49be-a248-ad889a87d8e3
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118849517
 SUMMARY:10/14 MTD Weekly PJM Payment by 5 PM
-UID:33d25d72-63db-4356-a9a5-b51b4a3f22e0
+UID:f730dc92-fb80-460a-8c83-c0d1e6ffe61c
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261027
 SEQUENCE:118849519
 SUMMARY:10/21 MTD Weekly Bill Issued by 5PM
-UID:e9935891-e012-4101-8295-4f2a94b20eb3
+UID:d996790f-4805-42bb-b5fc-cc614eb312a9
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261031
 SEQUENCE:118849522
 SUMMARY:10/21 MTD Weekly Bill Customer Payment by 12PM
-UID:841e4507-98f1-483f-8c84-9033f960a354
+UID:9590766f-84ee-4cfe-8088-4c14398b0bc4
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261102
 SEQUENCE:118849581
 SUMMARY:10/21 MTD Weekly PJM Payment by 5PM
-UID:07f98ccb-cae0-4714-bff6-bd93931cc838
+UID:79a034c4-9837-4a29-8467-885dbf993045
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261103
 SEQUENCE:118849584
 SUMMARY:10/28 MTD Weekly Bill Issued by 5PM
-UID:607f636d-d7b5-4264-a9e0-b63eb9ec7fd0
+UID:fc0319cf-da78-4763-bfd4-13b28fd38497
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261106
 SEQUENCE:118849587
 SUMMARY:10/28 MTD Weekly Bill Customer Payment by 12PM
-UID:2d2aa4b6-872b-4642-95e4-baed18e16b0f
+UID:b34377b5-0007-4b80-acf5-d447e80eb751
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261106
 SEQUENCE:118849588
 SUMMARY:October MTD Monthly Bill Issued by 5PM
-UID:66e2e560-2a45-43ee-b5bf-aa834b12bd7b
+UID:c93f9156-539a-43b1-9819-f5f07234836e
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261109
 SEQUENCE:118849592
 SUMMARY:10/28 MTD Weekly PJM Payment by 5PM
-UID:a80da0a3-9b78-4f37-ab43-79fc86f29581
+UID:b65426db-952b-4a3a-96fb-53f2731cd0fa
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:118849593
 SUMMARY:11/4 MTD Weekly Bill Issued by 5PM
-UID:c91b79c9-94f9-43d4-bd2c-a5b2e78b384b
+UID:f604acc6-1582-44b9-a3cd-67fa6dc151c8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261116
 SEQUENCE:118849596
 SUMMARY:Weekly 11/4 & Monthly October Customer Payment Due by 12PM
-UID:43fa99da-4b45-40ef-a316-3e0a8f68e7b0
+UID:c3ab96d2-4ade-413c-ab7c-df03962abbf5
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:118849600
 SUMMARY:Weekly 11/4 & Monthly October PJМ Payment Due by 5PM
-UID:feff1a1e-819e-488f-89ac-e0841da950aa
+UID:39e8e3b3-aca3-446a-9a32-b4ff7168b120
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261117
 SEQUENCE:118849598
 SUMMARY:11/11 MTD Weekly Bill Issued by 5PM
-UID:f0dedfe8-beb7-4976-9008-5333d9a257a4
+UID:bc003802-b3ce-448d-b82d-6d814d16095d
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261120
 SEQUENCE:118849603
 SUMMARY:11/11 MTD Weekly Bill Customer Payment by 12PM
-UID:9f3d1127-60e7-4f7d-9925-42cd2b88db25
+UID:93f8182b-efa8-48a7-a2b7-7e6c3321ecf8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261123
 SEQUENCE:118849607
 SUMMARY:11/11 MTD Weekly PJM Payment by 5 PM
-UID:ced418be-4bac-4297-8bda-a808ba4ea815
+UID:e8efb18b-e409-41da-9b28-bc10679c6d41
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20260914T120948Z
+DTSTAMP:20260915T110658Z
 DTSTART;VALUE=DATE:20261124
 SEQUENCE:118849609
 SUMMARY:11/18 MTD Weekly Bill Issued by 5PM
-UID:186e930c-28c6-4012-9497-d57f6407bf3c
+UID:da78d57e-546e-463e-9720-8f2e2eebd7cf
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988971
 SUMMARY:Oct 2026 Auction - Nov/Round 1 - Opening Day
-UID:953f7ea9-baf3-49a0-beac-98e80fdab804
+UID:36252802-070c-4908-bb87-1b2f88397cd9
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988979
 SUMMARY:Oct 2026 Auction - May/Round 1 - Opening Day
-UID:5de53e73-86ad-4d6d-b63f-57f768a44046
+UID:68a9fc71-6de7-4d30-813b-10bb895ad7c8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988976
 SUMMARY:Oct 2026 Auction - Mar/Round 1 - Opening Day
-UID:6301ac6c-b8c1-4fca-bcde-0214dc9bb338
+UID:f5c01a33-82b9-47c0-bd59-23a5f7fb3e09
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988969
 SUMMARY:Oct 2026 Auction - Oct/Round 1 - Opening Day
-UID:106d3782-8bd7-4392-b60e-a684a5fafe5e
+UID:3deb33aa-c2c6-44e9-9366-c3a83ed3bc03
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988975
 SUMMARY:Oct 2026 Auction - Feb/Round 1 - Opening Day
-UID:ae2d5361-0ad6-460f-a278-deb76180241b
+UID:72454b51-bee4-4791-9161-1f6242700d72
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988972
 SUMMARY:Oct 2026 Auction - Dec/Round 1 - Opening Day
-UID:ffc2ebdd-674b-463a-8c70-32616c75317d
+UID:b752ef15-b582-47d6-8b6f-b9496cbed161
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988978
 SUMMARY:Oct 2026 Auction - Apr/Round 1 - Opening Day
-UID:5f9119ee-cabc-4ddb-9794-c5d22130453e
+UID:86d85ae9-1c24-4faf-babb-e0b4ed9ef839
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260910
 SEQUENCE:118988974
 SUMMARY:Oct 2026 Auction - Jan/Round 1 - Opening Day
-UID:aab895a3-2ed4-4111-b40f-f592af69bf92
+UID:f0c5be2f-b458-4c94-a95b-5c2e64cdfb4b
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988982
 SUMMARY:Oct 2026 Auction - Apr/Round 1 - Closing Day
-UID:8d1840b0-700d-46aa-bb0d-f316e2d3fd4f
+UID:be1cacb1-cb7e-4340-b841-f8a8100729e2
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988982
 SUMMARY:Oct 2026 Auction - Dec/Round 1 - Closing Day
-UID:95418c0e-0b76-479c-94e7-1e1c42160340
+UID:d0c6b275-368f-4f12-94dc-153448a348d7
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988983
 SUMMARY:Oct 2026 Auction - Feb/Round 1 - Closing Day
-UID:bf38a548-0c4e-4688-aeb4-9b53a53bcda8
+UID:ef37b774-8212-4b01-87ee-3ba8f7c039bc
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988984
 SUMMARY:Oct 2026 Auction - Jan/Round 1 - Closing Day
-UID:971714e9-94ab-4537-84ab-e4d486fd41d2
+UID:383c7fcd-4ef5-4022-a39c-bdf09a467b22
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988985
 SUMMARY:Oct 2026 Auction - Mar/Round 1 - Closing Day
-UID:2ba3f373-0d4f-4ae6-a95a-a8e08c81a363
+UID:72dcda68-07eb-443d-af5c-30d904d5c89c
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988986
 SUMMARY:Oct 2026 Auction - May/Round 1 - Closing Day
-UID:934fb34a-5132-4ea0-a0c5-0f31c7cdcc5e
+UID:deb6e749-f7cb-40c0-80d6-281d53693b68
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988987
 SUMMARY:Oct 2026 Auction - Nov/Round 1 - Closing Day
-UID:3b5b1c0a-bf80-40e0-ab02-c7b14d5d2e38
+UID:3f2e3ada-e451-4542-ac2e-fb2e3e0429f8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260914
 SEQUENCE:118988988
 SUMMARY:Oct 2026 Auction - Oct/Round 1 - Closing Day
-UID:f5e54f1d-7386-41f1-a02e-8b3db500b6e6
+UID:fafaa7c8-346a-4b32-bb86-5723c4de6c1e
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988995
 SUMMARY:Oct 2026 Auction - May/Round 1 - Posting Day
-UID:2e574ca0-7839-4819-ad99-b6bd7bc1599b
+UID:b07afcc8-c4b3-44bb-b5ad-03c3a31665e1
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988996
 SUMMARY:Oct 2026 Auction - Nov/Round 1 - Posting Day
-UID:defbcbb3-dcfd-4b37-851f-3241069810b3
+UID:1d646f6d-1c03-4d6c-8c95-25bdacdfd710
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988997
 SUMMARY:Oct 2026 Auction - Oct/Round 1 - Posting Day
-UID:c3ee001c-5d99-482c-94d2-d7e117401ddc
+UID:243163dc-c8a7-451b-a5f1-b714c5770173
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988994
 SUMMARY:Oct 2026 Auction - Mar/Round 1 - Posting Day
-UID:95efcd27-4c26-4987-95cf-48aa76acf742
+UID:21e7e5eb-0bf3-4c93-9b7e-f09c1484c82c
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988991
 SUMMARY:Oct 2026 Auction - Dec/Round 1 - Posting Day
-UID:c82f8056-8a4e-4ccd-b7bc-7c6ba7c866fb
+UID:f45a8227-05da-4b43-a556-d815b47f39f8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988992
 SUMMARY:Oct 2026 Auction - Feb/Round 1 - Posting Day
-UID:9caf305b-be8b-4a21-86a2-22ed9f47bfae
+UID:153ee7df-2298-4f41-b7a1-cc638d7c1822
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988991
 SUMMARY:Oct 2026 Auction - Apr/Round 1 - Posting Day
-UID:56c15b30-77f4-41f2-b7ff-ebeb27f29189
+UID:0e7bbd7d-4cd6-49d5-9455-1ab2a9835ddf
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260921
 SEQUENCE:118988993
 SUMMARY:Oct 2026 Auction - Jan/Round 1 - Posting Day
-UID:92c96861-1013-498d-a21f-a42c50790694
+UID:6f013639-99d5-4316-8559-cb4241a8be77
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261002
 SEQUENCE:118989464
 SUMMARY:27/30 Long Term Auction - YR1/Round 3 - Opening Day*
-UID:917e967a-dead-4a37-b10a-63332105ded2
+UID:75763065-2969-4859-bb4a-43d12c27d003
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261002
 SEQUENCE:118989465
 SUMMARY:27/30 Long Term Auction - YR2/Round 3 - Opening Day*
-UID:cd054ec3-94b1-46ca-a8fb-94c39e12da36
+UID:c6bfa208-f8f9-4347-b4ef-9f389ad7c432
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261002
 SEQUENCE:118989467
 SUMMARY:27/30 Long Term Auction - YR3/Round 3 - Opening Day*
-UID:bc9f8cf6-9315-42e7-95af-1919cb6cd17c
+UID:a863435b-c634-4b04-911c-fd8568a92f5a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:118989470
 SUMMARY:27/30 Long Term Auction - YR1/Round 3 - Closing Day*
-UID:a0dcf201-ccd4-4c7e-8246-73f576c09cb4
+UID:de0d3c1a-4bee-4304-a923-ac5e454b13cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:118989470
 SUMMARY:27/30 Long Term Auction - YR2/Round 3 - Closing Day*
-UID:01158e3f-55af-4166-9b9d-f400fab84557
+UID:dda67493-548d-4c84-ab7e-0e0757965714
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261006
 SEQUENCE:118989471
 SUMMARY:27/30 Long Term Auction - YR3/Round 3 - Closing Day*
-UID:85f6556f-3f16-4cf0-8279-d57a9ae57688
+UID:3dfc8c75-c639-42f4-9c2e-a416e3251354
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:118989473
 SUMMARY:27/30 Long Term Auction - YR1/Round 3 - Posting Day*
-UID:3f7c747d-b91c-40e1-b7e8-3c8c37039a8f
+UID:053010ea-44a6-4638-8cdf-d83a7aee3c9d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:118989474
 SUMMARY:27/30 Long Term Auction - YR2/Round 3 - Posting Day*
-UID:fad11093-c339-4eb7-b1ef-914c6159a306
+UID:bfe854db-783a-4545-8e9c-26b7b77fa783
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261013
 SEQUENCE:118989475
 SUMMARY:27/30 Long Term Auction - YR3/Round 3 - Posting Day*
-UID:bc447cdb-7621-4935-a1d5-f142eb3e7caf
+UID:ea5439d9-a6e0-495d-a4b6-2db4e7525386
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989323
 SUMMARY:Nov 2026 Auction - Nov/Round 1 - Opening Day
-UID:46eaefbb-af68-4dc5-9019-e80e78c5020c
+UID:60c80dcb-d3aa-4c6c-ae19-9272899ac21a
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989329
 SUMMARY:Nov 2026 Auction - Mar/Round 1 - Opening Day
-UID:6ee62fad-1194-4ef0-aa38-159036789854
+UID:fa4721ed-d64a-471f-a17e-6dea56bad742
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989327
 SUMMARY:Nov 2026 Auction - Jan/Round 1 - Opening Day
-UID:806c0dad-9a03-4cf6-9c45-a9e838e6a191
+UID:18f1b793-d215-481b-a4aa-60f63f2a2459
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989332
 SUMMARY:Nov 2026 Auction - May/Round 1 - Opening Day
-UID:c01fd3ec-a380-4ff8-8ead-ce6981ed6807
+UID:f8de4eb7-e180-4f38-b3d6-408398a0e4cf
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989325
 SUMMARY:Nov 2026 Auction - Dec/Round 1 - Opening Day
-UID:0c67743a-a63f-48a5-947a-fa053c88e747
+UID:f77aaafa-5de9-424c-85b8-ba929bda51f6
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989330
 SUMMARY:Nov 2026 Auction - Apr/Round 1 - Opening Day
-UID:62d1ab5c-f613-40af-b0ec-96281b84b829
+UID:76cfd32c-b416-4061-9e37-d3aa7c2515b6
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261015
 SEQUENCE:118989328
 SUMMARY:Nov 2026 Auction - Feb/Round 1 - Opening Day
-UID:3ccd7187-4a36-4f25-84b9-1bfba137faa0
+UID:9aac543d-0f8e-4945-a610-5ffafc6278bf
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989376
 SUMMARY:Nov 2026 Auction - May/Round 1 - Closing Day
-UID:0c902849-0520-46d0-9b3b-6d2a85c3ac90
+UID:b3a547b6-1b13-4b64-90df-a1d084c50d8c
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989375
 SUMMARY:Nov 2026 Auction - Mar/Round 1 - Closing Day
-UID:e0ca96db-6ebd-44db-93e5-1b3645bca4f8
+UID:0729639c-5947-4740-883d-f83f1f230d35
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989375
 SUMMARY:Nov 2026 Auction - Jan/Round 1 - Closing Day
-UID:999f177e-d07f-45a9-b18a-febf1fa8c617
+UID:7b01f85b-a4f9-4a7d-b696-9574074aca30
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989377
 SUMMARY:Nov 2026 Auction - Nov/Round 1 - Closing Day
-UID:717e4940-bc4b-4f47-8eaf-ee794a42512c
+UID:6ccdc952-559c-42aa-b8d2-e8bde7a70d3f
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989372
 SUMMARY:Nov 2026 Auction - Dec/Round 1 - Closing Day
-UID:b33805ac-ff65-43c8-9637-e1a5c228071d
+UID:027ecf60-968c-4f98-93bf-de73f90473ca
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989371
 SUMMARY:Nov 2026 Auction - Apr/Round 1 - Closing Day
-UID:1f54c6fa-5356-4386-8ad5-ff4964760af5
+UID:0c79a453-6e55-43d5-aad9-7d4cd90852b2
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261019
 SEQUENCE:118989373
 SUMMARY:Nov 2026 Auction - Feb/Round 1 - Closing Day
-UID:1f8f126e-949c-492a-95f2-d84218e3c192
+UID:acab71fa-402f-4aee-9358-162ce6e09011
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989380
 SUMMARY:Nov 2026 Auction - Apr/Round 1 - Posting Day
-UID:8f6a9256-205c-45ab-8dfe-533e97383f67
+UID:5cba11a9-ffc6-4e74-9f13-bfc428beb237
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989381
 SUMMARY:Nov 2026 Auction - Dec/Round 1 - Posting Day
-UID:13ed80e7-d1c4-4853-bb67-51b7e0488c5f
+UID:58ad9078-0288-4c13-b558-51a1f8e34951
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989382
 SUMMARY:Nov 2026 Auction - Feb/Round 1 - Posting Day
-UID:300f22c2-528a-432b-9e89-535079ac724b
+UID:9ed79d2b-5a64-4422-a960-6a171cd736c5
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989383
 SUMMARY:Nov 2026 Auction - Jan/Round 1 - Posting Day
-UID:839e8097-485d-4932-aa8f-940528449479
+UID:ea3ee6ea-fabf-4c97-9ee1-1b019c87cec9
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989384
 SUMMARY:Nov 2026 Auction - Mar/Round 1 - Posting Day
-UID:89d31585-90a8-4150-8339-fed1beeeb15d
+UID:66d8603d-a018-4d14-ae8b-c6d1ee2da49a
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989385
 SUMMARY:Nov 2026 Auction - May/Round 1 - Posting Day
-UID:b7b144b2-962c-43a5-bbf8-3841405d038c
+UID:a857eb7b-3f83-4d7f-9cd2-816244058c8e
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261026
 SEQUENCE:118989385
 SUMMARY:Nov 2026 Auction - Nov/Round 1 - Posting Day
-UID:b428b292-ebe0-4493-8b80-eac39afefa26
+UID:38775747-698c-44b6-81b2-cf20779117c8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:119010830
 SUMMARY:Dec 2026 Auction - May/Round 1 - Opening Day
-UID:f9d60243-9048-4dc2-a2e7-28d9a81f484d
+UID:368cac2c-67cc-455e-9b0c-1cbb0f7076c2
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:118989516
 SUMMARY:Dec 2026 Auction - Jan/Round 1 - Opening Day
-UID:c7c14441-72df-4b6f-b366-05f9f1a2e177
+UID:b80c676b-eeee-4224-9edb-449fc32df3d8
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:119010825
 SUMMARY:Dec 2026 Auction - Mar/Round 1 - Opening Day
-UID:9e616e48-97ef-437b-8b87-afba4a6815d6
+UID:60d57b2a-8f37-40fe-bab5-899cd2845770
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:118989514
 SUMMARY:Dec 2026 Auction - Dec/Round 1 - Opening Day
-UID:c8611a3f-0c8b-44c4-9339-244da12bbb13
+UID:1f05aa85-3084-4e9c-b40e-63af6151b1ba
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:118989517
 SUMMARY:Dec 2026 Auction - Feb/Round 1 - Opening Day
-UID:428068c2-5280-4a37-b552-f6ef1b20276b
+UID:5c616a26-ff14-4c77-84ab-12868b1d0d04
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261110
 SEQUENCE:119010828
 SUMMARY:Dec 2026 Auction - Apr/Round 1 - Opening Day
-UID:08fceea3-c82d-4fac-ad88-695beae4483e
+UID:be96c19a-618f-4571-8c86-97d91262d550
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:119010861
 SUMMARY:Dec 2026 Auction - Apr/Round 1 - Closing Day
-UID:1e9c5aff-1f59-4047-a782-f24b2a4a29b8
+UID:84d96747-eeb2-4024-bf5b-78283064a561
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:118989519
 SUMMARY:Dec 2026 Auction - Dec/Round 1 - Closing Day
-UID:69f6217d-7af8-44e1-8741-8090777d1376
+UID:d5d5fbd5-1d66-4ff4-bb7d-3bc6d4c14ff0
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:118989522
 SUMMARY:Dec 2026 Auction - Feb/Round 1 - Closing Day
-UID:1dd84afe-ea8a-47dd-a8e5-59fd389a26e0
+UID:8e5af10f-aa02-4f26-8c83-b38abae1e17b
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:118989540
 SUMMARY:Dec 2026 Auction - Jan/Round 1 - Closing Day
-UID:924503af-8375-40db-9b7e-314f8d325a45
+UID:985e8ec5-8d2c-4dbd-ab8c-ca5e4bcd799d
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:119010860
 SUMMARY:Dec 2026 Auction - Mar/Round 1 - Closing Day
-UID:4262e2a9-4359-439b-b0d7-4922d4ebdb61
+UID:7bf9fab4-04aa-4cb4-b69d-4660c9a8017a
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261112
 SEQUENCE:119010862
 SUMMARY:Dec 2026 Auction - May/Round 1 - Closing Day
-UID:6556d7fd-7471-4aa4-9a5e-55a4a8d887bf
+UID:ff450496-f11b-4167-9e87-a6a8c9c20c48
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:118989527
 SUMMARY:Dec 2026 Auction - Dec/Round 1 - Posting Day
-UID:d8ed16d8-65d8-47d2-bfe9-30c432bb7015
+UID:f1a519be-ee15-427c-8c73-65f48388a066
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:119010875
 SUMMARY:Dec 2026 Auction - May/Round 1 - Posting Day
-UID:6a1d5fc4-08eb-46bf-b1e8-788ec4980476
+UID:b165b1db-8387-4469-a501-82aaa608807b
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:119010873
 SUMMARY:Dec 2026 Auction - Mar/Round 1 - Posting Day
-UID:c1101b7b-925e-4a8c-a4c6-9eb65d7b00ca
+UID:6950bd8b-9c4d-45ff-b2d8-43dbcd136043
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:119010874
 SUMMARY:Dec 2026 Auction - Apr/Round 1 - Posting Day
-UID:edc6d6bb-79ce-4086-a402-c151ed3657ac
+UID:99ebae1a-a18f-407e-93b9-74c449eaf076
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:118989528
 SUMMARY:Dec 2026 Auction - Feb/Round 1 - Posting Day
-UID:a2240bf7-329a-492a-8aad-76d2036e1d95
+UID:e027859f-829a-4f3d-aef1-9da3a922384f
 END:VEVENT
 BEGIN:VEVENT
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261119
 SEQUENCE:118989529
 SUMMARY:Dec 2026 Auction - Jan/Round 1 - Posting Day
-UID:986dd48c-932a-423b-9404-d2b83e95367b
+UID:6226d5d9-1eb8-4925-8687-726d7191ad93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261130
 SEQUENCE:118989485
 SUMMARY:27/30 Long Term Auction - YR3/Round 4 - Opening Day*
-UID:20f51981-4053-4226-95c5-04349bda0dcf
+UID:2f6b84e7-5149-4a70-8ac8-96744c4df65f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261130
 SEQUENCE:118989483
 SUMMARY:27/30 Long Term Auction - YR1/Round 4 - Opening Day*
-UID:f33f6cfa-ce3f-4433-8700-68754ceb41b6
+UID:3ba3ef4f-dc4a-4a85-a89b-8e01261c9ab2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:* Round 5 of the 27/30 long term FTR auction will be conducted 
  in March 2027 and included in the 2027 market schedule.
 DTEND;VALUE=DATE:00010101
-DTSTAMP:20260914T120959Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261130
 SEQUENCE:118989484
 SUMMARY:27/30 Long Term Auction - YR2/Round 4 - Opening Day*
-UID:4963ac3e-3bdd-4b51-b19d-ca549f02db3f
+UID:ba5b5b41-c0fb-4739-b318-56718b085a6f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260914T121001Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20260907
 SEQUENCE:117478885
 SUMMARY:September 7\, 2026 – PJM Holiday
-UID:b28142f2-bc46-4a89-82d3-95e2d19891d3
+UID:35515721-3031-48d3-84b0-717aed338f39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260914T121001Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261126
 SEQUENCE:117478892
 SUMMARY:November 26\, 2026 – PJM Holiday
-UID:68f06a7b-213a-4144-a66a-c8ba9acf5ce7
+UID:1130bd2c-0f25-486a-84e2-b6082f63ad30
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260914T121001Z
+DTSTAMP:20260915T110659Z
 DTSTART;VALUE=DATE:20261127
 SEQUENCE:117478893
 SUMMARY:November 27\, 2026 – PJM Holiday
-UID:d6448cb8-af44-45b7-b59c-fce957c91799
+UID:71dcbbfa-ac19-46c4-81ac-6855068f9280
 END:VEVENT
 END:VCALENDAR

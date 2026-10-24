@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Reliability Subcommittee (RSC) - September 29, 2026
 CLASS:PUBLIC
-CREATED:20261023T111353Z
+CREATED:20261024T103209Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/3a5314fe297a4c3bb707a606d7ec6956.aspx
 DTSTART:20260929T140000Z
 DTEND:20260929T153000Z
@@ -18,14 +18,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:f16fb788-32a4-4059-a889-840cbb4a47c5
+UID:4af38bea-a78d-4376-8bc8-c5a279b9b317
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Resource Adequacy Subcommittee (RASC) - September 30, 2026
 CLASS:PUBLIC
-CREATED:20261023T111353Z
+CREATED:20261024T103209Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/468159650a7146b1b1b104f702cd3c9d.aspx
 DTSTART:20260930T140000Z
 DTEND:20260930T200000Z
@@ -35,14 +35,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:4409d4d0-5e3b-4d43-b573-13e92bdb59ee
+UID:48ca4fe6-de39-4082-8fcd-c0d3e8ccd5e5
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Market Subcommittee (MSC) - October 1, 2026
 CLASS:PUBLIC
-CREATED:20261023T111354Z
+CREATED:20261024T103209Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/750ccc93584c45c688fd57857cbfae7e.aspx
 DTSTART:20261001T140000Z
 DTEND:20261001T200000Z
@@ -52,14 +52,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:49093ae0-0dfe-4023-9ab6-1171d94a5ddb
+UID:782e53e8-46fb-49c5-af09-beffd77c7541
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Transmission Owners Compliance Task Team (TOCTT) - October 2, 2026
 CLASS:PUBLIC
-CREATED:20261023T111354Z
+CREATED:20261024T103209Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/f3a4419c5ab943cdb4ab7d6abb9d3983.aspx
 DTSTART:20261002T140000Z
 DTEND:20261002T150000Z
@@ -69,13 +69,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:9cf2e4da-f41c-416d-95a3-941885f5339d
+UID:57ee36f2-a57e-4fad-b14e-06766dd9dbff
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO-PJM IPSAC - October 2, 2026
 CLASS:PUBLIC
-CREATED:20261023T111354Z
+CREATED:20261024T103209Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/03f545d3d39341f8a1a37b1dd8a5eb44.aspx
 DTSTART:20261002T180000Z
 DTEND:20261002T200000Z
@@ -85,14 +85,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:d0b1d552-9b8b-4464-9e7a-a5cd1a48557e
+UID:55dc0786-f225-462d-a9b6-612714be4a75
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Special OMS Board Meeting - October 5, 2026
 CLASS:PUBLIC
-CREATED:20261023T111354Z
+CREATED:20261024T103210Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/f6d84a685e4f489d8bbb120a46d6ea5a.aspx
 DTSTART:20261005T180000Z
 DTEND:20261005T200000Z
@@ -102,14 +102,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:14800c08-d2f0-4973-8893-276e6279ef4a
+UID:a84eed7d-a772-4faf-bcf5-79913c93fd95
 LOCATION:Other 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Modeling Users Group (MUG) - October 5, 2026
 CLASS:PUBLIC
-CREATED:20261023T111355Z
+CREATED:20261024T103210Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/6738e13ee329461daf769b13ab32671d.aspx
 DTSTART:20261005T180000Z
 DTEND:20261005T200000Z
@@ -119,13 +119,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:9df5f301-36bd-4ae2-a3f3-135b5c87b113
+UID:80cf4599-8100-412f-a37d-6b20eeb65865
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Expedited Project Review Technical Study Task Force (EPR-TSTF) - October 6, 2026
 CLASS:PUBLIC
-CREATED:20261023T111355Z
+CREATED:20261024T103210Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/b57615b421be489e97718fc794e6742d.aspx
 DTSTART:20261006T140000Z
 DTEND:20261006T150000Z
@@ -135,13 +135,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:92522b88-2e63-485a-9e97-24ffbb94bf77
+UID:63c5642a-cfe7-4c0a-99a4-a6f58c43c3f4
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Regional Expansion Criteria and Benefits Working Group (RECBWG) - October 6, 2026
 CLASS:PUBLIC
-CREATED:20261023T111355Z
+CREATED:20261024T103210Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/c9f889c1fbaa44e2829263ac66c5c70c.aspx
 DTSTART:20261006T170000Z
 DTEND:20261006T200000Z
@@ -151,14 +151,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:bd221508-df5d-41de-97ae-7672f0a64d7b
+UID:00490bca-5235-41ee-89ff-1c60e802ad3d
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Advisory Committee (PAC) - October 7, 2026
 CLASS:PUBLIC
-CREATED:20261023T111355Z
+CREATED:20261024T103210Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/81c8b7a94e5042ee9ac45c1687d3e22a.aspx
 DTSTART:20261007T140000Z
 DTEND:20261007T164500Z
@@ -168,14 +168,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:d1d3f253-6d6d-4d35-836f-270071d4cd8d
+UID:6cd0549b-312d-4339-a375-4e07318d9c03
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Large Load Working Group (LLWG) - October 8, 2026
 CLASS:PUBLIC
-CREATED:20261023T111356Z
+CREATED:20261024T103211Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/f4a0ea56d5534872ae39a3af2992c08d.aspx
 DTSTART:20261008T140000Z
 DTEND:20261008T210000Z
@@ -185,13 +185,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:26610aea-aca3-4da2-b944-05cdfbf0b0bd
+UID:e74a32ea-f4f8-4cd2-8ee8-d18e8f88baec
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Compliance Agreement Task Team (PCATT-Closed) - October 9, 2026
 CLASS:PUBLIC
-CREATED:20261023T111356Z
+CREATED:20261024T103211Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/7ec87cbb437a4f10aa06f4e0a47f6632.aspx
 DTSTART:20261009T140000Z
 DTEND:20261009T160000Z
@@ -201,13 +201,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:41c27213-88d6-4a37-a0fa-37fc5b6d03d4
+UID:d6e555d1-f440-44b4-b2e9-3de4af040289
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Stakeholder Governance Working Group (SGWG) - October 12, 2026
 CLASS:PUBLIC
-CREATED:20261023T111356Z
+CREATED:20261024T103212Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/ebea2e2c623d45f6891de5529d396c5a.aspx
 DTSTART:20261012T140000Z
 DTEND:20261012T160000Z
@@ -217,13 +217,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:dd1884ff-78ae-429a-b943-bf7d297aab12
+UID:6251c099-19ce-4120-af97-7e330bffdef4
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Interconnection Process Working Group (IPWG) - October 13, 2026
 CLASS:PUBLIC
-CREATED:20261023T111356Z
+CREATED:20261024T103212Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/7cb3e1d9245c4b6790a05b210ebb45ea.aspx
 DTSTART:20261013T140000Z
 DTEND:20261013T200000Z
@@ -233,13 +233,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c73a4360-d2d3-4c1e-85b4-7046f84c4849
+UID:58f0669c-e510-4f75-ba9f-275bfee582e3
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Subcommittee (PSC) - October 14, 2026
 CLASS:PUBLIC
-CREATED:20261023T111357Z
+CREATED:20261024T103212Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/71e209de00d946b193c2658534f1269f.aspx
 DTSTART:20261014T140000Z
 DTEND:20261014T151500Z
@@ -249,13 +249,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:fe0ce01f-43dc-4cdd-9941-e7302beae6a5
+UID:aa976cf9-5502-41e3-a698-a2945df3d7f6
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:OMS Executive Committee - October 15, 2026
 CLASS:PUBLIC
-CREATED:20261023T111357Z
+CREATED:20261024T103212Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/5635cc8539804cd1b9a30343bdd1919f.aspx
 DTSTART:20261015T180000Z
 DTEND:20261015T200000Z
@@ -265,13 +265,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:bc4c072e-41e4-43bd-974d-fe844a21339b
+UID:507f0d3b-3bb1-4ccb-8462-e04874a00e50
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:FERC Order 881 Coordination with Impacted Members Workshop Closed - October 16, 2026
 CLASS:PUBLIC
-CREATED:20261023T111357Z
+CREATED:20261024T103212Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/750ba83ead0e4e6d83a4c03fda2c5f3b.aspx
 DTSTART:20261016T140000Z
 DTEND:20261016T151500Z
@@ -281,13 +281,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:5df6000d-824f-47ec-8fc4-855ec767e898
+UID:257e9326-33c0-4906-b311-9535f11d6859
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Distributed Energy Resources Working Group (DERWG) - October 19, 2026
 CLASS:PUBLIC
-CREATED:20261023T111357Z
+CREATED:20261024T103212Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/8cf45bf5977843b9b407e02b86aef5cf.aspx
 DTSTART:20261019T140000Z
 DTEND:20261019T170000Z
@@ -297,13 +297,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:48f6d214-b0ed-4248-b2ec-f024254297ad
+UID:64ab5e7d-03a9-414f-a8f4-1485ee030955
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Steering Committee (SC) - October 20, 2026
 CLASS:PUBLIC
-CREATED:20261023T111357Z
+CREATED:20261024T103213Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/7de5fd68bace47ed81da1af5fad3cf51.aspx
 DTSTART:20261020T140000Z
 DTEND:20261020T154500Z
@@ -313,13 +313,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c3df96e5-f916-4e92-8441-914aa5c96b04
+UID:e2f172f4-61ec-4992-afd8-77ceb4db0d6d
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Resource Adequacy Subcommittee (RASC) - October 20, 2026
 CLASS:PUBLIC
-CREATED:20261023T111357Z
+CREATED:20261024T103213Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/5a98b9dc21ae472e9d0554c56f3de4d6.aspx
 DTSTART:20261020T170000Z
 DTEND:20261020T200000Z
@@ -329,14 +329,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:5f600b80-adfc-4af2-b5a7-fd5bd49471cf
+UID:0adbeae3-b362-4c45-8305-8f818b382461
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Advisory Committee (AC) - October 21, 2026
 CLASS:PUBLIC
-CREATED:20261023T111358Z
+CREATED:20261024T103213Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/7b6ef0bf22814ec7b8b86a6dd295713c.aspx
 DTSTART:20261021T140000Z
 DTEND:20261021T180000Z
@@ -346,13 +346,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:a8ba93ca-d9b9-4a3d-9553-ae9740a77308
+UID:e1aa7ee9-bfbd-471c-bb22-3a55b16bf89a
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Audit and Finance Committee of the Board of Directors - October 22, 2026
 CLASS:PUBLIC
-CREATED:20261023T111358Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/5ce8e434646b44169efe08107765548e.aspx
 DTSTART:20261022T163000Z
 DTEND:20261022T173000Z
@@ -362,13 +362,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c6b1324b-f79f-4bc2-aade-c13926a08269
+UID:124cb961-adcc-425d-9851-117a354efb29
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Entergy Regional State Committee Working Group (ERSCWG) - October 23, 2026
 CLASS:PUBLIC
-CREATED:20261023T111358Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/e43aa9f5b249479ba1d6ebdb3294e1bc.aspx
 DTSTART:20261023T140000Z
 DTEND:20261023T160000Z
@@ -378,14 +378,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:97602548-5efa-41b4-b4bb-79a8d7a3d066
+UID:7e2c7708-188a-4e68-94f0-3f95b78d24ad
 LOCATION:Other 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Value Proposition Workshop - October 23, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/b034ec28e9334f6ab536b276e99118a5.aspx
 DTSTART:20261023T170000Z
 DTEND:20261023T190000Z
@@ -395,13 +395,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:a3a9c397-9442-4db7-99b2-d7360fca969b
+UID:41a8a2aa-0607-4b21-bbad-b7252ca1617a
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Ballot Box (MBB) Workshop - October 27, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/fb9212d1a92c4baaa2faceed029af437.aspx
 DTSTART:20261027T140000Z
 DTEND:20261027T150000Z
@@ -411,14 +411,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:8d89f831-bd70-4355-9283-1b49248011cf
+UID:87265364-c098-46bd-a759-1c244063e540
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:OMS Board of Directors - October 27, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/a558f9e58c8b4e6c9e252c182d994267.aspx
 DTSTART:20261027T180000Z
 DTEND:20261027T200000Z
@@ -428,13 +428,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:cf7d10f4-7bba-4f6c-8775-f8b2419c8394
+UID:cb6e4253-88c9-4a4f-aae1-3fa88932ac43
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Loss of Load Expectation Working Group (LOLEWG) - October 28, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/94cf62dacb4143f0a619e1bcacd505ec.aspx
 DTSTART:20261028T140000Z
 DTEND:20261028T160000Z
@@ -444,13 +444,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:52a8ee0d-3690-4c1f-91dc-5a2522310640
+UID:3994adba-ea2e-419b-bd70-9f41fa99c786
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Winter Readiness Workshop - October 28, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103214Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/a43036b22a5640c395e4809ae43c26d3.aspx
 DTSTART:20261028T180000Z
 DTEND:20261028T200000Z
@@ -460,14 +460,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:cbd4ffb2-041d-473d-a385-7faec29f3e47
+UID:c656e234-6b58-4356-b9ed-1cf2286a2bb7
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Large Load Working Group (LLWG) - October 29, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103215Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/2a6cfafe66f04025a46557d8c7480ba4.aspx
 DTSTART:20261029T140000Z
 DTEND:20261029T210000Z
@@ -477,14 +477,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:4ff50b80-f8b7-4313-ac5f-25e2206b2a2a
+UID:f3bdfa94-7947-4dc4-9b0e-4448bd5ed601
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Large Load Workshop - October 29, 2026
 CLASS:PUBLIC
-CREATED:20261023T111359Z
+CREATED:20261024T103215Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/0673af734fd34bb3b999cb36ce7726f6.aspx
 DTSTART:20261029T140000Z
 DTEND:20261029T170000Z
@@ -494,14 +494,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c20d395f-aba4-43a7-94a7-73a137be7d80
+UID:675ce788-6d4a-4ddc-9628-057b0b6cdd7e
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Formula Rate Protocols - Annual Regional Cost Sharing Meeting - October 30, 2026
 CLASS:PUBLIC
-CREATED:20261023T111400Z
+CREATED:20261024T103216Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/bbc2513e5898415db6d683474afcc586.aspx
 DTSTART:20261030T140000Z
 DTEND:20261030T160000Z
@@ -511,14 +511,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:aaaf21ba-8f8d-48e4-88c7-708871738570
+UID:84db4bda-546b-4e4f-8068-87aee6a592fb
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO-SPP IPSAC - October 30, 2026
 CLASS:PUBLIC
-CREATED:20261023T111400Z
+CREATED:20261024T103216Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/b56d29f1cdbb4c6b8d9e589b17a18110.aspx
 DTSTART:20261030T180000Z
 DTEND:20261030T200000Z
@@ -528,14 +528,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c1187b68-2bc7-4879-b81c-3e08f5fc790a
+UID:da9b81cf-472c-41c3-8650-1a5bc6ca1d0a
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Commercially Significant Voltage and Local Reliability (CSVLR) Closed - November 2, 2026
 CLASS:PUBLIC
-CREATED:20261023T111400Z
+CREATED:20261024T103216Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/5eeca87ef82d4d16ba69b3298730f982.aspx
 DTSTART:20261102T150000Z
 DTEND:20261102T160000Z
@@ -545,13 +545,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:f68208ba-ff87-44be-a54f-2ff03fa0c8ec
+UID:f4c0b7db-ea5e-4270-a303-b07f251eb823
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Advisory Committee (PAC) Special Meeting for MTEP - November 2, 2026
 CLASS:PUBLIC
-CREATED:20261023T111401Z
+CREATED:20261024T103216Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/9f907ed2bf1d4c15919a5f2383f74871.aspx
 DTSTART:20261102T190000Z
 DTEND:20261102T200000Z
@@ -561,13 +561,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:b09680de-8eff-45b7-874a-08cc35fddad2
+UID:3b87d3e9-8cd8-4412-953f-00c1b1730e8a
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Balancing Authority Committee (BAC) - November 3, 2026
 CLASS:PUBLIC
-CREATED:20261023T111401Z
+CREATED:20261024T103216Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/914d3d10c11841bea3e00a257439d76a.aspx
 DTSTART:20261103T150000Z
 DTEND:20261103T170000Z
@@ -577,13 +577,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:d28500f1-80df-4dc6-8479-387c0c216821
+UID:ad753393-86ba-451b-b4fd-efb58d9ad263
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Expedited Project Review Technical Study Task Force (EPR-TSTF) - November 3, 2026
 CLASS:PUBLIC
-CREATED:20261023T111401Z
+CREATED:20261024T103216Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/1e5a65d3067a4905940ad8cdc2c85477.aspx
 DTSTART:20261103T180000Z
 DTEND:20261103T190000Z
@@ -593,13 +593,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:e89bf724-60a2-4327-aaeb-8d3276a09748
+UID:04b8d3a5-cef3-459f-8087-5dfe38c6183e
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Ballot Box (MBB) Workshop - November 4, 2026
 CLASS:PUBLIC
-CREATED:20261023T111401Z
+CREATED:20261024T103217Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/612aaab4ebe142f8b69719d5e1bd9761.aspx
 DTSTART:20261104T150000Z
 DTEND:20261104T160000Z
@@ -609,14 +609,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:ff864d9f-2766-4057-8369-415b1aef5d6d
+UID:91d779fb-82d8-451c-aff2-c3aa2904c524
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Operations Training User Group (OTUG) - November 4, 2026
 CLASS:PUBLIC
-CREATED:20261023T111401Z
+CREATED:20261024T103217Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/3cfc4c45125e439d9ebe292ff1ebd6c1.aspx
 DTSTART:20261104T190000Z
 DTEND:20261104T210000Z
@@ -626,13 +626,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:d5a53260-c857-47dd-8195-9dfda24ff203
+UID:25fb9a4d-0bfa-45a5-9c35-ebda284f4198
 LOCATION:No meeting space available
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Reliable Operations Working Group (ROWG-Closed) - November 5, 2026
 CLASS:PUBLIC
-CREATED:20261023T111401Z
+CREATED:20261024T103217Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/7454b1a8e2214b3d97bf9dad1edcb462.aspx
 DTSTART:20261105T180000Z
 DTEND:20261105T210000Z
@@ -642,13 +642,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:9621416b-c8cd-4252-aacc-8c17f5994ac5
+UID:4efc6c4e-fc60-43f2-bef5-45cdd530735c
 LOCATION:Conference Call Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Ballot Box (MBB) Workshop - November 9, 2026
 CLASS:PUBLIC
-CREATED:20261023T111402Z
+CREATED:20261024T103217Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/56dee4f9f4444f9eb2f44766912d5648.aspx
 DTSTART:20261109T150000Z
 DTEND:20261109T160000Z
@@ -658,14 +658,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:f3f6967f-df67-4f89-ac6a-5866bb8a233d
+UID:cb5565d4-c458-4033-87b9-6101e1caf081
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:OMS Board of Directors - November 9, 2026
 CLASS:PUBLIC
-CREATED:20261023T111402Z
+CREATED:20261024T103218Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/cb6a1d64a10449b88004f3239819623c.aspx
 DTSTART:20261109T190000Z
 DTEND:20261109T210000Z
@@ -675,13 +675,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:36220528-8210-42a6-a178-a5f25c6d3eb8
+UID:e4633309-d90b-4207-9647-98d116221b69
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Market Subcommittee (MSC) - November 10, 2026
 CLASS:PUBLIC
-CREATED:20261023T111403Z
+CREATED:20261024T103218Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/92f212d3775d4fe49646f6d3570419b6.aspx
 DTSTART:20261110T150000Z
 DTEND:20261110T210000Z
@@ -691,14 +691,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:0082e22a-4767-4ab3-9f2b-5ec2de02b6a7
+UID:b1e625b1-98e8-41fe-af6d-a4235aba6109
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Markets Committee of the Board of Directors - November 10, 2026
 CLASS:PUBLIC
-CREATED:20261023T111403Z
+CREATED:20261024T103218Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/00bb690d4ea947eaa5014aa55150e026.aspx
 DTSTART:20261110T203000Z
 DTEND:20261110T213000Z
@@ -708,14 +708,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:ddae28c0-e9f9-4a8f-84f3-46ece367e77c
+UID:9aa36976-e714-4241-ac4e-622cf2cffb45
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Resource Adequacy Subcommittee (RASC) - November 11, 2026
 CLASS:PUBLIC
-CREATED:20261023T111403Z
+CREATED:20261024T103218Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/6e93b1335889456fb10751d2a8a0dec7.aspx
 DTSTART:20261111T150000Z
 DTEND:20261111T220000Z
@@ -725,14 +725,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:26285940-1954-4a7c-95ac-22ca4123a313
+UID:d94e3837-1208-4073-82de-cde511915a31
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:System Planning Committee of the Board of Directors - November 12, 2026
 CLASS:PUBLIC
-CREATED:20261023T111403Z
+CREATED:20261024T103220Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/9e67f262cf0f42fe842c9b871b44eef7.aspx
 DTSTART:20261112T150000Z
 DTEND:20261112T163000Z
@@ -742,13 +742,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:b746620c-9406-4240-b4d9-20acfa820bbe
+UID:c6da80de-fdf5-4a5a-8be2-2bfa0aceecb2
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Reliability Subcommittee (RSC) - November 12, 2026
 CLASS:PUBLIC
-CREATED:20261023T111403Z
+CREATED:20261024T103220Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/4089117e48eb4ae9912383b25498236b.aspx
 DTSTART:20261112T180000Z
 DTEND:20261112T220000Z
@@ -758,14 +758,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:f8010fa1-23b1-4129-b9a8-7d1203ae5f04
+UID:cbedda14-dff7-44f8-9a23-6f35d6c1db05
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Compliance Agreement Task Team (PCATT-Closed) - November 13, 2026
 CLASS:PUBLIC
-CREATED:20261023T111403Z
+CREATED:20261024T103220Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/ef7e7c7537264063b7459c107f8cce01.aspx
 DTSTART:20261113T150000Z
 DTEND:20261113T170000Z
@@ -775,13 +775,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c0ee35ca-8598-46f7-80ad-783ec080efdc
+UID:3a2db4a9-ba5b-4fa5-b8bc-26d80450224e
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Settlements User Group (SUG) - November 16, 2026
 CLASS:PUBLIC
-CREATED:20261023T111404Z
+CREATED:20261024T103220Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/85f426d0b4e140979be437a03fa22c9e.aspx
 DTSTART:20261116T153000Z
 DTEND:20261116T170000Z
@@ -791,13 +791,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c6dad5fc-f504-4b36-ae5b-36a59b206908
+UID:e99f9d7c-b676-4b1e-84f1-38971c8ec042
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Large Load Working Group (LLWG) - November 16, 2026
 CLASS:PUBLIC
-CREATED:20261023T111404Z
+CREATED:20261024T103221Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/3c4414e9988149b68fdbdd5e1955159d.aspx
 DTSTART:20261116T170000Z
 DTEND:20261116T220000Z
@@ -807,13 +807,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:3dc84341-88ec-4f3f-9512-1ed0f4ef6f99
+UID:549d7242-e19b-4950-9f05-94f6addc9c58
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO-PJM JCM - November 17, 2026
 CLASS:PUBLIC
-CREATED:20261023T111404Z
+CREATED:20261024T103221Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/0448afb16e2f4c63847b8b2b6dc0a797.aspx
 DTSTART:20261117T140000Z
 DTEND:20261117T170000Z
@@ -823,14 +823,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:8c7447cc-271f-4a29-85aa-92fb34f185aa
+UID:534239ce-1471-4785-affe-e7056ec5b0c0
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Operational Planning Studies User Group (OPSUG) - November 17, 2026
 CLASS:PUBLIC
-CREATED:20261023T111405Z
+CREATED:20261024T103221Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/2468a2febe584b468a4212301448931d.aspx
 DTSTART:20261117T150000Z
 DTEND:20261117T180000Z
@@ -840,13 +840,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:003b9063-51dc-4db5-9ee2-c16999e12c38
+UID:76d78a3a-ab82-43fb-a409-c422ec55aa13
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Regional Expansion Criteria and Benefits Working Group (RECBWG) - November 17, 2026
 CLASS:PUBLIC
-CREATED:20261023T111405Z
+CREATED:20261024T103222Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/3b4d1010576642829e976072dbd77f32.aspx
 DTSTART:20261117T180000Z
 DTEND:20261117T210000Z
@@ -856,14 +856,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:f1611ae5-5c24-4b12-a6ef-e17875c471f9
+UID:ade52dc8-f855-4083-84b3-1a03f416ca26
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Advisory Committee (PAC) - November 18, 2026
 CLASS:PUBLIC
-CREATED:20261023T111405Z
+CREATED:20261024T103222Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/8d3ad7c176fe490ab7d124674f393a08.aspx
 DTSTART:20261118T150000Z
 DTEND:20261118T210000Z
@@ -873,14 +873,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:8af2caef-a8b2-4f64-83b5-9e0dfe71fd33
+UID:cd5038bf-88d4-4708-a361-da84f4f1c8b6
 LOCATION:Carmel, IN 
  - Room Catlin A & B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Audit and Finance Committee of the Board of Directors - November 19, 2026
 CLASS:PUBLIC
-CREATED:20261023T111405Z
+CREATED:20261024T103222Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/cd88dfa38585446f92dee22b56135437.aspx
 DTSTART:20261119T150000Z
 DTEND:20261119T170000Z
@@ -890,13 +890,29 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:b3da5a9b-3f1b-4521-9b6a-47b3810b24fb
+UID:055e279a-927c-41b9-a686-99f398ec046c
+LOCATION:Conference Call/WebEx Only 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;LANGUAGE=en-us:Meter Data Management Workshop - November 19, 2026
+CLASS:PUBLIC
+CREATED:20261024T103222Z
+DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/77914d4b361940ed8ffed4d0f0b2cdf5.aspx
+DTSTART:20261119T150000Z
+DTEND:20261119T160000Z
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+UID:5e542610-2afc-414f-aa09-d95fe31d7676
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Technology Committee of the Board of Directors - November 19, 2026
 CLASS:PUBLIC
-CREATED:20261023T111405Z
+CREATED:20261024T103222Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/a6e36060958641999cd7f703360a40f8.aspx
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
@@ -906,13 +922,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:7fd13455-4c82-4e48-92c1-37c2fc29da3c
+UID:612cb3f2-00d1-482e-b7a2-dfd7640bbf19
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:OMS Executive Committee - November 19, 2026
 CLASS:PUBLIC
-CREATED:20261023T111405Z
+CREATED:20261024T103223Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/2436bcabc2404268bbf4b12007b6bd0d.aspx
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
@@ -922,13 +938,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:fb5705fa-d559-4c05-8da9-9740c7df466c
+UID:4bce2d06-e3b3-4693-acb7-59422c5dd0f5
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Corporate Governance and Strategic Planning Committee of the Board of Directors - November 19, 2026
 CLASS:PUBLIC
-CREATED:20261023T111406Z
+CREATED:20261024T103223Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/87dab20696ee4cbd9fe04b382872c5da.aspx
 DTSTART:20261119T203000Z
 DTEND:20261119T220000Z
@@ -938,13 +954,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:be15ee58-ae41-45f0-83af-c861b131e946
+UID:c50d0e30-f01e-44cb-be5b-90984d943517
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:FERC Order 881 Coordination with Impacted Members Workshop Closed - November 20, 2026
 CLASS:PUBLIC
-CREATED:20261023T111406Z
+CREATED:20261024T103223Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/85a9cbccb9ff4aa685dfb1a6697c6cff.aspx
 DTSTART:20261120T150000Z
 DTEND:20261120T163000Z
@@ -954,13 +970,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:6392ea78-383e-4d81-b9b7-12505394726b
+UID:adf4411e-8ffb-4e3d-9ee3-e1fefa5f2d8e
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Steering Committee (SC) - November 24, 2026
 CLASS:PUBLIC
-CREATED:20261023T111406Z
+CREATED:20261024T103223Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/6313260c0ce1406eb28753abccb6fd79.aspx
 DTSTART:20261124T150000Z
 DTEND:20261124T180000Z
@@ -970,13 +986,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:7641645b-0e82-43d4-a452-7a6075ed2dad
+UID:7f91c567-ec4d-4258-a79d-291ece20db12
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Holiday - Offices Closed
 CLASS:PUBLIC
-CREATED:20261023T111406Z
+CREATED:20261024T103224Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/34d4766589d443eeaf5fd3bc8d071a39.aspx
 DTSTART:20261126T130000Z
 DTEND:20261126T220000Z
@@ -986,14 +1002,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:93e9b9aa-d325-4220-a477-5145c0006f90
+UID:6efa7356-c911-49a1-98b3-77f5286a8d72
 LOCATION:Other 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Holiday - Offices Closed
 CLASS:PUBLIC
-CREATED:20261023T111407Z
+CREATED:20261024T103224Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/b6068583b4264c9c92771b4a2cbe3fbf.aspx
 DTSTART:20261127T130000Z
 DTEND:20261127T220000Z
@@ -1003,14 +1019,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:0dbd700a-1f35-4407-92e6-2536a414f6b2
+UID:c09cc5f1-0436-468b-b9cd-d5120d37fdc5
 LOCATION:Other 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Markets Committee of the Board of Directors - December 1, 2026
 CLASS:PUBLIC
-CREATED:20261023T111407Z
+CREATED:20261024T103224Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/32c5a6804a234c3db571ad7286969451.aspx
 DTSTART:20261201T140000Z
 DTEND:20261201T160000Z
@@ -1020,13 +1036,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:3cb1b8d0-8670-4084-b95d-61d4c35974d4
+UID:ba2f0e14-7491-473c-b196-6ca48eb5899a
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:System Planning Committee of the Board of Directors - December 1, 2026
 CLASS:PUBLIC
-CREATED:20261023T111407Z
+CREATED:20261024T103224Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/f994bedf6b3b44b3946a233eda0e6c8a.aspx
 DTSTART:20261201T173000Z
 DTEND:20261201T190000Z
@@ -1036,13 +1052,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:b9c7192f-8b72-4701-97ed-e1855c280007
+UID:066e5d70-f845-450f-8655-c9bcec37fa98
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Human Resources Committee of the Board of Directors - December 1, 2026
 CLASS:PUBLIC
-CREATED:20261023T111410Z
+CREATED:20261024T103224Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/12bdcd12040b4de7a6f8b2350e605123.aspx
 DTSTART:20261201T193000Z
 DTEND:20261201T213000Z
@@ -1052,13 +1068,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:8c99d48a-79ae-4aeb-8108-eaf6830170d1
+UID:4c682d74-43f4-4609-a7a8-8c59cae677e5
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Advisory Committee (AC) - December 2, 2026
 CLASS:PUBLIC
-CREATED:20261023T111410Z
+CREATED:20261024T103224Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/b2cd8a26c6154f978808b2a6384c2b5c.aspx
 DTSTART:20261202T150000Z
 DTEND:20261202T210000Z
@@ -1068,13 +1084,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:a309d75f-d816-45e1-9f5b-cd53b2b5053a
+UID:e7bcb4d9-8ccc-49d6-9e23-0925401bd849
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Board of Directors: Open Session (BOD) – December 3, 2026
 CLASS:PUBLIC
-CREATED:20261023T111410Z
+CREATED:20261024T103225Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/778aafc3e37e42c2b8084fb0682f9701.aspx
 DTSTART:20261203T133000Z
 DTEND:20261203T150000Z
@@ -1084,13 +1100,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:3678ab59-accf-4a83-871c-0de3e7abdae6
+UID:df077718-8980-455c-ac6c-6266709cfc19
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Transmission Owners Compliance Task Team (TOCTT) - December 4, 2026
 CLASS:PUBLIC
-CREATED:20261023T111410Z
+CREATED:20261024T103225Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/86b6eb6da043455da187424ada450823.aspx
 DTSTART:20261204T150000Z
 DTEND:20261204T170000Z
@@ -1100,13 +1116,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:88ffe3b5-23fa-4ee4-aeb6-a88f7c1d2431
+UID:bc986dca-2315-4474-a273-93f30d4ea508
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO-PJM IPSAC - December 4, 2026
 CLASS:PUBLIC
-CREATED:20261023T111410Z
+CREATED:20261024T103225Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/a7eb6d022eae41ee90f59d67740fffd2.aspx
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
@@ -1116,14 +1132,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:11729f0c-35f3-4df9-93c1-89c124b561be
+UID:aec6b335-2e36-43d1-9dbc-848b8fbb99ef
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Ballot Box (MBB) Workshop - December 7, 2026
 CLASS:PUBLIC
-CREATED:20261023T111410Z
+CREATED:20261024T103225Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/5264697fcf5747e089a0668051eb26b0.aspx
 DTSTART:20261207T150000Z
 DTEND:20261207T160000Z
@@ -1133,14 +1149,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:9a68c454-4730-458d-af08-a69da2512183
+UID:8c1de453-f478-44f2-8096-9023aa5de657
 LOCATION:Conference Call/WebEx Only 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Modeling Users Group (MUG) - December 7, 2026
 CLASS:PUBLIC
-CREATED:20261023T111411Z
+CREATED:20261024T103226Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/3726f307bc94445d90bcae37d92f1bc2.aspx
 DTSTART:20261207T190000Z
 DTEND:20261207T210000Z
@@ -1150,13 +1166,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:ee153bb0-cc78-4160-a884-a55c80ea3b2b
+UID:fded8502-ee44-4f9b-9e60-5ba66fb3c964
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Interconnection Process Working Group (IPWG) - December 8, 2026
 CLASS:PUBLIC
-CREATED:20261023T111411Z
+CREATED:20261024T103226Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/1c61f7282b184f82bccec7caa615eada.aspx
 DTSTART:20261208T150000Z
 DTEND:20261208T210000Z
@@ -1166,13 +1182,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:4aaba183-49fd-45ce-abfe-f9956ff05121
+UID:f0371a14-efc4-4b32-b33a-93af46e39187
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Expedited Project Review Technical Study Task Force (EPR-TSTF) - December 8, 2026
 CLASS:PUBLIC
-CREATED:20261023T111412Z
+CREATED:20261024T103226Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/8311051659a9455eadb8f7be19ace50a.aspx
 DTSTART:20261208T180000Z
 DTEND:20261208T190000Z
@@ -1182,13 +1198,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:986ee3ff-c1cd-404e-96c6-12fab45e0529
+UID:90491d88-f692-41b5-baa3-56efd064a648
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Subcommittee (PSC) - December 9, 2026
 CLASS:PUBLIC
-CREATED:20261023T111412Z
+CREATED:20261024T103226Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/280ad3c694614291a0ecc5ea8dce9fd8.aspx
 DTSTART:20261209T150000Z
 DTEND:20261209T210000Z
@@ -1198,13 +1214,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:ccb34720-f314-4660-b319-3073723b8127
+UID:f53f052a-0b8d-4214-8776-3cb967f3acaa
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:OMS Board of Directors - December 10, 2026
 CLASS:PUBLIC
-CREATED:20261023T111412Z
+CREATED:20261024T103227Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/7eb42359a6c64324bbdcb92f56cb2b42.aspx
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
@@ -1214,13 +1230,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:d016803a-46a4-45d8-a2bc-0e1bbded48c2
+UID:171ffbee-fdd6-42e5-9f0c-e6b4b8623286
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Planning Compliance Agreement Task Team (PCATT-Closed) - December 11, 2026
 CLASS:PUBLIC
-CREATED:20261023T111412Z
+CREATED:20261024T103227Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/a38cdfbf0db74d3db641ed7b3a024fd7.aspx
 DTSTART:20261211T150000Z
 DTEND:20261211T170000Z
@@ -1230,13 +1246,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:745d76a9-4637-4e2e-b0e4-5845732bf409
+UID:90be881a-9b0f-4ed0-a378-918a8932e06a
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Large Load Working Group (LLWG) - December 15, 2026
 CLASS:PUBLIC
-CREATED:20261023T111412Z
+CREATED:20261024T103227Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/6f7a8a2e3b724e7490b526ced9523653.aspx
 DTSTART:20261215T150000Z
 DTEND:20261215T210000Z
@@ -1246,13 +1262,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:c19770cc-f8b0-4616-9fb8-0896523e771c
+UID:52d74b5f-9d7c-4039-aba1-9ffe9043a9f1
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:OMS Executive Committee - December 17, 2026
 CLASS:PUBLIC
-CREATED:20261023T111412Z
+CREATED:20261024T103227Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/0915de9a6eb54e31be1e7f186a6a84a2.aspx
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
@@ -1262,13 +1278,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:6a290031-303d-4cae-a412-2c12a3aad7ab
+UID:4b77545c-040f-4096-8146-02681c605630
 LOCATION:Other 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:FERC Order 881 Coordination with Impacted Members Workshop Closed - December 18, 2026
 CLASS:PUBLIC
-CREATED:20261023T111413Z
+CREATED:20261024T103227Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/6f4bbcfa3d56457e958d16316473f183.aspx
 DTSTART:20261218T150000Z
 DTEND:20261218T163000Z
@@ -1278,13 +1294,13 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:849495a2-76be-4dcc-bdfa-8457194cd7d9
+UID:09a2cd92-d384-49fa-a6ce-8aeb0d8d1e73
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Holiday - Offices Closed
 CLASS:PUBLIC
-CREATED:20261023T111413Z
+CREATED:20261024T103227Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/e074771e05e9421c8e4641bc96bbda76.aspx
 DTSTART:20261224T130000Z
 DTEND:20261224T220000Z
@@ -1294,14 +1310,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:bfbfe81a-79d1-4356-81ba-151be7c8d047
+UID:9a6734a4-e0db-4bab-bc67-fcf376bf8c71
 LOCATION:Other 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Holiday - Offices Closed
 CLASS:PUBLIC
-CREATED:20261023T111413Z
+CREATED:20261024T103228Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/cb8db65032a94ed789600fe038f497fe.aspx
 DTSTART:20261225T130000Z
 DTEND:20261225T220000Z
@@ -1311,14 +1327,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:55ae6431-9c8c-47af-aaec-71c384581940
+UID:68f0cc7a-9252-4733-9234-6320f3613353
 LOCATION:Other 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:MISO Holiday - Office Closed
 CLASS:PUBLIC
-CREATED:20261023T111414Z
+CREATED:20261024T103228Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/d7e19a2fa692422286eac429904bdff4.aspx
 DTSTART:20270101T060000Z
 DTEND:20270102T045900Z
@@ -1328,14 +1344,14 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:ca1e02bc-c615-4a49-a7a9-c5b8636f63ed
+UID:9a0d0f1e-28dd-4332-91c3-beaf7299fd01
 LOCATION:Carmel, IN 
  - Room Other
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;LANGUAGE=en-us:Stakeholder Governance Working Group (SGWG) - January 4, 2027
 CLASS:PUBLIC
-CREATED:20261023T111414Z
+CREATED:20261024T103228Z
 DESCRIPTION: Adding this meeting to your calendar does not mean that you are registered. \nhttps://www.misoenergy.org/link/30d29804b68f4c7290f904c5d9cc0c86.aspx
 DTSTART:20270104T150000Z
 DTEND:20270104T170000Z
@@ -1345,7 +1361,7 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
-UID:7b994db1-1557-4f6a-b8d6-b346b02dae11
+UID:165c6ca7-a284-4692-bff9-9723f58d00ed
 LOCATION:Conference Call/WebEx Only 
 END:VEVENT
 END:VCALENDAR
